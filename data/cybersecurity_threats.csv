@@ -1,0 +1,1666 @@
+Country,Year,Attack Type,Target Industry,Attack Source,Financial Loss (Millions),Number of Affected Users,Incident Resolution Time (Hours),Security Vulnerability Type,Defense Mechanism Used
+Royaume-Uni,2015,Malware,Finance,Insider,10.76,56470,143.7,Mots de passe faibles,EDR
+Russie,2015,Man-in-the-Middle,Santé,Groupe de hackers,4.43,12,7.2,Absence de chiffrement,EDR
+Chine,2015,Injection SQL,Défense,Inconnu,18.82,43180,104.9,Mots de passe faibles,Analyse forensique
+Chine,2015,Man-in-the-Middle,Gouvernement,Hacktivistes,3.84,53,64.6,API non sécurisée,Formation et sensibilisation
+France,2015,Zero-Day,Technologie,Nation-État,472.43,1122,243.6,Accès non autorisé,Chiffrement
+États-Unis,2015,Man-in-the-Middle,Finance,Groupe de hackers,20.85,247,88.6,Vulnérabilité zero-day,SIEM
+États-Unis,2015,Injection SQL,Gouvernement,Nation-État,10.16,490861,110.2,API non sécurisée,EDR
+Turquie,2015,Phishing,Gouvernement,Inconnu,11.60,1192353,83.3,Vulnérabilité zero-day,Chiffrement
+Israël,2015,Malware,Énergie,Cybercriminels,4.66,903,75.0,Ingénierie sociale,Pare-feu
+Mexique,2015,DDoS,Énergie,Cybercriminels,21.56,2662,148.5,Vulnérabilité zero-day,Sauvegarde et restauration
+Japon,2015,Injection SQL,Santé,Cybercriminels,37.35,90675,86.6,API non sécurisée,Pare-feu
+Suède,2015,Malware,Santé,Cybercriminels,5.33,3351403,80.5,Accès non autorisé,Segmentation réseau
+France,2015,Phishing,Gouvernement,Cybercriminels,11.16,4534,25.6,Absence de chiffrement,Chiffrement
+Inde,2015,Ransomware,Éducation,Groupe de hackers,10.60,796012,89.4,Logiciels non patchés,Sauvegarde et restauration
+Russie,2015,Malware,Commerce,Groupe de hackers,35.55,792,31.8,Absence de chiffrement,EDR
+Canada,2015,Zero-Day,Commerce,Cybercriminels,30.41,2376,146.6,Vulnérabilité zero-day,Sauvegarde et restauration
+Inde,2015,Spear Phishing,Télécommunications,Groupe de hackers,16.06,63924,149.2,Accès non autorisé,Pare-feu
+Colombie,2015,Zero-Day,Technologie,Groupe de hackers,21.49,291600,476.7,Ingénierie sociale,Sauvegarde et restauration
+Japon,2015,DDoS,Défense,Cybercriminels,27.84,1124357,157.4,Vulnérabilité zero-day,IDS/IPS
+Canada,2015,Ransomware,Finance,Groupe de hackers,148.75,645,655.0,Absence de chiffrement,EDR
+Égypte,2015,Phishing,Santé,Cybercriminels,36.07,149,42.3,Logiciels non patchés,SIEM
+Brésil,2015,Zero-Day,Gouvernement,Cybercriminels,428.10,5878966,112.3,API non sécurisée,Segmentation réseau
+Brésil,2015,Phishing,Défense,Cybercriminels,14.68,8063,108.7,Mauvaise configuration,IDS/IPS
+Malaisie,2015,Malware,Énergie,Insider,67.28,5387938,150.3,Mauvaise configuration,Pare-feu
+Chine,2015,Phishing,Télécommunications,Groupe de hackers,30.09,1753132,25.8,API non sécurisée,Formation et sensibilisation
+Italie,2015,Injection SQL,Commerce,Cybercriminels,24.00,7038968,21.0,Mots de passe faibles,IDS/IPS
+Italie,2015,Injection SQL,Télécommunications,Cybercriminels,5.17,38124,152.9,Vulnérabilité zero-day,Pare-feu
+États-Unis,2015,Phishing,Énergie,Cybercriminels,34.52,784723,69.4,Vulnérabilité zero-day,Sauvegarde et restauration
+France,2015,Malware,Gouvernement,Insider,33.46,344250,110.3,Mots de passe faibles,Chiffrement
+Brésil,2015,Malware,Transport,Cybercriminels,23.02,31196,103.6,API non sécurisée,Pare-feu
+États-Unis,2015,Phishing,Commerce,Nation-État,35.54,76531,54.4,Vulnérabilité zero-day,IDS/IPS
+États-Unis,2015,Spear Phishing,Technologie,Nation-État,22.67,6206,31.2,Accès non autorisé,Pare-feu
+Italie,2015,Spear Phishing,Santé,Nation-État,99.54,1136,91.5,Ingénierie sociale,Segmentation réseau
+Australie,2015,Phishing,Défense,Cybercriminels,18.20,9748,164.7,API non sécurisée,SIEM
+Pologne,2015,Ransomware,Finance,Inconnu,108.53,178,691.3,Vulnérabilité zero-day,Sauvegarde et restauration
+Russie,2015,DDoS,Éducation,Cybercriminels,6.59,1042,165.4,Absence de chiffrement,Sauvegarde et restauration
+Russie,2015,DDoS,Gouvernement,Cybercriminels,16.86,160758,142.5,Logiciels non patchés,Pare-feu
+Espagne,2015,Spear Phishing,Santé,Groupe de hackers,4.77,685,54.0,API non sécurisée,Formation et sensibilisation
+Canada,2015,Phishing,Commerce,Insider,3.40,33222,144.3,Mauvaise configuration,Formation et sensibilisation
+Israël,2015,Spear Phishing,Finance,Nation-État,44.80,26628,111.1,Mauvaise configuration,Authentification multifacteur
+États-Unis,2015,DDoS,Santé,Inconnu,6.12,503158,42.7,Ingénierie sociale,Authentification multifacteur
+Chine,2015,Malware,Gouvernement,Groupe de hackers,55.12,2264,8.1,API non sécurisée,Formation et sensibilisation
+France,2015,Malware,Finance,Inconnu,77.09,5633,92.5,Mauvaise configuration,EDR
+Corée du Sud,2015,Spear Phishing,Gouvernement,Inconnu,13.54,99,166.9,Absence de chiffrement,SIEM
+Inde,2015,Phishing,Technologie,Cybercriminels,26.74,635,105.5,Absence de chiffrement,Chiffrement
+Égypte,2015,Injection SQL,Finance,Hacktivistes,21.71,2513317,3.2,Logiciels non patchés,Chiffrement
+Israël,2015,Man-in-the-Middle,Santé,Cybercriminels,11.29,2118,8.8,Mauvaise configuration,Authentification multifacteur
+Chine,2015,Ransomware,Commerce,Cybercriminels,93.04,703,244.4,Ingénierie sociale,Formation et sensibilisation
+Indonésie,2015,Spear Phishing,Commerce,Hacktivistes,37.53,124,65.2,Mots de passe faibles,Chiffrement
+États-Unis,2015,DDoS,Santé,Cybercriminels,2.97,2946,75.6,API non sécurisée,Formation et sensibilisation
+Russie,2015,Malware,Gouvernement,Cybercriminels,20.15,8888,113.7,API non sécurisée,Analyse forensique
+Inde,2015,Man-in-the-Middle,Commerce,Groupe de hackers,8.49,279,41.4,Absence de chiffrement,IDS/IPS
+Royaume-Uni,2015,Phishing,Santé,Groupe de hackers,21.25,20338,56.6,Ingénierie sociale,Analyse forensique
+Japon,2015,Malware,Santé,Groupe de hackers,67.90,5798932,108.0,Mauvaise configuration,IDS/IPS
+Italie,2015,Phishing,Commerce,Nation-État,43.35,1879645,8.1,Mots de passe faibles,IDS/IPS
+États-Unis,2015,Malware,Gouvernement,Insider,53.49,47505,159.8,Vulnérabilité zero-day,Segmentation réseau
+Allemagne,2015,Spear Phishing,Commerce,Cybercriminels,17.74,68384,35.9,Logiciels non patchés,Authentification multifacteur
+Pays-Bas,2015,Phishing,Finance,Groupe de hackers,23.72,118434,148.0,Logiciels non patchés,Sauvegarde et restauration
+Japon,2015,Spear Phishing,Gouvernement,Nation-État,77.73,24,40.9,Accès non autorisé,Authentification multifacteur
+Allemagne,2015,Spear Phishing,Gouvernement,Cybercriminels,88.99,65356,87.3,Logiciels non patchés,Sauvegarde et restauration
+Corée du Sud,2015,DDoS,Commerce,Nation-État,28.54,1088,158.9,Ingénierie sociale,EDR
+Corée du Sud,2015,Malware,Technologie,Insider,67.99,106336,50.0,Ingénierie sociale,Authentification multifacteur
+Mexique,2015,Injection SQL,Télécommunications,Inconnu,16.07,1567,75.6,Accès non autorisé,EDR
+Japon,2015,Malware,Technologie,Inconnu,18.65,773261,164.1,Ingénierie sociale,Chiffrement
+États-Unis,2015,Injection SQL,Finance,Hacktivistes,32.14,51687,10.7,API non sécurisée,EDR
+Allemagne,2015,Phishing,Technologie,Groupe de hackers,42.74,79206,19.5,Accès non autorisé,IDS/IPS
+Australie,2015,Phishing,Technologie,Cybercriminels,15.61,294189,18.1,Ingénierie sociale,Chiffrement
+Mexique,2015,Injection SQL,Éducation,Groupe de hackers,13.53,17109,15.2,Logiciels non patchés,Formation et sensibilisation
+Singapour,2015,Man-in-the-Middle,Commerce,Groupe de hackers,12.01,151001,99.8,Absence de chiffrement,Sauvegarde et restauration
+Royaume-Uni,2015,Injection SQL,Finance,Nation-État,29.00,2907,40.7,Mauvaise configuration,Formation et sensibilisation
+États-Unis,2015,Phishing,Gouvernement,Nation-État,1.87,13111,29.2,Accès non autorisé,Authentification multifacteur
+Allemagne,2015,Malware,Santé,Insider,40.31,18965,59.9,Vulnérabilité zero-day,SIEM
+Chine,2015,Malware,Technologie,Cybercriminels,10.01,914634,158.2,Ingénierie sociale,Analyse forensique
+États-Unis,2015,Malware,Technologie,Hacktivistes,11.73,218511,81.7,Ingénierie sociale,Authentification multifacteur
+Australie,2015,DDoS,Énergie,Hacktivistes,23.75,2067,139.9,Vulnérabilité zero-day,Formation et sensibilisation
+Iran,2015,Malware,Énergie,Cybercriminels,18.49,3922,7.4,Accès non autorisé,Analyse forensique
+Allemagne,2015,Spear Phishing,Finance,Groupe de hackers,62.30,36234,33.6,Absence de chiffrement,Pare-feu
+Royaume-Uni,2015,Malware,Finance,Inconnu,65.35,455320,86.2,Mots de passe faibles,IDS/IPS
+États-Unis,2015,Ransomware,Santé,Groupe de hackers,134.81,1232,99.4,Accès non autorisé,Chiffrement
+Inde,2015,Spear Phishing,Santé,Groupe de hackers,81.73,14,135.6,API non sécurisée,Analyse forensique
+Japon,2016,Zero-Day,Défense,Cybercriminels,44.17,37933,99.1,Accès non autorisé,Analyse forensique
+Mexique,2016,Phishing,Éducation,Cybercriminels,20.24,7337,25.2,API non sécurisée,Authentification multifacteur
+Ukraine,2016,Malware,Commerce,Nation-État,72.77,369453,148.6,Mauvaise configuration,Chiffrement
+Ukraine,2016,Malware,Télécommunications,Cybercriminels,37.22,2914630,36.3,Absence de chiffrement,EDR
+Ukraine,2016,Ransomware,Télécommunications,Hacktivistes,198.04,97523,535.4,API non sécurisée,Sauvegarde et restauration
+États-Unis,2016,Phishing,Finance,Inconnu,56.82,4358533,10.4,Mauvaise configuration,IDS/IPS
+Colombie,2016,Spear Phishing,Technologie,Nation-État,1.64,2133,37.6,Vulnérabilité zero-day,Formation et sensibilisation
+Chine,2016,DDoS,Énergie,Inconnu,7.69,264553,120.6,Vulnérabilité zero-day,Pare-feu
+Turquie,2016,Injection SQL,Santé,Cybercriminels,23.89,29302,133.4,Accès non autorisé,Pare-feu
+Russie,2016,Malware,Transport,Cybercriminels,64.00,2688,100.9,Logiciels non patchés,Analyse forensique
+Russie,2016,Phishing,Gouvernement,Groupe de hackers,19.29,1005,124.7,Mauvaise configuration,EDR
+France,2016,DDoS,Finance,Nation-État,23.55,1483,81.4,API non sécurisée,Pare-feu
+Royaume-Uni,2016,Phishing,Santé,Insider,11.96,47749,21.4,Mauvaise configuration,Formation et sensibilisation
+Italie,2016,Phishing,Finance,Nation-État,37.76,306560,51.2,Vulnérabilité zero-day,Analyse forensique
+Israël,2016,Malware,Finance,Hacktivistes,91.97,199634,10.5,Accès non autorisé,Formation et sensibilisation
+Israël,2016,Spear Phishing,Commerce,Nation-État,13.66,266,54.3,Ingénierie sociale,Pare-feu
+États-Unis,2016,Spear Phishing,Finance,Cybercriminels,89.79,17624,139.6,Logiciels non patchés,Segmentation réseau
+Russie,2016,Man-in-the-Middle,Éducation,Insider,10.46,168333,83.5,Mots de passe faibles,Pare-feu
+Colombie,2016,Zero-Day,Finance,Insider,343.40,3015037,415.6,Mauvaise configuration,Formation et sensibilisation
+Colombie,2016,Ransomware,Technologie,Nation-État,204.98,11832,183.4,Mots de passe faibles,Pare-feu
+Inde,2016,DDoS,Technologie,Cybercriminels,5.48,3694,5.8,Ingénierie sociale,EDR
+Singapour,2016,Phishing,Énergie,Groupe de hackers,15.25,15654,142.0,Ingénierie sociale,Sauvegarde et restauration
+Espagne,2016,Man-in-the-Middle,Commerce,Inconnu,28.54,53,13.6,Ingénierie sociale,Authentification multifacteur
+Indonésie,2016,Injection SQL,Télécommunications,Hacktivistes,14.99,1517941,66.6,Mauvaise configuration,Formation et sensibilisation
+Indonésie,2016,Phishing,Gouvernement,Insider,17.52,466,107.8,Logiciels non patchés,Segmentation réseau
+Mexique,2016,Zero-Day,Gouvernement,Inconnu,159.71,1156,419.3,Absence de chiffrement,Segmentation réseau
+Pays-Bas,2016,Zero-Day,Énergie,Inconnu,446.09,312,271.0,Ingénierie sociale,Analyse forensique
+Allemagne,2016,Injection SQL,Gouvernement,Groupe de hackers,39.76,1504,110.5,Vulnérabilité zero-day,Pare-feu
+Inde,2016,Injection SQL,Technologie,Cybercriminels,8.40,238648,51.1,Absence de chiffrement,Segmentation réseau
+France,2016,Malware,Énergie,Groupe de hackers,65.25,22444,43.1,Mots de passe faibles,Authentification multifacteur
+Pays-Bas,2016,Malware,Technologie,Insider,42.11,283687,39.3,Absence de chiffrement,Pare-feu
+Canada,2016,Spear Phishing,Finance,Groupe de hackers,22.69,135,85.3,Absence de chiffrement,EDR
+France,2016,DDoS,Télécommunications,Inconnu,22.53,2689,161.3,Mauvaise configuration,Authentification multifacteur
+Corée du Sud,2016,Malware,Gouvernement,Nation-État,1.20,41135,71.4,API non sécurisée,SIEM
+Japon,2016,Spear Phishing,Défense,Cybercriminels,7.71,7509,100.6,Accès non autorisé,IDS/IPS
+Afrique du Sud,2016,Ransomware,Technologie,Insider,90.17,4957,457.4,Absence de chiffrement,Pare-feu
+Mexique,2016,Malware,Énergie,Groupe de hackers,32.01,943631,131.8,API non sécurisée,Sauvegarde et restauration
+États-Unis,2016,Ransomware,Télécommunications,Inconnu,209.92,58970,617.6,Vulnérabilité zero-day,Authentification multifacteur
+Russie,2016,Injection SQL,Gouvernement,Cybercriminels,31.41,9122625,134.5,Vulnérabilité zero-day,SIEM
+États-Unis,2016,Man-in-the-Middle,Technologie,Cybercriminels,18.95,34,157.9,Ingénierie sociale,SIEM
+Royaume-Uni,2016,DDoS,Santé,Nation-État,31.65,135073,100.9,API non sécurisée,IDS/IPS
+Nigeria,2016,Spear Phishing,Éducation,Nation-État,105.55,275,19.5,API non sécurisée,Formation et sensibilisation
+Arabie Saoudite,2016,Malware,Défense,Cybercriminels,54.75,1712,69.4,Logiciels non patchés,SIEM
+Royaume-Uni,2016,Spear Phishing,Télécommunications,Groupe de hackers,103.69,228,117.8,API non sécurisée,EDR
+Iran,2016,Phishing,Énergie,Hacktivistes,55.62,40249,49.3,Absence de chiffrement,Analyse forensique
+Chine,2016,Malware,Santé,Insider,36.55,114845,162.6,Logiciels non patchés,Pare-feu
+Corée du Sud,2016,Man-in-the-Middle,Technologie,Nation-État,27.07,282,58.9,Mauvaise configuration,Pare-feu
+Russie,2016,Phishing,Finance,Cybercriminels,51.83,1505141,10.4,Ingénierie sociale,IDS/IPS
+Nigeria,2016,Man-in-the-Middle,Technologie,Nation-État,14.54,1721,123.4,API non sécurisée,Pare-feu
+Turquie,2016,Injection SQL,Santé,Hacktivistes,20.47,12289161,56.1,Absence de chiffrement,Segmentation réseau
+Mexique,2016,Phishing,Santé,Nation-État,10.90,33234,36.0,Logiciels non patchés,Segmentation réseau
+Chine,2016,Phishing,Technologie,Cybercriminels,56.96,3691714,22.4,Logiciels non patchés,SIEM
+Mexique,2016,DDoS,Éducation,Groupe de hackers,3.09,2190,18.6,Accès non autorisé,EDR
+France,2016,Phishing,Technologie,Insider,18.88,375,98.2,Mauvaise configuration,EDR
+Suède,2016,Phishing,Santé,Groupe de hackers,16.10,2371,89.7,Accès non autorisé,SIEM
+Russie,2016,Phishing,Gouvernement,Nation-État,53.03,981785,136.2,Accès non autorisé,Sauvegarde et restauration
+Inde,2016,Man-in-the-Middle,Transport,Groupe de hackers,7.78,548,146.4,API non sécurisée,Formation et sensibilisation
+Suède,2016,DDoS,Gouvernement,Groupe de hackers,26.33,1702789,66.5,Vulnérabilité zero-day,Analyse forensique
+Russie,2016,Zero-Day,Énergie,Insider,378.69,26143,51.3,API non sécurisée,Sauvegarde et restauration
+Corée du Sud,2016,Ransomware,Gouvernement,Cybercriminels,211.12,33359,671.6,API non sécurisée,Sauvegarde et restauration
+Inde,2016,Injection SQL,Défense,Nation-État,23.85,151831,108.8,API non sécurisée,EDR
+Chine,2016,Malware,Commerce,Nation-État,65.32,35662,49.0,Mots de passe faibles,Segmentation réseau
+Italie,2016,Man-in-the-Middle,Commerce,Cybercriminels,20.47,4800,72.1,API non sécurisée,IDS/IPS
+États-Unis,2016,Malware,Santé,Nation-État,34.81,5987680,153.3,Absence de chiffrement,SIEM
+Royaume-Uni,2016,Spear Phishing,Finance,Inconnu,3.39,5952,74.2,Accès non autorisé,Analyse forensique
+Chine,2016,Spear Phishing,Finance,Groupe de hackers,101.04,7002,66.1,Logiciels non patchés,IDS/IPS
+Chine,2016,Man-in-the-Middle,Télécommunications,Groupe de hackers,22.49,47,17.4,Logiciels non patchés,Analyse forensique
+Ukraine,2016,Malware,Transport,Groupe de hackers,41.51,635,93.4,Accès non autorisé,Analyse forensique
+Singapour,2016,Man-in-the-Middle,Gouvernement,Groupe de hackers,1.40,2376,62.3,API non sécurisée,Pare-feu
+Canada,2016,Man-in-the-Middle,Éducation,Cybercriminels,22.76,90178,6.8,Absence de chiffrement,Segmentation réseau
+Canada,2016,Injection SQL,Gouvernement,Cybercriminels,22.27,13496840,69.2,Absence de chiffrement,EDR
+Égypte,2016,Injection SQL,Finance,Cybercriminels,31.09,8192534,58.9,Mauvaise configuration,IDS/IPS
+Russie,2016,Malware,Technologie,Cybercriminels,18.96,149308,145.7,Ingénierie sociale,Authentification multifacteur
+Inde,2016,Injection SQL,Défense,Nation-État,39.00,1475,47.3,Ingénierie sociale,SIEM
+France,2016,Zero-Day,Éducation,Insider,480.37,18871,161.5,Vulnérabilité zero-day,Pare-feu
+Italie,2016,Zero-Day,Finance,Nation-État,384.08,2379263,344.7,Accès non autorisé,Pare-feu
+États-Unis,2016,Phishing,Éducation,Groupe de hackers,22.37,714890,65.4,Mauvaise configuration,Segmentation réseau
+Corée du Sud,2016,DDoS,Finance,Cybercriminels,33.04,159919,113.0,Accès non autorisé,EDR
+Russie,2016,DDoS,Énergie,Cybercriminels,22.02,3238,104.5,Vulnérabilité zero-day,Sauvegarde et restauration
+Royaume-Uni,2016,DDoS,Gouvernement,Cybercriminels,12.27,333966,19.6,Accès non autorisé,Formation et sensibilisation
+Israël,2016,Malware,Commerce,Cybercriminels,27.30,7121,43.8,Vulnérabilité zero-day,Pare-feu
+Malaisie,2016,DDoS,Télécommunications,Insider,7.13,4438176,138.4,API non sécurisée,IDS/IPS
+Canada,2016,Malware,Télécommunications,Nation-État,46.96,97136,123.9,Absence de chiffrement,Pare-feu
+Japon,2016,Phishing,Finance,Insider,30.09,79367,65.3,Vulnérabilité zero-day,Pare-feu
+Suède,2016,Malware,Commerce,Cybercriminels,67.65,1333,84.8,API non sécurisée,Chiffrement
+États-Unis,2016,Injection SQL,Gouvernement,Cybercriminels,5.42,464802,105.2,Vulnérabilité zero-day,SIEM
+Corée du Sud,2016,Malware,Santé,Groupe de hackers,25.46,3180664,129.5,Absence de chiffrement,Segmentation réseau
+Turquie,2016,Man-in-the-Middle,Télécommunications,Nation-État,10.63,92,150.2,Mots de passe faibles,Analyse forensique
+Turquie,2016,Ransomware,Gouvernement,Groupe de hackers,83.03,812,499.7,Mots de passe faibles,Analyse forensique
+Italie,2016,Spear Phishing,Santé,Groupe de hackers,92.06,12,99.6,Logiciels non patchés,Sauvegarde et restauration
+Mexique,2016,Malware,Télécommunications,Cybercriminels,78.40,3516857,40.7,Mauvaise configuration,Formation et sensibilisation
+Australie,2016,Injection SQL,Finance,Cybercriminels,8.14,5683651,99.4,Mots de passe faibles,Formation et sensibilisation
+Singapour,2016,Malware,Télécommunications,Cybercriminels,87.98,83759,155.8,Absence de chiffrement,Segmentation réseau
+États-Unis,2016,Malware,Télécommunications,Insider,41.21,2730749,126.3,Ingénierie sociale,Authentification multifacteur
+Inde,2016,DDoS,Énergie,Groupe de hackers,22.48,2179716,47.6,Accès non autorisé,Formation et sensibilisation
+Russie,2017,Injection SQL,Télécommunications,Hacktivistes,50.39,290300,110.7,Mots de passe faibles,Chiffrement
+Mexique,2017,DDoS,Énergie,Groupe de hackers,35.62,5701096,111.9,Logiciels non patchés,IDS/IPS
+Malaisie,2017,Injection SQL,Finance,Insider,51.19,2083230,55.1,Absence de chiffrement,Pare-feu
+Canada,2017,Ransomware,Technologie,Hacktivistes,151.78,20749,361.5,API non sécurisée,Authentification multifacteur
+Chine,2017,DDoS,Commerce,Groupe de hackers,38.51,64239,115.4,Ingénierie sociale,IDS/IPS
+Turquie,2017,Man-in-the-Middle,Télécommunications,Inconnu,22.58,35487,90.1,Mauvaise configuration,Formation et sensibilisation
+États-Unis,2017,Injection SQL,Finance,Groupe de hackers,14.60,2383715,50.3,Accès non autorisé,IDS/IPS
+France,2017,Malware,Technologie,Inconnu,36.44,1523,135.9,Ingénierie sociale,Segmentation réseau
+Mexique,2017,DDoS,Transport,Cybercriminels,34.45,578238,91.9,Logiciels non patchés,SIEM
+Corée du Sud,2017,Phishing,Éducation,Inconnu,55.41,240,53.9,Ingénierie sociale,IDS/IPS
+France,2017,Ransomware,Télécommunications,Cybercriminels,214.48,51,411.5,Ingénierie sociale,Pare-feu
+Australie,2017,Phishing,Gouvernement,Hacktivistes,31.55,557935,89.0,Logiciels non patchés,IDS/IPS
+Corée du Sud,2017,Phishing,Transport,Nation-État,37.63,604170,45.0,Mots de passe faibles,IDS/IPS
+Iran,2017,Phishing,Finance,Cybercriminels,10.47,239,160.9,API non sécurisée,SIEM
+États-Unis,2017,Malware,Technologie,Hacktivistes,75.99,34244,114.0,Accès non autorisé,Formation et sensibilisation
+Russie,2017,Malware,Finance,Insider,29.20,377465,12.3,Mots de passe faibles,EDR
+Russie,2017,Phishing,Gouvernement,Nation-État,32.90,727,7.0,Mots de passe faibles,Authentification multifacteur
+Allemagne,2017,Ransomware,Commerce,Cybercriminels,194.91,2898,553.3,Vulnérabilité zero-day,EDR
+Israël,2017,Injection SQL,Technologie,Cybercriminels,47.24,71642,131.2,Logiciels non patchés,Pare-feu
+Mexique,2017,Phishing,Énergie,Nation-État,8.95,1117,165.0,API non sécurisée,Sauvegarde et restauration
+Corée du Sud,2017,Zero-Day,Santé,Nation-État,286.92,633774,202.1,Vulnérabilité zero-day,Chiffrement
+États-Unis,2017,Spear Phishing,Gouvernement,Hacktivistes,112.27,11050,108.3,Vulnérabilité zero-day,SIEM
+Inde,2017,Malware,Énergie,Hacktivistes,96.90,609246,13.8,API non sécurisée,Analyse forensique
+Ukraine,2017,Man-in-the-Middle,Télécommunications,Nation-État,19.99,6708,11.9,Mauvaise configuration,Authentification multifacteur
+France,2017,Ransomware,Finance,Inconnu,37.70,3638,385.5,Absence de chiffrement,Pare-feu
+Russie,2017,Injection SQL,Gouvernement,Cybercriminels,21.94,8877430,143.1,Absence de chiffrement,Analyse forensique
+États-Unis,2017,Malware,Défense,Nation-État,14.28,3955831,68.9,API non sécurisée,EDR
+Royaume-Uni,2017,Malware,Santé,Groupe de hackers,60.97,90876,74.5,Vulnérabilité zero-day,SIEM
+Israël,2017,Ransomware,Éducation,Insider,149.84,3396,289.5,Logiciels non patchés,EDR
+Singapour,2017,Malware,Transport,Cybercriminels,20.17,86636,99.6,Logiciels non patchés,EDR
+Allemagne,2017,Malware,Technologie,Groupe de hackers,49.49,342355,27.7,Mots de passe faibles,EDR
+Canada,2017,Spear Phishing,Technologie,Groupe de hackers,34.97,23,19.4,Mauvaise configuration,EDR
+France,2017,Man-in-the-Middle,Transport,Groupe de hackers,3.41,37,110.8,Vulnérabilité zero-day,Authentification multifacteur
+Royaume-Uni,2017,Ransomware,Finance,Cybercriminels,192.73,25446,289.0,Absence de chiffrement,Formation et sensibilisation
+Nigeria,2017,Malware,Défense,Hacktivistes,5.76,703664,18.1,Mauvaise configuration,Authentification multifacteur
+Australie,2017,Phishing,Technologie,Hacktivistes,59.59,532,24.7,Mauvaise configuration,Authentification multifacteur
+Japon,2017,Malware,Finance,Nation-État,102.14,5690,130.5,Logiciels non patchés,Segmentation réseau
+Nigeria,2017,Phishing,Santé,Nation-État,9.94,806010,137.7,Logiciels non patchés,Sauvegarde et restauration
+Indonésie,2017,Zero-Day,Technologie,Cybercriminels,271.90,1052394,73.1,Logiciels non patchés,Segmentation réseau
+Suède,2017,Man-in-the-Middle,Commerce,Inconnu,11.69,5171,147.1,Accès non autorisé,Segmentation réseau
+Pays-Bas,2017,Phishing,Technologie,Groupe de hackers,39.37,18050,104.0,Accès non autorisé,Analyse forensique
+États-Unis,2017,Phishing,Technologie,Hacktivistes,51.65,2322,36.0,Logiciels non patchés,Chiffrement
+Russie,2017,Phishing,Gouvernement,Hacktivistes,23.73,2217576,150.6,Accès non autorisé,IDS/IPS
+Italie,2017,Spear Phishing,Défense,Hacktivistes,8.35,46668,154.8,Accès non autorisé,IDS/IPS
+Pays-Bas,2017,Ransomware,Technologie,Cybercriminels,162.24,8715,265.4,Logiciels non patchés,Formation et sensibilisation
+Japon,2017,Phishing,Gouvernement,Cybercriminels,56.68,11050,49.1,API non sécurisée,Pare-feu
+Chine,2017,Ransomware,Gouvernement,Cybercriminels,114.15,200,446.9,Absence de chiffrement,EDR
+France,2017,Zero-Day,Gouvernement,Groupe de hackers,543.40,4158255,274.5,Vulnérabilité zero-day,IDS/IPS
+Royaume-Uni,2017,Malware,Énergie,Groupe de hackers,23.83,933017,59.1,API non sécurisée,EDR
+Chine,2017,Ransomware,Télécommunications,Groupe de hackers,6.98,805,711.8,API non sécurisée,Chiffrement
+Royaume-Uni,2017,Man-in-the-Middle,Gouvernement,Inconnu,18.35,4107,38.8,Logiciels non patchés,EDR
+Russie,2017,Malware,Énergie,Hacktivistes,91.96,543454,64.2,Mauvaise configuration,Sauvegarde et restauration
+Australie,2017,Spear Phishing,Énergie,Nation-État,6.04,44087,109.8,API non sécurisée,IDS/IPS
+États-Unis,2017,Ransomware,Santé,Insider,241.92,992,445.9,Logiciels non patchés,Authentification multifacteur
+Italie,2017,Spear Phishing,Éducation,Nation-État,48.20,64420,35.0,Absence de chiffrement,Chiffrement
+États-Unis,2017,Man-in-the-Middle,Santé,Hacktivistes,3.22,19,30.0,Vulnérabilité zero-day,Segmentation réseau
+Inde,2017,Spear Phishing,Énergie,Inconnu,83.11,74257,8.6,Mots de passe faibles,Chiffrement
+Inde,2017,Malware,Défense,Insider,42.16,1244975,139.8,Ingénierie sociale,Segmentation réseau
+Corée du Sud,2017,Ransomware,Technologie,Cybercriminels,212.07,6649,555.7,Mauvaise configuration,Chiffrement
+Afrique du Sud,2017,Man-in-the-Middle,Technologie,Insider,31.55,603,41.0,Mauvaise configuration,Segmentation réseau
+Chine,2017,Injection SQL,Défense,Nation-État,44.16,4695,59.7,Ingénierie sociale,SIEM
+Inde,2017,Man-in-the-Middle,Finance,Inconnu,9.64,30619,45.7,Accès non autorisé,Authentification multifacteur
+Allemagne,2017,Malware,Gouvernement,Cybercriminels,42.57,83211,140.7,Vulnérabilité zero-day,SIEM
+Nigeria,2017,Zero-Day,Éducation,Nation-État,62.19,69673,323.9,Logiciels non patchés,EDR
+Russie,2017,Ransomware,Éducation,Groupe de hackers,69.05,82108,97.9,Mauvaise configuration,Chiffrement
+Égypte,2017,DDoS,Technologie,Inconnu,9.81,347693,14.6,Accès non autorisé,Authentification multifacteur
+Australie,2017,Malware,Transport,Cybercriminels,27.27,5544,92.9,Vulnérabilité zero-day,EDR
+Ukraine,2017,Phishing,Finance,Groupe de hackers,52.24,51811,44.8,Mauvaise configuration,Pare-feu
+États-Unis,2017,Man-in-the-Middle,Télécommunications,Nation-État,24.09,5378,14.4,Logiciels non patchés,Sauvegarde et restauration
+Afrique du Sud,2017,Zero-Day,Commerce,Cybercriminels,336.53,1264938,334.8,Absence de chiffrement,Authentification multifacteur
+Royaume-Uni,2017,Injection SQL,Commerce,Nation-État,5.93,3350804,135.6,Mots de passe faibles,SIEM
+Russie,2017,DDoS,Finance,Inconnu,3.14,261001,123.3,Mots de passe faibles,Sauvegarde et restauration
+Colombie,2017,Injection SQL,Éducation,Nation-État,41.49,5506,25.2,Accès non autorisé,IDS/IPS
+Suède,2017,Injection SQL,Finance,Insider,16.33,757059,79.6,Ingénierie sociale,SIEM
+États-Unis,2017,Spear Phishing,Finance,Cybercriminels,73.80,525,92.4,Absence de chiffrement,Chiffrement
+Russie,2017,Spear Phishing,Technologie,Cybercriminels,119.87,63553,135.7,Accès non autorisé,IDS/IPS
+Espagne,2017,Zero-Day,Santé,Inconnu,539.10,827637,451.7,Accès non autorisé,Chiffrement
+États-Unis,2017,Ransomware,Défense,Inconnu,78.55,47440,686.9,Accès non autorisé,SIEM
+Canada,2017,Phishing,Finance,Cybercriminels,31.09,10603,39.6,Logiciels non patchés,Sauvegarde et restauration
+Israël,2017,Malware,Santé,Groupe de hackers,7.72,162253,67.3,Ingénierie sociale,Sauvegarde et restauration
+États-Unis,2017,Malware,Technologie,Groupe de hackers,66.77,858913,158.8,API non sécurisée,Authentification multifacteur
+France,2017,Malware,Technologie,Cybercriminels,83.54,1319,83.3,Ingénierie sociale,Chiffrement
+Russie,2017,Man-in-the-Middle,Transport,Nation-État,22.74,1116,78.7,Mots de passe faibles,Segmentation réseau
+États-Unis,2017,Malware,Télécommunications,Insider,20.11,1763037,47.6,Mauvaise configuration,Chiffrement
+Allemagne,2017,Injection SQL,Santé,Insider,21.20,351223,85.0,Logiciels non patchés,Chiffrement
+Chine,2017,DDoS,Technologie,Inconnu,25.33,60494,118.2,Mauvaise configuration,IDS/IPS
+Inde,2017,Ransomware,Finance,Cybercriminels,119.31,76,307.9,Logiciels non patchés,Pare-feu
+États-Unis,2017,Injection SQL,Gouvernement,Cybercriminels,25.93,4217,111.1,API non sécurisée,Chiffrement
+Japon,2017,Malware,Transport,Nation-État,87.68,2130,21.9,Accès non autorisé,Analyse forensique
+Chine,2017,Malware,Éducation,Insider,101.92,80127,122.9,Vulnérabilité zero-day,Pare-feu
+Égypte,2017,DDoS,Commerce,Cybercriminels,33.47,1251,150.4,Mots de passe faibles,Pare-feu
+Russie,2017,Malware,Technologie,Cybercriminels,37.18,4943142,130.8,Absence de chiffrement,SIEM
+Chine,2017,Malware,Défense,Nation-État,24.77,71524,60.2,Ingénierie sociale,Chiffrement
+Russie,2017,Ransomware,Gouvernement,Groupe de hackers,194.25,361,41.9,Mots de passe faibles,IDS/IPS
+Royaume-Uni,2017,Malware,Technologie,Groupe de hackers,45.54,10940,21.2,Mots de passe faibles,Formation et sensibilisation
+Turquie,2017,DDoS,Technologie,Inconnu,31.74,636961,152.9,Vulnérabilité zero-day,Segmentation réseau
+États-Unis,2017,Malware,Transport,Nation-État,10.84,1595,135.3,Mots de passe faibles,Authentification multifacteur
+Israël,2017,Zero-Day,Technologie,Hacktivistes,460.68,25142,59.1,Accès non autorisé,Pare-feu
+Singapour,2017,DDoS,Gouvernement,Cybercriminels,24.47,656611,88.5,Absence de chiffrement,SIEM
+Russie,2017,Ransomware,Télécommunications,Groupe de hackers,120.26,256502,453.8,Mots de passe faibles,SIEM
+Russie,2017,Malware,Technologie,Cybercriminels,49.66,250621,40.7,Mots de passe faibles,Pare-feu
+Israël,2017,DDoS,Finance,Groupe de hackers,37.34,12335,35.4,Accès non autorisé,Sauvegarde et restauration
+Canada,2017,Ransomware,Technologie,Inconnu,17.30,1384,517.4,Mauvaise configuration,Authentification multifacteur
+Inde,2017,Man-in-the-Middle,Gouvernement,Insider,20.41,13,118.4,Logiciels non patchés,IDS/IPS
+Corée du Sud,2017,Malware,Défense,Groupe de hackers,43.31,186308,151.1,Mots de passe faibles,Authentification multifacteur
+Pays-Bas,2017,Spear Phishing,Défense,Hacktivistes,32.59,4457,33.5,Absence de chiffrement,Chiffrement
+États-Unis,2017,Malware,Santé,Nation-État,28.76,21269,25.9,Mots de passe faibles,EDR
+Mexique,2017,DDoS,Commerce,Groupe de hackers,38.60,3281703,121.0,Logiciels non patchés,Analyse forensique
+Iran,2017,Injection SQL,Télécommunications,Cybercriminels,16.06,1810,119.9,Mauvaise configuration,SIEM
+Indonésie,2017,DDoS,Commerce,Hacktivistes,10.41,384711,59.5,API non sécurisée,Chiffrement
+Russie,2018,Phishing,Télécommunications,Groupe de hackers,39.53,2856036,11.5,Vulnérabilité zero-day,Analyse forensique
+Chine,2018,Man-in-the-Middle,Commerce,Inconnu,17.71,60870,140.1,Mauvaise configuration,Sauvegarde et restauration
+Allemagne,2018,Phishing,Éducation,Insider,49.96,146624,41.2,Vulnérabilité zero-day,SIEM
+Allemagne,2018,Malware,Télécommunications,Cybercriminels,16.00,149850,143.2,Logiciels non patchés,Chiffrement
+Japon,2018,Zero-Day,Énergie,Groupe de hackers,498.01,500816,379.0,Mots de passe faibles,Segmentation réseau
+Allemagne,2018,Phishing,Santé,Cybercriminels,18.55,125,107.9,Accès non autorisé,Formation et sensibilisation
+Brésil,2018,Malware,Finance,Cybercriminels,78.70,1070,13.4,Absence de chiffrement,Pare-feu
+États-Unis,2018,DDoS,Finance,Nation-État,3.50,2704,8.3,Accès non autorisé,Authentification multifacteur
+Allemagne,2018,Spear Phishing,Énergie,Nation-État,10.20,226,75.0,Mots de passe faibles,IDS/IPS
+Allemagne,2018,Zero-Day,Finance,Cybercriminels,301.07,160476,396.6,Accès non autorisé,Chiffrement
+États-Unis,2018,Injection SQL,Finance,Groupe de hackers,54.63,2486,86.3,Ingénierie sociale,Analyse forensique
+Royaume-Uni,2018,Phishing,Télécommunications,Nation-État,66.69,4221568,124.1,API non sécurisée,SIEM
+Turquie,2018,Phishing,Défense,Insider,47.37,2731270,40.0,API non sécurisée,Pare-feu
+Égypte,2018,Phishing,Énergie,Groupe de hackers,27.80,1923,33.0,Vulnérabilité zero-day,Segmentation réseau
+Canada,2018,Ransomware,Santé,Cybercriminels,270.48,461489,207.3,Accès non autorisé,Sauvegarde et restauration
+Royaume-Uni,2018,Zero-Day,Éducation,Groupe de hackers,287.74,15777,272.5,Accès non autorisé,Segmentation réseau
+Israël,2018,DDoS,Gouvernement,Hacktivistes,33.30,1698502,167.6,Mauvaise configuration,Chiffrement
+Canada,2018,Zero-Day,Finance,Cybercriminels,351.07,19675,272.4,Logiciels non patchés,EDR
+Arabie Saoudite,2018,Spear Phishing,Finance,Nation-État,100.47,212,93.1,Absence de chiffrement,Sauvegarde et restauration
+Mexique,2018,Malware,Santé,Groupe de hackers,112.44,248053,131.2,Mots de passe faibles,Formation et sensibilisation
+Chine,2018,Ransomware,Éducation,Nation-État,92.52,19296,193.8,Accès non autorisé,Pare-feu
+Australie,2018,Spear Phishing,Commerce,Groupe de hackers,110.39,2043,89.6,Vulnérabilité zero-day,SIEM
+Colombie,2018,DDoS,Éducation,Insider,40.21,1237,51.2,Accès non autorisé,IDS/IPS
+Russie,2018,DDoS,Technologie,Insider,16.51,103272,61.4,Accès non autorisé,Formation et sensibilisation
+Royaume-Uni,2018,Ransomware,Santé,Groupe de hackers,174.92,115,513.1,Ingénierie sociale,Analyse forensique
+France,2018,Phishing,Transport,Cybercriminels,22.02,33305,16.0,Mauvaise configuration,SIEM
+Canada,2018,Spear Phishing,Technologie,Hacktivistes,25.57,192,34.1,Ingénierie sociale,Formation et sensibilisation
+Canada,2018,Ransomware,Énergie,Cybercriminels,140.75,81431,172.8,Logiciels non patchés,EDR
+Turquie,2018,Ransomware,Commerce,Groupe de hackers,204.59,14010,358.1,Absence de chiffrement,Sauvegarde et restauration
+États-Unis,2018,Injection SQL,Finance,Hacktivistes,42.67,480151,14.1,Mauvaise configuration,IDS/IPS
+Royaume-Uni,2018,Phishing,Télécommunications,Cybercriminels,15.35,5119,80.4,Mots de passe faibles,Segmentation réseau
+Italie,2018,Spear Phishing,Défense,Cybercriminels,99.28,15,58.9,Vulnérabilité zero-day,Pare-feu
+Italie,2018,Phishing,Technologie,Groupe de hackers,45.14,23108,23.0,Mots de passe faibles,Sauvegarde et restauration
+Mexique,2018,Phishing,Éducation,Cybercriminels,13.18,57702,44.9,Vulnérabilité zero-day,Segmentation réseau
+Canada,2018,Ransomware,Défense,Hacktivistes,111.60,3499,334.1,Vulnérabilité zero-day,Analyse forensique
+Inde,2018,Ransomware,Gouvernement,Cybercriminels,3.77,130,105.6,Accès non autorisé,Segmentation réseau
+Russie,2018,Zero-Day,Commerce,Cybercriminels,381.02,5053339,465.1,Ingénierie sociale,Authentification multifacteur
+Chine,2018,Man-in-the-Middle,Commerce,Inconnu,2.39,16364,38.1,Logiciels non patchés,Sauvegarde et restauration
+Singapour,2018,Ransomware,Énergie,Cybercriminels,9.38,208800,395.2,Ingénierie sociale,Segmentation réseau
+Mexique,2018,DDoS,Santé,Cybercriminels,34.90,235217,99.3,Ingénierie sociale,Sauvegarde et restauration
+Colombie,2018,Malware,Transport,Inconnu,99.30,9466,161.2,Ingénierie sociale,Analyse forensique
+États-Unis,2018,Phishing,Santé,Groupe de hackers,43.01,375,19.0,Mots de passe faibles,Sauvegarde et restauration
+Nigeria,2018,Malware,Commerce,Hacktivistes,113.25,12568,162.2,Mots de passe faibles,IDS/IPS
+Pologne,2018,Phishing,Gouvernement,Groupe de hackers,3.90,100338,136.1,Mauvaise configuration,Formation et sensibilisation
+Espagne,2018,Spear Phishing,Éducation,Cybercriminels,56.42,26201,44.2,API non sécurisée,Sauvegarde et restauration
+États-Unis,2018,DDoS,Commerce,Groupe de hackers,26.75,18165,113.8,Absence de chiffrement,IDS/IPS
+Russie,2018,Malware,Télécommunications,Groupe de hackers,113.49,30959,74.1,Absence de chiffrement,SIEM
+Japon,2018,Phishing,Technologie,Cybercriminels,12.75,230284,66.4,Mauvaise configuration,SIEM
+Malaisie,2018,Malware,Technologie,Groupe de hackers,31.09,4025488,120.7,Mauvaise configuration,IDS/IPS
+Japon,2018,Phishing,Télécommunications,Nation-État,1.11,1722,150.8,Mots de passe faibles,Analyse forensique
+France,2018,Injection SQL,Télécommunications,Hacktivistes,43.32,9250570,74.3,Ingénierie sociale,Formation et sensibilisation
+Indonésie,2018,Zero-Day,Télécommunications,Cybercriminels,63.69,130972,152.0,Mauvaise configuration,Authentification multifacteur
+Italie,2018,Injection SQL,Éducation,Groupe de hackers,49.37,1286,54.0,Vulnérabilité zero-day,Sauvegarde et restauration
+Brésil,2018,Ransomware,Commerce,Cybercriminels,64.14,4670,550.3,API non sécurisée,Segmentation réseau
+Royaume-Uni,2018,Man-in-the-Middle,Télécommunications,Nation-État,3.29,45359,101.6,Ingénierie sociale,EDR
+Ukraine,2018,Malware,Finance,Hacktivistes,25.08,5874,79.5,Vulnérabilité zero-day,Analyse forensique
+Allemagne,2018,Ransomware,Technologie,Inconnu,271.91,20856,246.5,Logiciels non patchés,Pare-feu
+Chine,2018,Zero-Day,Télécommunications,Nation-État,258.05,11897643,383.9,Absence de chiffrement,Sauvegarde et restauration
+Mexique,2018,Malware,Télécommunications,Hacktivistes,36.73,177588,46.3,API non sécurisée,SIEM
+France,2018,Spear Phishing,Éducation,Groupe de hackers,4.64,367,36.3,Vulnérabilité zero-day,Chiffrement
+France,2018,Phishing,Santé,Cybercriminels,36.64,125438,41.9,Accès non autorisé,Chiffrement
+France,2018,Malware,Éducation,Groupe de hackers,8.29,111728,30.5,Mots de passe faibles,Analyse forensique
+Italie,2018,Ransomware,Technologie,Nation-État,33.35,3563,509.9,Vulnérabilité zero-day,EDR
+Corée du Sud,2018,DDoS,Santé,Insider,25.74,107941,29.9,Ingénierie sociale,IDS/IPS
+Chine,2018,Spear Phishing,Gouvernement,Inconnu,73.50,25124,156.8,Accès non autorisé,Authentification multifacteur
+Nigeria,2018,DDoS,Finance,Groupe de hackers,17.29,7297,131.4,Accès non autorisé,SIEM
+Ukraine,2018,Malware,Commerce,Nation-État,39.66,1266,88.1,Vulnérabilité zero-day,Analyse forensique
+Canada,2018,Phishing,Technologie,Cybercriminels,31.39,10826,96.0,Logiciels non patchés,Pare-feu
+Chine,2018,Phishing,Transport,Cybercriminels,10.79,6548,159.6,API non sécurisée,Authentification multifacteur
+Espagne,2018,Malware,Télécommunications,Inconnu,68.27,10561,92.8,Accès non autorisé,Authentification multifacteur
+Iran,2018,Phishing,Finance,Cybercriminels,5.90,15355,34.8,Mauvaise configuration,EDR
+Australie,2018,Malware,Santé,Hacktivistes,59.20,449249,134.8,Ingénierie sociale,IDS/IPS
+Chine,2018,Spear Phishing,Technologie,Cybercriminels,137.65,32,143.2,Mots de passe faibles,Segmentation réseau
+Allemagne,2018,Injection SQL,Santé,Groupe de hackers,24.02,5903,121.3,Absence de chiffrement,SIEM
+Canada,2018,Malware,Éducation,Cybercriminels,54.38,2219,157.6,Logiciels non patchés,IDS/IPS
+France,2018,Zero-Day,Gouvernement,Cybercriminels,355.45,1393823,127.0,Absence de chiffrement,SIEM
+Canada,2018,Phishing,Défense,Nation-État,33.26,5983,157.9,Mauvaise configuration,Pare-feu
+Australie,2018,Ransomware,Énergie,Inconnu,264.58,23345,107.0,Absence de chiffrement,Segmentation réseau
+Nigeria,2018,Spear Phishing,Finance,Inconnu,75.29,24593,129.8,Accès non autorisé,Chiffrement
+Mexique,2018,Malware,Santé,Cybercriminels,72.25,108289,74.6,Accès non autorisé,Formation et sensibilisation
+Chine,2018,Zero-Day,Commerce,Insider,456.06,329064,218.3,API non sécurisée,Segmentation réseau
+Canada,2018,Malware,Commerce,Inconnu,31.50,5437027,62.3,Ingénierie sociale,IDS/IPS
+Singapour,2018,Phishing,Finance,Cybercriminels,12.43,2528489,149.8,Vulnérabilité zero-day,Segmentation réseau
+Espagne,2018,Injection SQL,Santé,Inconnu,39.24,1875680,44.8,Vulnérabilité zero-day,Analyse forensique
+Pays-Bas,2018,Spear Phishing,Transport,Groupe de hackers,133.08,13192,111.6,Mauvaise configuration,IDS/IPS
+Chine,2018,DDoS,Gouvernement,Cybercriminels,33.48,1589,75.8,Ingénierie sociale,Pare-feu
+Russie,2018,Ransomware,Éducation,Cybercriminels,32.27,245,452.0,API non sécurisée,Segmentation réseau
+Inde,2018,Phishing,Technologie,Cybercriminels,9.41,550576,99.8,API non sécurisée,Segmentation réseau
+Pologne,2018,Ransomware,Santé,Groupe de hackers,47.36,227406,380.7,Accès non autorisé,IDS/IPS
+Chine,2018,Phishing,Gouvernement,Nation-État,39.43,43951,87.0,Mots de passe faibles,SIEM
+Chine,2018,Spear Phishing,Technologie,Cybercriminels,52.81,31,78.6,Logiciels non patchés,Analyse forensique
+États-Unis,2018,Injection SQL,Télécommunications,Groupe de hackers,26.61,14827840,153.9,Mauvaise configuration,SIEM
+États-Unis,2018,Zero-Day,Technologie,Insider,439.53,4246438,124.8,Vulnérabilité zero-day,EDR
+Allemagne,2018,Zero-Day,Santé,Nation-État,260.57,35494,352.1,Mauvaise configuration,Segmentation réseau
+Russie,2018,Phishing,Technologie,Groupe de hackers,27.11,3061,155.0,Mauvaise configuration,Chiffrement
+Ukraine,2018,Phishing,Technologie,Groupe de hackers,62.81,793,80.4,Mots de passe faibles,Chiffrement
+Ukraine,2018,DDoS,Énergie,Cybercriminels,2.99,6777,48.6,Mots de passe faibles,SIEM
+Corée du Sud,2018,Ransomware,Santé,Cybercriminels,99.03,114,543.2,Logiciels non patchés,Analyse forensique
+Malaisie,2018,Zero-Day,Technologie,Nation-État,252.59,537425,403.0,Mots de passe faibles,IDS/IPS
+Japon,2018,DDoS,Finance,Nation-État,22.62,1508,97.6,Accès non autorisé,Pare-feu
+États-Unis,2018,Spear Phishing,Finance,Cybercriminels,79.32,6293,28.4,Vulnérabilité zero-day,Formation et sensibilisation
+Corée du Sud,2018,DDoS,Défense,Cybercriminels,6.23,6947,105.9,Logiciels non patchés,IDS/IPS
+Canada,2018,DDoS,Commerce,Hacktivistes,32.35,82998,85.7,Accès non autorisé,Authentification multifacteur
+Malaisie,2018,Phishing,Commerce,Groupe de hackers,66.78,2238035,127.0,Mots de passe faibles,Chiffrement
+Indonésie,2018,Man-in-the-Middle,Finance,Inconnu,34.41,214870,92.2,Ingénierie sociale,Authentification multifacteur
+Colombie,2018,DDoS,Santé,Inconnu,40.01,16135,167.2,Absence de chiffrement,Analyse forensique
+Italie,2018,Ransomware,Technologie,Hacktivistes,242.38,681,491.2,Vulnérabilité zero-day,Formation et sensibilisation
+États-Unis,2018,Phishing,Santé,Groupe de hackers,9.74,66490,154.1,Vulnérabilité zero-day,Chiffrement
+Ukraine,2018,Injection SQL,Finance,Nation-État,56.58,15244,33.9,API non sécurisée,EDR
+États-Unis,2018,Man-in-the-Middle,Télécommunications,Insider,18.48,273,36.0,Logiciels non patchés,Authentification multifacteur
+États-Unis,2018,DDoS,Finance,Groupe de hackers,2.15,811667,110.3,Vulnérabilité zero-day,Authentification multifacteur
+Indonésie,2018,DDoS,Santé,Inconnu,37.64,17424,106.7,Mots de passe faibles,Authentification multifacteur
+Pologne,2018,DDoS,Gouvernement,Groupe de hackers,21.22,2402967,49.5,Ingénierie sociale,Analyse forensique
+Russie,2018,DDoS,Transport,Insider,2.34,4936986,160.5,Vulnérabilité zero-day,Pare-feu
+Brésil,2018,Spear Phishing,Télécommunications,Hacktivistes,30.16,26,165.1,Accès non autorisé,Formation et sensibilisation
+Japon,2018,Ransomware,Gouvernement,Groupe de hackers,97.19,500,117.9,Mots de passe faibles,Segmentation réseau
+Royaume-Uni,2018,Spear Phishing,Technologie,Groupe de hackers,133.95,820,28.6,Mauvaise configuration,IDS/IPS
+Corée du Sud,2018,Ransomware,Commerce,Cybercriminels,186.17,8557,93.3,API non sécurisée,Analyse forensique
+Russie,2018,Ransomware,Défense,Cybercriminels,49.64,181,331.1,Absence de chiffrement,IDS/IPS
+Royaume-Uni,2018,Phishing,Santé,Hacktivistes,61.94,3185,61.8,Mauvaise configuration,Sauvegarde et restauration
+Japon,2018,Spear Phishing,Gouvernement,Nation-État,74.66,11251,121.5,Ingénierie sociale,SIEM
+Mexique,2018,Spear Phishing,Éducation,Groupe de hackers,31.78,61999,58.8,Absence de chiffrement,IDS/IPS
+États-Unis,2018,Ransomware,Santé,Insider,2.20,23688,449.5,Accès non autorisé,Segmentation réseau
+Brésil,2018,DDoS,Santé,Cybercriminels,7.92,7009,105.0,Ingénierie sociale,Authentification multifacteur
+Chine,2018,Spear Phishing,Finance,Inconnu,136.27,15,24.8,Absence de chiffrement,IDS/IPS
+Royaume-Uni,2018,Ransomware,Finance,Groupe de hackers,167.83,1386,393.8,Mots de passe faibles,Pare-feu
+Brésil,2018,DDoS,Technologie,Cybercriminels,36.68,1306966,151.1,Absence de chiffrement,Formation et sensibilisation
+Italie,2018,Man-in-the-Middle,Finance,Insider,22.65,8722,101.7,Mots de passe faibles,Sauvegarde et restauration
+Indonésie,2018,Ransomware,Énergie,Cybercriminels,238.47,21380,185.9,Vulnérabilité zero-day,SIEM
+France,2018,Ransomware,Technologie,Groupe de hackers,288.70,401,606.1,Ingénierie sociale,Pare-feu
+France,2019,Spear Phishing,Gouvernement,Nation-État,108.79,1165,26.8,Accès non autorisé,Chiffrement
+États-Unis,2019,Spear Phishing,Technologie,Nation-État,13.67,13,21.7,API non sécurisée,Authentification multifacteur
+Inde,2019,Man-in-the-Middle,Télécommunications,Cybercriminels,31.62,23376,88.1,API non sécurisée,Authentification multifacteur
+Mexique,2019,Phishing,Éducation,Nation-État,40.58,2497525,161.5,Mots de passe faibles,Chiffrement
+Mexique,2019,Malware,Commerce,Nation-État,109.82,250747,79.8,Logiciels non patchés,SIEM
+Canada,2019,Spear Phishing,Finance,Groupe de hackers,3.77,2667,153.1,Vulnérabilité zero-day,Segmentation réseau
+États-Unis,2019,Spear Phishing,Technologie,Nation-État,145.31,2468,28.6,Mots de passe faibles,Segmentation réseau
+États-Unis,2019,Phishing,Technologie,Groupe de hackers,62.86,868353,127.0,API non sécurisée,SIEM
+Royaume-Uni,2019,Phishing,Technologie,Nation-État,2.77,15806,132.0,Accès non autorisé,Segmentation réseau
+Chine,2019,DDoS,Technologie,Cybercriminels,22.06,115396,15.2,Absence de chiffrement,Sauvegarde et restauration
+Inde,2019,DDoS,Commerce,Cybercriminels,5.75,46382,49.8,Absence de chiffrement,Analyse forensique
+Chine,2019,Injection SQL,Finance,Inconnu,7.54,14006,58.5,Logiciels non patchés,Chiffrement
+Singapour,2019,DDoS,Commerce,Groupe de hackers,23.50,1244443,73.3,Accès non autorisé,Formation et sensibilisation
+Iran,2019,Man-in-the-Middle,Défense,Hacktivistes,16.68,13,4.1,Logiciels non patchés,EDR
+Royaume-Uni,2019,DDoS,Éducation,Hacktivistes,1.19,3152,19.0,API non sécurisée,Segmentation réseau
+Brésil,2019,DDoS,Télécommunications,Hacktivistes,17.26,1112,22.6,Absence de chiffrement,Sauvegarde et restauration
+Pays-Bas,2019,Phishing,Défense,Cybercriminels,27.98,1579,50.0,Accès non autorisé,SIEM
+France,2019,DDoS,Technologie,Insider,15.11,3884,83.5,Accès non autorisé,Pare-feu
+France,2019,DDoS,Gouvernement,Cybercriminels,14.86,410229,85.3,Logiciels non patchés,IDS/IPS
+États-Unis,2019,DDoS,Santé,Cybercriminels,32.47,143516,46.6,Vulnérabilité zero-day,Chiffrement
+Chine,2019,Malware,Commerce,Cybercriminels,17.95,945,156.6,Accès non autorisé,Authentification multifacteur
+Royaume-Uni,2019,Ransomware,Technologie,Nation-État,170.87,77,486.3,Mots de passe faibles,Chiffrement
+Nigeria,2019,Spear Phishing,Finance,Hacktivistes,158.51,420,117.5,Vulnérabilité zero-day,EDR
+Russie,2019,Malware,Santé,Nation-État,33.17,260968,151.9,API non sécurisée,SIEM
+Allemagne,2019,DDoS,Commerce,Cybercriminels,3.03,4385,79.0,Logiciels non patchés,Sauvegarde et restauration
+Russie,2019,Man-in-the-Middle,Gouvernement,Nation-État,31.28,165,49.3,Vulnérabilité zero-day,IDS/IPS
+Afrique du Sud,2019,Ransomware,Transport,Nation-État,231.80,33528,446.9,Mots de passe faibles,Formation et sensibilisation
+États-Unis,2019,Phishing,Commerce,Hacktivistes,52.21,193269,65.4,Vulnérabilité zero-day,Analyse forensique
+France,2019,Spear Phishing,Commerce,Insider,132.06,56,141.1,Logiciels non patchés,Pare-feu
+Égypte,2019,Phishing,Télécommunications,Cybercriminels,67.58,45242,26.7,Logiciels non patchés,IDS/IPS
+Pays-Bas,2019,Phishing,Gouvernement,Groupe de hackers,55.63,314522,152.4,Mots de passe faibles,Pare-feu
+Allemagne,2019,DDoS,Commerce,Insider,44.36,62999,75.7,Vulnérabilité zero-day,EDR
+Russie,2019,DDoS,Finance,Hacktivistes,27.90,6998,165.7,Vulnérabilité zero-day,Segmentation réseau
+Chine,2019,DDoS,Commerce,Insider,2.04,247347,116.5,Ingénierie sociale,Pare-feu
+France,2019,Malware,Finance,Groupe de hackers,111.80,23226,102.7,Ingénierie sociale,Analyse forensique
+Inde,2019,Phishing,Technologie,Cybercriminels,32.19,6543,163.6,API non sécurisée,Formation et sensibilisation
+Royaume-Uni,2019,Ransomware,Santé,Insider,118.54,163605,649.1,API non sécurisée,IDS/IPS
+Pays-Bas,2019,DDoS,Finance,Hacktivistes,24.32,26379,131.4,Accès non autorisé,Formation et sensibilisation
+Chine,2019,Ransomware,Commerce,Cybercriminels,292.03,130,358.6,Accès non autorisé,Formation et sensibilisation
+Corée du Sud,2019,Malware,Technologie,Cybercriminels,70.08,631,77.2,Mots de passe faibles,Sauvegarde et restauration
+Ukraine,2019,Ransomware,Gouvernement,Cybercriminels,22.44,473,121.8,API non sécurisée,Pare-feu
+Royaume-Uni,2019,Injection SQL,Commerce,Cybercriminels,31.56,1022,36.7,Logiciels non patchés,Analyse forensique
+Italie,2019,Phishing,Santé,Nation-État,73.77,1391,101.5,Mauvaise configuration,Analyse forensique
+États-Unis,2019,Phishing,Santé,Insider,1.12,3456,77.8,API non sécurisée,Sauvegarde et restauration
+Royaume-Uni,2019,Phishing,Finance,Inconnu,21.62,559,157.5,Mots de passe faibles,EDR
+Inde,2019,Man-in-the-Middle,Énergie,Cybercriminels,11.00,12635,122.9,Absence de chiffrement,Segmentation réseau
+Russie,2019,Man-in-the-Middle,Gouvernement,Nation-État,36.53,29568,9.0,API non sécurisée,Chiffrement
+Russie,2019,Malware,Finance,Inconnu,98.41,28106,42.9,Accès non autorisé,Authentification multifacteur
+Russie,2019,Man-in-the-Middle,Technologie,Inconnu,20.84,89335,45.8,Absence de chiffrement,SIEM
+Israël,2019,Malware,Éducation,Insider,63.63,1229,15.7,Absence de chiffrement,Analyse forensique
+Japon,2019,Ransomware,Transport,Cybercriminels,79.12,2933,422.0,Ingénierie sociale,Sauvegarde et restauration
+France,2019,Spear Phishing,Technologie,Groupe de hackers,31.63,11004,89.7,Logiciels non patchés,IDS/IPS
+Brésil,2019,Phishing,Énergie,Cybercriminels,55.42,127432,137.3,Accès non autorisé,EDR
+Russie,2019,Malware,Santé,Insider,22.93,203898,160.9,API non sécurisée,IDS/IPS
+Italie,2019,Spear Phishing,Technologie,Inconnu,8.63,94,85.3,Logiciels non patchés,SIEM
+Colombie,2019,Ransomware,Technologie,Cybercriminels,161.57,182761,507.3,Absence de chiffrement,EDR
+États-Unis,2019,Injection SQL,Gouvernement,Insider,11.38,101815,66.3,Absence de chiffrement,Formation et sensibilisation
+France,2019,Zero-Day,Santé,Nation-État,191.99,203635,100.3,Logiciels non patchés,Formation et sensibilisation
+France,2019,Malware,Technologie,Groupe de hackers,1.22,1860260,44.0,API non sécurisée,Sauvegarde et restauration
+États-Unis,2019,Ransomware,Éducation,Inconnu,152.45,95396,26.1,Accès non autorisé,Segmentation réseau
+Mexique,2019,Ransomware,Santé,Hacktivistes,291.61,51,342.7,Mauvaise configuration,Segmentation réseau
+Malaisie,2019,Phishing,Commerce,Groupe de hackers,67.30,1268431,81.6,Mauvaise configuration,Authentification multifacteur
+Italie,2019,Man-in-the-Middle,Transport,Cybercriminels,17.98,36,33.0,API non sécurisée,Pare-feu
+Afrique du Sud,2019,Spear Phishing,Finance,Cybercriminels,117.60,36164,8.4,Logiciels non patchés,Segmentation réseau
+Italie,2019,DDoS,Finance,Cybercriminels,42.19,7688,20.6,API non sécurisée,Pare-feu
+Brésil,2019,Zero-Day,Transport,Groupe de hackers,31.70,87143,428.8,Absence de chiffrement,Formation et sensibilisation
+France,2019,Zero-Day,Transport,Hacktivistes,527.29,65417,429.0,Absence de chiffrement,Authentification multifacteur
+Australie,2019,Ransomware,Télécommunications,Groupe de hackers,155.49,320,212.1,API non sécurisée,Formation et sensibilisation
+Inde,2019,DDoS,Santé,Nation-État,5.22,253949,36.2,Ingénierie sociale,Formation et sensibilisation
+Allemagne,2019,Zero-Day,Gouvernement,Groupe de hackers,552.16,71992,475.2,Mots de passe faibles,Pare-feu
+Italie,2019,Phishing,Santé,Insider,77.65,10355,31.4,API non sécurisée,Pare-feu
+Colombie,2019,Phishing,Éducation,Inconnu,5.37,6718,45.9,Ingénierie sociale,IDS/IPS
+Royaume-Uni,2019,DDoS,Transport,Cybercriminels,21.42,938718,121.2,Vulnérabilité zero-day,Pare-feu
+France,2019,Ransomware,Technologie,Hacktivistes,7.57,4293,441.4,API non sécurisée,Analyse forensique
+Colombie,2019,Zero-Day,Gouvernement,Cybercriminels,664.08,40012,416.1,Logiciels non patchés,Chiffrement
+États-Unis,2019,Zero-Day,Finance,Groupe de hackers,52.19,168820,346.0,Mauvaise configuration,Segmentation réseau
+Corée du Sud,2019,Zero-Day,Commerce,Inconnu,709.86,392830,123.5,Vulnérabilité zero-day,Chiffrement
+Indonésie,2019,Phishing,Énergie,Hacktivistes,2.34,3427212,88.5,Vulnérabilité zero-day,Formation et sensibilisation
+Suède,2019,Ransomware,Télécommunications,Cybercriminels,98.96,1413,29.1,Logiciels non patchés,Formation et sensibilisation
+Ukraine,2019,Injection SQL,Santé,Nation-État,50.48,11138,25.9,Ingénierie sociale,Authentification multifacteur
+Colombie,2019,Spear Phishing,Finance,Cybercriminels,30.66,25977,160.3,Logiciels non patchés,Sauvegarde et restauration
+Turquie,2019,Malware,Finance,Cybercriminels,126.42,57087,67.4,Absence de chiffrement,Pare-feu
+Canada,2019,Malware,Finance,Hacktivistes,120.92,1774,79.6,Mauvaise configuration,Pare-feu
+Australie,2019,DDoS,Santé,Cybercriminels,44.74,9405,95.3,Ingénierie sociale,Chiffrement
+Indonésie,2019,Ransomware,Santé,Nation-État,31.01,123954,250.9,Vulnérabilité zero-day,IDS/IPS
+Allemagne,2019,Phishing,Finance,Insider,52.15,2719,120.4,Absence de chiffrement,Authentification multifacteur
+Chine,2019,Malware,Éducation,Nation-État,105.09,1330842,16.9,Accès non autorisé,Pare-feu
+Chine,2019,Zero-Day,Technologie,Cybercriminels,141.47,965364,64.7,Mots de passe faibles,Formation et sensibilisation
+Ukraine,2019,DDoS,Énergie,Inconnu,31.15,5619,88.7,Mauvaise configuration,Segmentation réseau
+Russie,2019,Injection SQL,Commerce,Inconnu,0.79,1213349,73.5,Ingénierie sociale,Pare-feu
+Iran,2019,Ransomware,Finance,Inconnu,247.32,3051,589.6,Mauvaise configuration,Sauvegarde et restauration
+Allemagne,2019,Phishing,Défense,Insider,19.69,452,64.7,Logiciels non patchés,Sauvegarde et restauration
+Israël,2019,Injection SQL,Commerce,Cybercriminels,39.84,3344,22.8,Logiciels non patchés,Segmentation réseau
+Pays-Bas,2019,Malware,Santé,Hacktivistes,48.32,870,146.9,Logiciels non patchés,Chiffrement
+Inde,2019,Ransomware,Gouvernement,Cybercriminels,52.40,702889,350.0,Accès non autorisé,Segmentation réseau
+France,2019,Phishing,Finance,Cybercriminels,67.06,1475147,74.4,API non sécurisée,Sauvegarde et restauration
+Colombie,2019,Malware,Santé,Nation-État,62.96,88176,65.6,API non sécurisée,Sauvegarde et restauration
+Russie,2019,Spear Phishing,Santé,Nation-État,42.38,21586,39.7,Absence de chiffrement,Segmentation réseau
+Royaume-Uni,2019,Malware,Finance,Cybercriminels,77.05,2091881,16.5,Mauvaise configuration,Segmentation réseau
+Royaume-Uni,2019,Zero-Day,Technologie,Inconnu,223.72,2092,280.3,Vulnérabilité zero-day,Sauvegarde et restauration
+Indonésie,2019,Spear Phishing,Éducation,Cybercriminels,77.29,1026,11.2,Logiciels non patchés,Formation et sensibilisation
+Chine,2019,Phishing,Transport,Groupe de hackers,8.04,5356,32.4,Ingénierie sociale,Segmentation réseau
+Singapour,2019,Ransomware,Santé,Insider,109.99,223,214.0,Absence de chiffrement,Analyse forensique
+Inde,2019,DDoS,Éducation,Cybercriminels,33.20,151760,35.1,Logiciels non patchés,IDS/IPS
+États-Unis,2019,Man-in-the-Middle,Télécommunications,Insider,17.31,759,160.8,Mauvaise configuration,Chiffrement
+Chine,2019,DDoS,Santé,Groupe de hackers,47.49,11075,139.1,Logiciels non patchés,IDS/IPS
+Chine,2019,Spear Phishing,Gouvernement,Cybercriminels,51.19,10752,72.2,Vulnérabilité zero-day,Pare-feu
+Inde,2019,Spear Phishing,Technologie,Inconnu,113.28,6124,129.2,API non sécurisée,Analyse forensique
+Australie,2019,DDoS,Finance,Hacktivistes,33.76,28988,28.3,Mauvaise configuration,Sauvegarde et restauration
+Russie,2019,Zero-Day,Éducation,Hacktivistes,295.76,5381,204.1,Mots de passe faibles,Segmentation réseau
+États-Unis,2019,Phishing,Technologie,Insider,39.49,959,106.5,Mots de passe faibles,Authentification multifacteur
+Colombie,2019,DDoS,Technologie,Groupe de hackers,44.83,9431879,133.9,Mots de passe faibles,SIEM
+Russie,2019,Injection SQL,Finance,Groupe de hackers,15.93,2096,89.0,Logiciels non patchés,Authentification multifacteur
+Afrique du Sud,2019,Ransomware,Technologie,Inconnu,268.32,105,107.2,API non sécurisée,Formation et sensibilisation
+Pays-Bas,2019,Ransomware,Finance,Inconnu,182.33,120,647.8,Ingénierie sociale,Analyse forensique
+États-Unis,2019,Injection SQL,Technologie,Cybercriminels,50.89,9471,41.2,Mauvaise configuration,Chiffrement
+Allemagne,2019,Phishing,Éducation,Cybercriminels,67.80,44166,70.2,Ingénierie sociale,Segmentation réseau
+Royaume-Uni,2019,Phishing,Technologie,Nation-État,13.41,13127,87.6,Accès non autorisé,Sauvegarde et restauration
+Corée du Sud,2019,Malware,Santé,Nation-État,108.18,10292,93.8,Vulnérabilité zero-day,Authentification multifacteur
+Corée du Sud,2019,DDoS,Défense,Nation-État,2.87,589512,46.7,Ingénierie sociale,Sauvegarde et restauration
+Inde,2019,Ransomware,Gouvernement,Nation-État,167.73,500,254.6,Accès non autorisé,Segmentation réseau
+Colombie,2019,Spear Phishing,Gouvernement,Groupe de hackers,70.62,41996,166.0,API non sécurisée,Authentification multifacteur
+France,2019,Zero-Day,Santé,Hacktivistes,744.51,151,426.2,Mauvaise configuration,Authentification multifacteur
+Espagne,2019,Ransomware,Télécommunications,Insider,284.51,192344,386.3,Logiciels non patchés,IDS/IPS
+Allemagne,2019,Phishing,Finance,Nation-État,16.71,20199,89.8,Logiciels non patchés,SIEM
+États-Unis,2019,Ransomware,Télécommunications,Groupe de hackers,43.93,10511,334.0,Absence de chiffrement,Sauvegarde et restauration
+Espagne,2019,Ransomware,Énergie,Nation-État,311.49,1179,231.7,Ingénierie sociale,Pare-feu
+Israël,2019,Injection SQL,Gouvernement,Nation-État,19.07,16940900,30.2,Logiciels non patchés,Analyse forensique
+Royaume-Uni,2019,Man-in-the-Middle,Commerce,Nation-État,14.48,75,67.5,Ingénierie sociale,Sauvegarde et restauration
+Royaume-Uni,2019,Ransomware,Défense,Nation-État,66.73,5410,338.0,Vulnérabilité zero-day,IDS/IPS
+Iran,2019,Zero-Day,Énergie,Nation-État,715.44,284673,176.5,Mauvaise configuration,Authentification multifacteur
+États-Unis,2019,Injection SQL,Santé,Nation-État,38.12,945777,158.4,Ingénierie sociale,SIEM
+Turquie,2019,Phishing,Télécommunications,Hacktivistes,30.12,10465,30.4,Ingénierie sociale,SIEM
+Chine,2019,Phishing,Finance,Nation-État,22.32,65434,154.3,Logiciels non patchés,Analyse forensique
+France,2019,Malware,Défense,Hacktivistes,30.58,2113164,151.3,API non sécurisée,Pare-feu
+États-Unis,2019,Man-in-the-Middle,Santé,Insider,5.27,30442,89.3,Absence de chiffrement,Authentification multifacteur
+Chine,2019,DDoS,Santé,Cybercriminels,7.16,28166,44.0,Accès non autorisé,Chiffrement
+Allemagne,2019,Malware,Commerce,Hacktivistes,70.77,4803836,106.1,Logiciels non patchés,Authentification multifacteur
+États-Unis,2019,Man-in-the-Middle,Gouvernement,Cybercriminels,36.38,359514,149.6,Ingénierie sociale,Sauvegarde et restauration
+Chine,2019,Man-in-the-Middle,Santé,Groupe de hackers,3.53,32,40.5,Mauvaise configuration,SIEM
+Inde,2019,DDoS,Finance,Nation-État,36.45,273785,88.8,API non sécurisée,Sauvegarde et restauration
+Russie,2019,Injection SQL,Éducation,Nation-État,44.73,1035390,74.8,Mauvaise configuration,Analyse forensique
+Chine,2019,Spear Phishing,Technologie,Inconnu,89.46,15645,118.3,Logiciels non patchés,IDS/IPS
+Allemagne,2019,DDoS,Technologie,Cybercriminels,22.43,3706,79.7,Ingénierie sociale,Authentification multifacteur
+Afrique du Sud,2019,DDoS,Technologie,Inconnu,22.02,4440400,47.7,Logiciels non patchés,Formation et sensibilisation
+France,2019,Phishing,Finance,Cybercriminels,39.63,43614,100.0,Ingénierie sociale,SIEM
+Chine,2019,Ransomware,Finance,Nation-État,290.05,199516,373.7,Accès non autorisé,IDS/IPS
+Turquie,2019,Phishing,Gouvernement,Inconnu,15.83,744,35.3,Vulnérabilité zero-day,SIEM
+Singapour,2019,Ransomware,Technologie,Cybercriminels,195.48,115741,309.0,Ingénierie sociale,Chiffrement
+Indonésie,2019,Spear Phishing,Télécommunications,Cybercriminels,147.40,77627,158.0,Ingénierie sociale,Authentification multifacteur
+France,2020,Zero-Day,Technologie,Hacktivistes,258.16,9997393,428.9,Accès non autorisé,EDR
+Indonésie,2020,Phishing,Santé,Groupe de hackers,63.00,3164,152.2,Mots de passe faibles,Authentification multifacteur
+Ukraine,2020,Spear Phishing,Finance,Insider,59.41,598,23.9,Ingénierie sociale,Chiffrement
+Ukraine,2020,Phishing,Commerce,Groupe de hackers,19.53,20789,47.7,Vulnérabilité zero-day,IDS/IPS
+Allemagne,2020,Malware,Santé,Groupe de hackers,62.63,8111,122.6,Vulnérabilité zero-day,Authentification multifacteur
+Singapour,2020,Spear Phishing,Transport,Cybercriminels,169.55,295,99.9,Logiciels non patchés,Authentification multifacteur
+Iran,2020,Malware,Finance,Insider,89.48,12760,123.7,Mauvaise configuration,IDS/IPS
+Royaume-Uni,2020,Zero-Day,Finance,Cybercriminels,704.82,965,329.0,API non sécurisée,EDR
+Russie,2020,Malware,Santé,Insider,112.15,997746,150.9,Logiciels non patchés,Pare-feu
+Inde,2020,Zero-Day,Énergie,Hacktivistes,335.44,3534675,385.5,Mots de passe faibles,Pare-feu
+Russie,2020,DDoS,Gouvernement,Cybercriminels,20.99,3475,139.0,Ingénierie sociale,Segmentation réseau
+Australie,2020,DDoS,Finance,Cybercriminels,44.70,2319096,138.3,Mauvaise configuration,EDR
+France,2020,Ransomware,Technologie,Nation-État,264.99,169,514.5,Mauvaise configuration,Pare-feu
+États-Unis,2020,Ransomware,Technologie,Inconnu,198.29,28159,539.1,Ingénierie sociale,Segmentation réseau
+Brésil,2020,Phishing,Défense,Inconnu,72.41,479965,55.7,Absence de chiffrement,Authentification multifacteur
+Japon,2020,DDoS,Santé,Groupe de hackers,25.26,738938,110.0,Mots de passe faibles,Pare-feu
+Chine,2020,Injection SQL,Gouvernement,Inconnu,26.06,2093945,104.1,Vulnérabilité zero-day,Pare-feu
+États-Unis,2020,Spear Phishing,Technologie,Nation-État,13.40,151,151.9,API non sécurisée,Authentification multifacteur
+Inde,2020,Phishing,Technologie,Insider,59.40,2627610,127.3,Vulnérabilité zero-day,Pare-feu
+Brésil,2020,Ransomware,Santé,Insider,157.10,65,393.2,Logiciels non patchés,Chiffrement
+États-Unis,2020,Phishing,Finance,Cybercriminels,16.74,2014,99.6,Mauvaise configuration,Segmentation réseau
+Corée du Sud,2020,DDoS,Technologie,Cybercriminels,21.78,241107,49.6,API non sécurisée,SIEM
+Singapour,2020,Ransomware,Gouvernement,Groupe de hackers,54.29,8957,492.4,Mots de passe faibles,Sauvegarde et restauration
+Allemagne,2020,Ransomware,Finance,Hacktivistes,41.00,682015,38.5,Mauvaise configuration,IDS/IPS
+États-Unis,2020,Malware,Finance,Cybercriminels,76.53,54191,83.6,Mots de passe faibles,Analyse forensique
+Inde,2020,Phishing,Gouvernement,Insider,19.22,686,49.5,Mauvaise configuration,Authentification multifacteur
+Allemagne,2020,Ransomware,Défense,Groupe de hackers,7.75,1242,289.1,Mots de passe faibles,Authentification multifacteur
+Japon,2020,Phishing,Commerce,Inconnu,63.89,744,25.9,Absence de chiffrement,Segmentation réseau
+États-Unis,2020,Phishing,Santé,Cybercriminels,48.89,21801,69.6,Vulnérabilité zero-day,SIEM
+Allemagne,2020,DDoS,Technologie,Cybercriminels,15.34,10569,145.3,API non sécurisée,Segmentation réseau
+Canada,2020,Spear Phishing,Technologie,Cybercriminels,75.85,118,86.0,Vulnérabilité zero-day,IDS/IPS
+Canada,2020,Zero-Day,Santé,Insider,814.60,84422,470.7,Mots de passe faibles,EDR
+États-Unis,2020,Malware,Finance,Hacktivistes,127.06,23565,17.8,Accès non autorisé,Chiffrement
+États-Unis,2020,Malware,Gouvernement,Insider,47.35,15450,133.6,Ingénierie sociale,Pare-feu
+Royaume-Uni,2020,Phishing,Finance,Hacktivistes,83.28,264,88.8,Accès non autorisé,Sauvegarde et restauration
+Inde,2020,Ransomware,Éducation,Groupe de hackers,273.21,3707,380.7,Vulnérabilité zero-day,Sauvegarde et restauration
+Canada,2020,Zero-Day,Télécommunications,Nation-État,667.65,1263,263.4,Vulnérabilité zero-day,EDR
+Brésil,2020,Phishing,Gouvernement,Groupe de hackers,3.59,393292,23.7,Accès non autorisé,EDR
+Ukraine,2020,Phishing,Finance,Hacktivistes,37.52,784,166.8,Accès non autorisé,Analyse forensique
+Iran,2020,Man-in-the-Middle,Technologie,Groupe de hackers,28.80,2544,126.8,Mauvaise configuration,Segmentation réseau
+États-Unis,2020,Malware,Technologie,Cybercriminels,37.46,311881,74.0,Ingénierie sociale,Segmentation réseau
+Iran,2020,Malware,Finance,Insider,128.00,2953,49.9,Vulnérabilité zero-day,SIEM
+Iran,2020,Phishing,Santé,Inconnu,76.61,66781,143.1,Mauvaise configuration,Analyse forensique
+Chine,2020,Malware,Télécommunications,Cybercriminels,9.73,112940,93.3,Ingénierie sociale,Pare-feu
+Japon,2020,Injection SQL,Finance,Nation-État,62.09,12451,96.6,Logiciels non patchés,Segmentation réseau
+Indonésie,2020,Phishing,Finance,Hacktivistes,86.49,50566,36.8,Accès non autorisé,EDR
+Russie,2020,Phishing,Commerce,Insider,51.35,198,20.7,Mots de passe faibles,Pare-feu
+Mexique,2020,Malware,Éducation,Inconnu,37.15,32185,87.3,Vulnérabilité zero-day,EDR
+Nigeria,2020,Injection SQL,Finance,Insider,32.19,2937566,31.5,Accès non autorisé,Pare-feu
+Allemagne,2020,Ransomware,Technologie,Inconnu,311.92,1295,569.9,Mots de passe faibles,Authentification multifacteur
+Iran,2020,Spear Phishing,Gouvernement,Nation-État,156.16,5699,163.8,Vulnérabilité zero-day,Segmentation réseau
+États-Unis,2020,Man-in-the-Middle,Technologie,Nation-État,37.67,368,94.6,API non sécurisée,Sauvegarde et restauration
+États-Unis,2020,Spear Phishing,Télécommunications,Groupe de hackers,96.56,42,138.2,Accès non autorisé,Pare-feu
+Malaisie,2020,Malware,Finance,Nation-État,17.45,33831,93.4,Absence de chiffrement,SIEM
+Ukraine,2020,Ransomware,Défense,Hacktivistes,276.72,650,268.1,Logiciels non patchés,Pare-feu
+Suède,2020,Phishing,Éducation,Groupe de hackers,28.08,182,162.1,Vulnérabilité zero-day,Authentification multifacteur
+Chine,2020,Ransomware,Commerce,Nation-État,174.40,34864,293.8,Absence de chiffrement,Formation et sensibilisation
+Australie,2020,Malware,Finance,Nation-État,84.97,3210,123.7,Mots de passe faibles,Sauvegarde et restauration
+Israël,2020,Ransomware,Éducation,Groupe de hackers,204.31,949479,339.1,Mauvaise configuration,EDR
+Mexique,2020,DDoS,Technologie,Cybercriminels,17.41,2268070,96.2,Accès non autorisé,Segmentation réseau
+Allemagne,2020,Zero-Day,Télécommunications,Insider,40.89,17603,475.8,Absence de chiffrement,EDR
+Espagne,2020,Phishing,Gouvernement,Groupe de hackers,1.20,1408,15.2,Vulnérabilité zero-day,IDS/IPS
+Royaume-Uni,2020,DDoS,Énergie,Cybercriminels,23.31,5311948,79.6,Ingénierie sociale,Chiffrement
+Italie,2020,Phishing,Finance,Nation-État,62.48,92408,85.1,Accès non autorisé,Segmentation réseau
+Pays-Bas,2020,Ransomware,Gouvernement,Groupe de hackers,260.06,62,692.2,API non sécurisée,Segmentation réseau
+Nigeria,2020,Malware,Commerce,Groupe de hackers,65.16,1493,69.5,Absence de chiffrement,EDR
+Brésil,2020,Spear Phishing,Santé,Cybercriminels,26.16,4285,104.3,Absence de chiffrement,Chiffrement
+Japon,2020,Ransomware,Technologie,Groupe de hackers,14.61,5012,534.9,Ingénierie sociale,SIEM
+Japon,2020,Spear Phishing,Commerce,Insider,147.47,12,88.6,Accès non autorisé,SIEM
+Colombie,2020,Ransomware,Éducation,Groupe de hackers,57.41,3151,186.1,Accès non autorisé,Formation et sensibilisation
+Italie,2020,Ransomware,Santé,Cybercriminels,187.03,44955,392.2,Mauvaise configuration,Authentification multifacteur
+Chine,2020,Malware,Finance,Nation-État,91.88,59029,100.3,Vulnérabilité zero-day,Formation et sensibilisation
+Allemagne,2020,Injection SQL,Technologie,Insider,6.61,408409,44.6,Vulnérabilité zero-day,Segmentation réseau
+États-Unis,2020,Phishing,Gouvernement,Groupe de hackers,14.80,1146568,40.1,Mauvaise configuration,EDR
+Chine,2020,DDoS,Commerce,Hacktivistes,4.74,3522808,45.8,Accès non autorisé,Sauvegarde et restauration
+Égypte,2020,Malware,Finance,Cybercriminels,128.98,4954269,44.4,Vulnérabilité zero-day,SIEM
+Canada,2020,DDoS,Santé,Inconnu,7.44,5038,107.5,Accès non autorisé,Authentification multifacteur
+Chine,2020,Phishing,Finance,Cybercriminels,35.94,1800,66.1,Absence de chiffrement,Sauvegarde et restauration
+Iran,2020,Zero-Day,Éducation,Hacktivistes,677.86,124491,310.0,Mauvaise configuration,Segmentation réseau
+Pays-Bas,2020,Zero-Day,Transport,Nation-État,414.45,838655,94.0,Logiciels non patchés,SIEM
+Pologne,2020,Spear Phishing,Technologie,Cybercriminels,59.38,2405,118.1,Mauvaise configuration,Segmentation réseau
+Russie,2020,Phishing,Énergie,Groupe de hackers,66.45,54486,52.5,Logiciels non patchés,Formation et sensibilisation
+Singapour,2020,Spear Phishing,Éducation,Hacktivistes,135.08,539,58.1,Logiciels non patchés,SIEM
+Israël,2020,Malware,Santé,Groupe de hackers,131.32,3350776,20.0,API non sécurisée,Segmentation réseau
+Malaisie,2020,Ransomware,Santé,Cybercriminels,72.27,57500,560.1,Vulnérabilité zero-day,Segmentation réseau
+Australie,2020,Ransomware,Éducation,Cybercriminels,348.71,242624,423.5,Absence de chiffrement,Chiffrement
+Chine,2020,Man-in-the-Middle,Gouvernement,Cybercriminels,8.23,102935,62.5,Mauvaise configuration,SIEM
+Inde,2020,Phishing,Santé,Nation-État,51.68,10237,160.7,Absence de chiffrement,EDR
+Russie,2020,DDoS,Énergie,Nation-État,8.27,9143476,62.2,Accès non autorisé,Authentification multifacteur
+Singapour,2020,Ransomware,Finance,Inconnu,50.76,2360,46.8,Logiciels non patchés,Analyse forensique
+Chine,2020,Man-in-the-Middle,Gouvernement,Cybercriminels,10.36,13,126.2,Ingénierie sociale,Chiffrement
+Égypte,2020,Ransomware,Finance,Insider,259.97,2128,459.0,Mots de passe faibles,Sauvegarde et restauration
+Royaume-Uni,2020,Ransomware,Énergie,Cybercriminels,286.66,2649,569.3,API non sécurisée,Segmentation réseau
+Chine,2020,Zero-Day,Santé,Hacktivistes,149.25,866,86.6,Accès non autorisé,Chiffrement
+Pays-Bas,2020,DDoS,Finance,Hacktivistes,22.05,8546054,22.1,Vulnérabilité zero-day,Authentification multifacteur
+Corée du Sud,2020,Ransomware,Technologie,Groupe de hackers,275.41,282420,626.3,Ingénierie sociale,Sauvegarde et restauration
+Pologne,2020,Spear Phishing,Finance,Groupe de hackers,44.37,32,75.8,API non sécurisée,Formation et sensibilisation
+États-Unis,2020,Ransomware,Finance,Groupe de hackers,229.82,4650,501.6,Vulnérabilité zero-day,Chiffrement
+Canada,2020,Man-in-the-Middle,Défense,Groupe de hackers,40.14,15,113.1,Mots de passe faibles,IDS/IPS
+Inde,2020,Malware,Technologie,Nation-État,135.79,3202055,17.0,Ingénierie sociale,Authentification multifacteur
+Indonésie,2020,Spear Phishing,Technologie,Cybercriminels,144.29,24,97.7,Accès non autorisé,Segmentation réseau
+Arabie Saoudite,2020,Man-in-the-Middle,Énergie,Groupe de hackers,36.17,14802,58.6,Ingénierie sociale,IDS/IPS
+Iran,2020,Phishing,Technologie,Insider,28.37,3648445,60.6,Ingénierie sociale,SIEM
+Suède,2020,DDoS,Santé,Groupe de hackers,51.33,853216,7.4,Vulnérabilité zero-day,Pare-feu
+États-Unis,2020,DDoS,Technologie,Groupe de hackers,18.35,10449,149.4,Mauvaise configuration,SIEM
+Russie,2020,Malware,Éducation,Hacktivistes,122.37,497597,129.6,Ingénierie sociale,Authentification multifacteur
+Arabie Saoudite,2020,Spear Phishing,Énergie,Nation-État,139.18,5541,17.5,API non sécurisée,Formation et sensibilisation
+Allemagne,2020,Ransomware,Transport,Nation-État,254.68,357467,331.3,Mots de passe faibles,Analyse forensique
+Arabie Saoudite,2020,Ransomware,Technologie,Cybercriminels,140.51,521472,191.8,Absence de chiffrement,Segmentation réseau
+Chine,2020,Zero-Day,Gouvernement,Inconnu,167.30,15147,381.3,Ingénierie sociale,IDS/IPS
+Japon,2020,Malware,Commerce,Groupe de hackers,64.07,600882,166.4,Mauvaise configuration,Analyse forensique
+Égypte,2020,Malware,Santé,Nation-État,133.49,1641,31.6,Logiciels non patchés,SIEM
+Italie,2020,Ransomware,Santé,Groupe de hackers,45.44,79,173.5,API non sécurisée,Sauvegarde et restauration
+Brésil,2020,Ransomware,Commerce,Groupe de hackers,157.44,645,220.7,Logiciels non patchés,Authentification multifacteur
+Pologne,2020,Spear Phishing,Gouvernement,Inconnu,165.38,12557,141.2,Mots de passe faibles,SIEM
+Turquie,2020,Ransomware,Technologie,Groupe de hackers,304.82,360463,703.4,Logiciels non patchés,Analyse forensique
+Pologne,2020,Zero-Day,Éducation,Cybercriminels,485.66,277,394.1,Vulnérabilité zero-day,Segmentation réseau
+Allemagne,2020,Injection SQL,Énergie,Cybercriminels,39.95,75015,55.1,Mauvaise configuration,Chiffrement
+Ukraine,2020,Zero-Day,Technologie,Inconnu,753.31,2784,464.5,API non sécurisée,Sauvegarde et restauration
+Iran,2020,Spear Phishing,Télécommunications,Hacktivistes,66.66,3815,155.2,Mots de passe faibles,Formation et sensibilisation
+Ukraine,2020,Phishing,Éducation,Cybercriminels,76.73,563818,72.9,Accès non autorisé,Analyse forensique
+Iran,2020,Injection SQL,Télécommunications,Nation-État,31.12,57041,146.3,Mauvaise configuration,SIEM
+Espagne,2020,Ransomware,Finance,Insider,106.49,189,41.9,Logiciels non patchés,SIEM
+Inde,2020,Phishing,Finance,Nation-État,71.56,157,49.2,Logiciels non patchés,IDS/IPS
+États-Unis,2020,Spear Phishing,Technologie,Hacktivistes,58.87,10,13.8,Vulnérabilité zero-day,IDS/IPS
+France,2020,Phishing,Gouvernement,Cybercriminels,70.46,12412,165.0,Mots de passe faibles,Pare-feu
+Brésil,2020,Spear Phishing,Santé,Nation-État,64.44,225,28.7,Logiciels non patchés,Chiffrement
+Nigeria,2020,Man-in-the-Middle,Technologie,Cybercriminels,20.04,456,45.0,Logiciels non patchés,EDR
+Canada,2020,Zero-Day,Défense,Inconnu,250.48,3474809,149.5,Logiciels non patchés,Pare-feu
+Royaume-Uni,2020,Zero-Day,Santé,Groupe de hackers,137.16,253,85.4,API non sécurisée,IDS/IPS
+Corée du Sud,2020,Phishing,Gouvernement,Cybercriminels,11.80,733839,13.9,Absence de chiffrement,Chiffrement
+Espagne,2020,Spear Phishing,Gouvernement,Cybercriminels,137.27,55,87.7,Accès non autorisé,Chiffrement
+Russie,2020,Injection SQL,Finance,Hacktivistes,16.04,16466,49.8,Accès non autorisé,EDR
+Chine,2020,Malware,Finance,Cybercriminels,25.76,438061,115.6,Accès non autorisé,SIEM
+Suède,2020,Ransomware,Finance,Groupe de hackers,262.23,413,512.4,API non sécurisée,IDS/IPS
+Royaume-Uni,2020,Phishing,Énergie,Hacktivistes,2.10,3338422,162.3,Mots de passe faibles,Authentification multifacteur
+Royaume-Uni,2020,Phishing,Technologie,Groupe de hackers,46.91,1603253,119.6,Mots de passe faibles,EDR
+États-Unis,2020,Man-in-the-Middle,Éducation,Groupe de hackers,25.33,59,22.6,Logiciels non patchés,EDR
+Russie,2020,Malware,Commerce,Insider,87.70,2130,28.9,Absence de chiffrement,Sauvegarde et restauration
+Russie,2020,Ransomware,Commerce,Nation-État,192.97,8715,385.8,Vulnérabilité zero-day,Chiffrement
+Inde,2020,Ransomware,Éducation,Nation-État,84.85,56600,234.9,Vulnérabilité zero-day,Sauvegarde et restauration
+États-Unis,2020,Malware,Finance,Nation-État,78.50,58152,73.5,Vulnérabilité zero-day,Authentification multifacteur
+Inde,2020,Phishing,Finance,Cybercriminels,11.07,354,80.8,Ingénierie sociale,Sauvegarde et restauration
+Royaume-Uni,2020,Injection SQL,Finance,Inconnu,13.57,750578,51.6,Logiciels non patchés,SIEM
+Afrique du Sud,2020,DDoS,Énergie,Cybercriminels,26.86,67766,58.6,Vulnérabilité zero-day,SIEM
+Canada,2020,Injection SQL,Gouvernement,Cybercriminels,6.66,46612,53.6,Mots de passe faibles,Segmentation réseau
+États-Unis,2020,Ransomware,Télécommunications,Nation-État,40.90,3545,648.6,Accès non autorisé,Formation et sensibilisation
+France,2020,Spear Phishing,Finance,Hacktivistes,165.66,436,132.2,Logiciels non patchés,EDR
+Brésil,2020,DDoS,Finance,Groupe de hackers,17.04,1138738,21.6,Vulnérabilité zero-day,Chiffrement
+Allemagne,2020,Zero-Day,Télécommunications,Insider,461.70,1709,315.7,Mauvaise configuration,Chiffrement
+Royaume-Uni,2020,Phishing,Défense,Groupe de hackers,41.86,23367,48.3,Ingénierie sociale,IDS/IPS
+Iran,2020,Malware,Santé,Nation-État,129.62,539001,98.7,Logiciels non patchés,SIEM
+Chine,2020,Ransomware,Gouvernement,Insider,160.02,826403,515.5,API non sécurisée,Pare-feu
+Colombie,2020,Zero-Day,Finance,Cybercriminels,699.35,8783206,301.2,Ingénierie sociale,Pare-feu
+Turquie,2020,Ransomware,Santé,Nation-État,235.03,134997,327.6,Logiciels non patchés,IDS/IPS
+Japon,2020,DDoS,Éducation,Cybercriminels,3.16,158750,42.8,Absence de chiffrement,IDS/IPS
+Espagne,2020,Zero-Day,Finance,Insider,394.47,80507,129.2,Ingénierie sociale,IDS/IPS
+Royaume-Uni,2020,Malware,Télécommunications,Groupe de hackers,111.74,30406,142.3,Mauvaise configuration,Pare-feu
+Inde,2020,Malware,Finance,Nation-État,56.85,2507,64.6,Ingénierie sociale,Sauvegarde et restauration
+Chine,2020,DDoS,Télécommunications,Insider,38.78,567805,6.9,Accès non autorisé,Pare-feu
+Turquie,2020,Phishing,Santé,Cybercriminels,15.22,29448,159.7,Mots de passe faibles,Chiffrement
+Pays-Bas,2020,Malware,Commerce,Cybercriminels,89.54,1160,146.2,Ingénierie sociale,EDR
+Chine,2020,Zero-Day,Santé,Cybercriminels,399.29,7103739,370.0,Absence de chiffrement,Segmentation réseau
+France,2020,Injection SQL,Finance,Cybercriminels,35.50,9600029,146.1,API non sécurisée,Pare-feu
+Nigeria,2020,Ransomware,Finance,Inconnu,30.60,295020,345.6,Mauvaise configuration,SIEM
+Mexique,2020,Zero-Day,Défense,Insider,89.67,570009,465.7,Mauvaise configuration,EDR
+Mexique,2020,Malware,Santé,Insider,58.46,39898,167.2,Absence de chiffrement,Formation et sensibilisation
+États-Unis,2020,Spear Phishing,Transport,Hacktivistes,174.26,299,161.4,API non sécurisée,Sauvegarde et restauration
+Canada,2020,Spear Phishing,Santé,Insider,145.91,67,39.5,Absence de chiffrement,Segmentation réseau
+États-Unis,2020,Ransomware,Énergie,Cybercriminels,140.13,9897,386.1,Mots de passe faibles,IDS/IPS
+Japon,2020,Phishing,Éducation,Nation-État,11.06,1858422,135.5,Accès non autorisé,Sauvegarde et restauration
+Iran,2020,Phishing,Santé,Groupe de hackers,28.76,435,138.8,Vulnérabilité zero-day,Chiffrement
+Chine,2020,Phishing,Gouvernement,Groupe de hackers,64.79,414133,146.4,Accès non autorisé,Formation et sensibilisation
+Égypte,2020,Phishing,Gouvernement,Insider,6.86,522169,69.9,Vulnérabilité zero-day,EDR
+Inde,2020,Phishing,Technologie,Groupe de hackers,32.70,3668921,16.3,API non sécurisée,Authentification multifacteur
+Russie,2020,Zero-Day,Éducation,Groupe de hackers,804.40,1973552,400.3,Mots de passe faibles,Formation et sensibilisation
+Japon,2020,Ransomware,Transport,Insider,273.09,614,248.3,Accès non autorisé,EDR
+Inde,2020,Ransomware,Défense,Hacktivistes,60.57,23963,229.3,Accès non autorisé,SIEM
+Corée du Sud,2020,DDoS,Défense,Insider,21.53,1001,48.5,Mots de passe faibles,Formation et sensibilisation
+Allemagne,2020,Man-in-the-Middle,Technologie,Nation-État,1.67,107213,162.9,Absence de chiffrement,IDS/IPS
+États-Unis,2021,Phishing,Santé,Inconnu,57.89,151,80.9,Vulnérabilité zero-day,Segmentation réseau
+Japon,2021,Phishing,Technologie,Inconnu,66.25,970,18.6,Ingénierie sociale,Pare-feu
+Canada,2021,Ransomware,Finance,Groupe de hackers,88.96,24219,91.5,Mots de passe faibles,Formation et sensibilisation
+Arabie Saoudite,2021,DDoS,Gouvernement,Cybercriminels,37.05,6116642,68.5,API non sécurisée,EDR
+Russie,2021,DDoS,Technologie,Cybercriminels,44.04,3959,104.6,API non sécurisée,Sauvegarde et restauration
+Italie,2021,Ransomware,Finance,Groupe de hackers,137.42,148,397.3,API non sécurisée,Formation et sensibilisation
+Inde,2021,Spear Phishing,Gouvernement,Groupe de hackers,94.02,3316,87.2,Mauvaise configuration,Analyse forensique
+Iran,2021,Spear Phishing,Finance,Insider,162.67,826,41.8,Vulnérabilité zero-day,Authentification multifacteur
+Allemagne,2021,DDoS,Défense,Insider,25.81,1948322,55.6,Mauvaise configuration,Chiffrement
+États-Unis,2021,Phishing,Éducation,Hacktivistes,89.16,3838232,69.6,Mauvaise configuration,Analyse forensique
+Corée du Sud,2021,Ransomware,Finance,Groupe de hackers,333.82,6020,215.5,Mots de passe faibles,SIEM
+Italie,2021,Spear Phishing,Gouvernement,Cybercriminels,176.17,6717,81.8,Mauvaise configuration,IDS/IPS
+Brésil,2021,Malware,Santé,Cybercriminels,113.17,88854,54.4,Vulnérabilité zero-day,Authentification multifacteur
+Singapour,2021,Malware,Finance,Hacktivistes,107.46,495218,120.7,Accès non autorisé,Formation et sensibilisation
+Royaume-Uni,2021,Man-in-the-Middle,Énergie,Hacktivistes,38.60,24917,62.2,Absence de chiffrement,SIEM
+Australie,2021,DDoS,Finance,Groupe de hackers,37.78,26583,68.9,Absence de chiffrement,Analyse forensique
+Canada,2021,Phishing,Santé,Insider,0.98,10459,28.9,Ingénierie sociale,Segmentation réseau
+États-Unis,2021,Spear Phishing,Gouvernement,Groupe de hackers,175.62,27690,150.8,Absence de chiffrement,Pare-feu
+Brésil,2021,Zero-Day,Finance,Groupe de hackers,752.20,1194,53.4,Mots de passe faibles,EDR
+États-Unis,2021,Phishing,Télécommunications,Nation-État,62.34,1707279,167.2,Absence de chiffrement,Sauvegarde et restauration
+États-Unis,2021,Phishing,Télécommunications,Groupe de hackers,36.10,4352124,51.6,Vulnérabilité zero-day,Authentification multifacteur
+Inde,2021,Zero-Day,Énergie,Inconnu,538.41,975,325.9,Vulnérabilité zero-day,Pare-feu
+Turquie,2021,DDoS,Finance,Cybercriminels,54.99,260028,65.7,Mots de passe faibles,Chiffrement
+Corée du Sud,2021,Ransomware,Transport,Inconnu,142.25,232,220.3,Mauvaise configuration,Chiffrement
+États-Unis,2021,Malware,Gouvernement,Groupe de hackers,126.42,596831,124.3,Accès non autorisé,Authentification multifacteur
+Afrique du Sud,2021,Zero-Day,Gouvernement,Insider,659.12,16076,412.3,Ingénierie sociale,Formation et sensibilisation
+Iran,2021,DDoS,Commerce,Cybercriminels,27.66,68097,37.9,Vulnérabilité zero-day,IDS/IPS
+Iran,2021,Ransomware,Finance,Groupe de hackers,309.13,5819,329.1,API non sécurisée,EDR
+Australie,2021,DDoS,Finance,Cybercriminels,53.75,15130,121.1,Vulnérabilité zero-day,Chiffrement
+Brésil,2021,Spear Phishing,Santé,Inconnu,88.36,2729,113.6,API non sécurisée,Formation et sensibilisation
+Royaume-Uni,2021,Injection SQL,Énergie,Groupe de hackers,57.64,44226,89.6,Mauvaise configuration,Sauvegarde et restauration
+Corée du Sud,2021,DDoS,Transport,Cybercriminels,56.77,4671,46.2,Absence de chiffrement,Authentification multifacteur
+Royaume-Uni,2021,Ransomware,Finance,Cybercriminels,334.28,1321,317.7,Vulnérabilité zero-day,Analyse forensique
+Allemagne,2021,Malware,Éducation,Inconnu,15.79,57054,41.5,Mots de passe faibles,Analyse forensique
+Canada,2021,Phishing,Télécommunications,Nation-État,34.99,120,70.3,Vulnérabilité zero-day,Formation et sensibilisation
+Iran,2021,Phishing,Technologie,Nation-État,20.30,15415,120.6,Mauvaise configuration,Chiffrement
+États-Unis,2021,Ransomware,Commerce,Cybercriminels,249.59,182388,582.2,Logiciels non patchés,Sauvegarde et restauration
+Suède,2021,Malware,Télécommunications,Nation-État,17.84,1256391,167.3,Ingénierie sociale,Formation et sensibilisation
+Turquie,2021,Ransomware,Finance,Cybercriminels,107.31,1681,702.0,Absence de chiffrement,Sauvegarde et restauration
+Japon,2021,DDoS,Santé,Nation-État,8.53,321343,79.2,API non sécurisée,Sauvegarde et restauration
+Allemagne,2021,Spear Phishing,Gouvernement,Cybercriminels,57.58,15,53.1,Vulnérabilité zero-day,IDS/IPS
+Iran,2021,Phishing,Finance,Nation-État,66.33,385,162.7,Logiciels non patchés,Formation et sensibilisation
+Australie,2021,Phishing,Technologie,Inconnu,66.75,1488581,57.1,Logiciels non patchés,Segmentation réseau
+Arabie Saoudite,2021,Phishing,Énergie,Cybercriminels,4.49,480,112.5,Mots de passe faibles,SIEM
+Japon,2021,Phishing,Télécommunications,Cybercriminels,52.42,4261427,148.7,Absence de chiffrement,Sauvegarde et restauration
+Corée du Sud,2021,Phishing,Commerce,Cybercriminels,22.22,78511,118.4,Mots de passe faibles,Segmentation réseau
+États-Unis,2021,Spear Phishing,Finance,Nation-État,81.24,1163,166.3,API non sécurisée,Sauvegarde et restauration
+Brésil,2021,Zero-Day,Gouvernement,Nation-État,912.20,226893,439.6,Mauvaise configuration,EDR
+Allemagne,2021,Spear Phishing,Finance,Groupe de hackers,122.44,988,65.9,Vulnérabilité zero-day,Sauvegarde et restauration
+Russie,2021,Zero-Day,Finance,Nation-État,56.57,404,88.5,Ingénierie sociale,EDR
+Brésil,2021,Ransomware,Technologie,Cybercriminels,48.90,199,431.9,Absence de chiffrement,Segmentation réseau
+France,2021,Zero-Day,Technologie,Insider,17.41,47185,392.2,API non sécurisée,Authentification multifacteur
+Indonésie,2021,Spear Phishing,Transport,Nation-État,20.90,29265,164.3,Vulnérabilité zero-day,Authentification multifacteur
+Nigeria,2021,Malware,Transport,Nation-État,2.18,535833,2.2,Accès non autorisé,Sauvegarde et restauration
+Chine,2021,Zero-Day,Télécommunications,Groupe de hackers,414.23,55810,432.8,Mauvaise configuration,Pare-feu
+Japon,2021,Injection SQL,Gouvernement,Inconnu,47.13,446158,117.7,Vulnérabilité zero-day,Formation et sensibilisation
+Japon,2021,Ransomware,Technologie,Nation-État,119.95,263861,668.0,API non sécurisée,Chiffrement
+Chine,2021,Malware,Finance,Hacktivistes,130.57,561,75.5,Vulnérabilité zero-day,Pare-feu
+États-Unis,2021,DDoS,Santé,Groupe de hackers,45.80,1136901,140.6,Ingénierie sociale,Authentification multifacteur
+Malaisie,2021,Zero-Day,Finance,Insider,40.43,13561821,206.3,Mauvaise configuration,Segmentation réseau
+Australie,2021,Ransomware,Télécommunications,Inconnu,258.88,178,344.5,API non sécurisée,Pare-feu
+Italie,2021,Phishing,Santé,Nation-État,44.92,298537,24.6,Mauvaise configuration,Authentification multifacteur
+France,2021,Malware,Santé,Hacktivistes,36.27,77207,104.9,Vulnérabilité zero-day,Authentification multifacteur
+Iran,2021,Spear Phishing,Commerce,Groupe de hackers,37.36,3246,46.1,Ingénierie sociale,SIEM
+Iran,2021,Zero-Day,Santé,Insider,560.20,273751,377.9,Ingénierie sociale,Pare-feu
+Nigeria,2021,Phishing,Technologie,Nation-État,79.69,211987,65.2,Mauvaise configuration,SIEM
+Canada,2021,Ransomware,Commerce,Insider,317.58,4743,392.4,Accès non autorisé,Analyse forensique
+États-Unis,2021,Injection SQL,Télécommunications,Inconnu,74.98,79869,109.4,Accès non autorisé,Pare-feu
+Indonésie,2021,Zero-Day,Gouvernement,Hacktivistes,561.61,810036,236.7,Vulnérabilité zero-day,IDS/IPS
+Brésil,2021,Spear Phishing,Santé,Nation-État,89.80,29209,46.3,Absence de chiffrement,SIEM
+Inde,2021,Injection SQL,Santé,Groupe de hackers,53.99,114769,22.9,API non sécurisée,Formation et sensibilisation
+Nigeria,2021,Malware,Énergie,Cybercriminels,122.06,1229,164.6,Mauvaise configuration,Pare-feu
+Chine,2021,DDoS,Santé,Cybercriminels,36.63,41612,86.3,Logiciels non patchés,Sauvegarde et restauration
+Iran,2021,Malware,Finance,Hacktivistes,24.51,3311040,50.0,Vulnérabilité zero-day,Sauvegarde et restauration
+Italie,2021,Ransomware,Santé,Groupe de hackers,3.94,946,692.6,Vulnérabilité zero-day,Authentification multifacteur
+Inde,2021,Ransomware,Commerce,Cybercriminels,329.94,18877,256.4,Accès non autorisé,Analyse forensique
+Inde,2021,Zero-Day,Finance,Cybercriminels,14.99,1808,171.7,Accès non autorisé,EDR
+Nigeria,2021,Phishing,Finance,Cybercriminels,61.65,583,49.9,Vulnérabilité zero-day,Pare-feu
+Malaisie,2021,Zero-Day,Commerce,Groupe de hackers,880.59,14023877,61.3,Logiciels non patchés,SIEM
+Russie,2021,Phishing,Télécommunications,Hacktivistes,25.95,73927,29.0,Absence de chiffrement,Segmentation réseau
+Colombie,2021,DDoS,Gouvernement,Insider,40.58,2539559,125.3,Ingénierie sociale,IDS/IPS
+Royaume-Uni,2021,Malware,Finance,Nation-État,89.00,44182,14.7,Mauvaise configuration,IDS/IPS
+Chine,2021,Zero-Day,Santé,Groupe de hackers,554.28,35365,302.5,Ingénierie sociale,EDR
+Colombie,2021,Man-in-the-Middle,Télécommunications,Cybercriminels,25.52,220,167.7,Mots de passe faibles,Chiffrement
+Turquie,2021,Spear Phishing,Éducation,Cybercriminels,144.74,12356,103.3,API non sécurisée,Authentification multifacteur
+Inde,2021,Spear Phishing,Gouvernement,Insider,148.24,26332,156.2,Ingénierie sociale,SIEM
+France,2021,Zero-Day,Gouvernement,Hacktivistes,501.84,1091,417.5,Mauvaise configuration,Chiffrement
+Inde,2021,DDoS,Santé,Cybercriminels,1.25,592072,142.8,Accès non autorisé,Analyse forensique
+Russie,2021,Phishing,Santé,Insider,43.36,2145,70.2,Mots de passe faibles,SIEM
+Singapour,2021,Phishing,Télécommunications,Nation-État,89.78,14350,66.0,Vulnérabilité zero-day,Authentification multifacteur
+Japon,2021,Phishing,Gouvernement,Insider,2.06,18258,54.0,API non sécurisée,Pare-feu
+Brésil,2021,Malware,Commerce,Nation-État,23.46,1167851,116.7,API non sécurisée,Analyse forensique
+Japon,2021,Zero-Day,Gouvernement,Cybercriminels,458.38,243391,163.3,Ingénierie sociale,Analyse forensique
+Russie,2021,Ransomware,Éducation,Groupe de hackers,136.60,77221,666.0,Mauvaise configuration,Analyse forensique
+États-Unis,2021,Man-in-the-Middle,Télécommunications,Groupe de hackers,20.82,9217,134.2,Logiciels non patchés,EDR
+Canada,2021,Malware,Finance,Nation-État,2.10,29327,69.8,Mots de passe faibles,SIEM
+Russie,2021,Phishing,Transport,Groupe de hackers,74.84,402487,78.8,Absence de chiffrement,IDS/IPS
+Singapour,2021,Man-in-the-Middle,Technologie,Insider,15.38,138448,45.5,Vulnérabilité zero-day,Segmentation réseau
+Chine,2021,Zero-Day,Finance,Cybercriminels,208.70,78102,242.9,Logiciels non patchés,Authentification multifacteur
+Corée du Sud,2021,Ransomware,Finance,Nation-État,316.33,64624,615.2,Absence de chiffrement,IDS/IPS
+Canada,2021,Spear Phishing,Santé,Insider,96.51,1736,135.6,Mots de passe faibles,Chiffrement
+Chine,2021,Phishing,Finance,Nation-État,20.62,92814,92.5,Mots de passe faibles,Pare-feu
+Égypte,2021,Phishing,Santé,Inconnu,62.56,141,84.3,Logiciels non patchés,Pare-feu
+Inde,2021,DDoS,Éducation,Inconnu,9.46,5622600,166.3,Vulnérabilité zero-day,Authentification multifacteur
+Chine,2021,Spear Phishing,Gouvernement,Cybercriminels,134.58,1110,138.6,Accès non autorisé,Chiffrement
+Russie,2021,DDoS,Finance,Cybercriminels,1.90,5336,90.3,Ingénierie sociale,Segmentation réseau
+Italie,2021,Ransomware,Finance,Cybercriminels,304.24,179,368.6,Absence de chiffrement,Analyse forensique
+Indonésie,2021,Injection SQL,Défense,Nation-État,58.87,245377,97.9,Logiciels non patchés,Pare-feu
+Espagne,2021,DDoS,Gouvernement,Groupe de hackers,42.34,17984,113.1,Mots de passe faibles,IDS/IPS
+Pologne,2021,Phishing,Technologie,Nation-État,53.12,9341,145.8,Logiciels non patchés,Formation et sensibilisation
+Brésil,2021,Phishing,Télécommunications,Nation-État,5.33,2557028,103.7,Vulnérabilité zero-day,IDS/IPS
+Ukraine,2021,Phishing,Santé,Cybercriminels,17.38,1738,111.9,API non sécurisée,SIEM
+Australie,2021,Ransomware,Finance,Hacktivistes,353.15,188,405.9,Ingénierie sociale,IDS/IPS
+Chine,2021,Malware,Santé,Nation-État,8.81,65163,156.4,API non sécurisée,Pare-feu
+Ukraine,2021,Malware,Télécommunications,Cybercriminels,121.44,780288,96.7,Vulnérabilité zero-day,SIEM
+Chine,2021,Malware,Gouvernement,Cybercriminels,119.61,2436039,160.0,Mauvaise configuration,Analyse forensique
+Chine,2021,Phishing,Gouvernement,Groupe de hackers,40.35,1032,160.0,Mauvaise configuration,IDS/IPS
+Royaume-Uni,2021,Zero-Day,Finance,Cybercriminels,65.93,70047,192.3,Logiciels non patchés,Chiffrement
+Japon,2021,Ransomware,Gouvernement,Insider,329.80,19990,397.5,Absence de chiffrement,Segmentation réseau
+Nigeria,2021,Ransomware,Commerce,Insider,156.56,8079,548.6,Logiciels non patchés,Segmentation réseau
+Japon,2021,Zero-Day,Énergie,Cybercriminels,918.61,71050,434.7,Vulnérabilité zero-day,Sauvegarde et restauration
+Canada,2021,Phishing,Éducation,Cybercriminels,73.55,368,72.6,Accès non autorisé,Pare-feu
+Inde,2021,Zero-Day,Éducation,Cybercriminels,689.32,76544,69.2,Accès non autorisé,Pare-feu
+États-Unis,2021,Injection SQL,Éducation,Cybercriminels,62.08,80850,11.2,Vulnérabilité zero-day,Segmentation réseau
+Ukraine,2021,Phishing,Commerce,Nation-État,0.29,2874,52.4,Absence de chiffrement,Authentification multifacteur
+Brésil,2021,Ransomware,Santé,Inconnu,177.60,119,184.7,Ingénierie sociale,Authentification multifacteur
+États-Unis,2021,DDoS,Télécommunications,Cybercriminels,34.66,1437,75.3,Accès non autorisé,Pare-feu
+Inde,2021,Ransomware,Santé,Hacktivistes,173.71,3882,152.9,API non sécurisée,Authentification multifacteur
+Chine,2021,Injection SQL,Finance,Cybercriminels,59.89,7073,157.6,Accès non autorisé,IDS/IPS
+Inde,2021,Spear Phishing,Gouvernement,Groupe de hackers,3.26,34,43.8,Absence de chiffrement,Analyse forensique
+Royaume-Uni,2021,Zero-Day,Finance,Groupe de hackers,542.15,127,257.1,Ingénierie sociale,Formation et sensibilisation
+Malaisie,2021,DDoS,Santé,Groupe de hackers,50.99,1043476,116.4,Vulnérabilité zero-day,Formation et sensibilisation
+Russie,2021,Injection SQL,Télécommunications,Nation-État,29.24,411124,152.4,Vulnérabilité zero-day,Analyse forensique
+Royaume-Uni,2021,Ransomware,Santé,Nation-État,147.42,3940,350.4,Logiciels non patchés,Chiffrement
+Russie,2021,Ransomware,Santé,Cybercriminels,321.86,630,439.0,Logiciels non patchés,Segmentation réseau
+Afrique du Sud,2021,Zero-Day,Technologie,Insider,767.41,1109904,86.7,API non sécurisée,Segmentation réseau
+Chine,2021,DDoS,Gouvernement,Cybercriminels,25.11,3760,29.2,Absence de chiffrement,Formation et sensibilisation
+Ukraine,2021,DDoS,Finance,Nation-État,8.46,3651463,99.5,Vulnérabilité zero-day,Authentification multifacteur
+Russie,2021,Ransomware,Défense,Groupe de hackers,18.18,48775,487.5,API non sécurisée,Pare-feu
+Corée du Sud,2021,Ransomware,Énergie,Inconnu,213.62,91,319.4,Mauvaise configuration,EDR
+Royaume-Uni,2021,Phishing,Commerce,Hacktivistes,71.22,2888400,28.2,Absence de chiffrement,Formation et sensibilisation
+Inde,2021,DDoS,Technologie,Nation-État,19.18,3000109,74.1,Vulnérabilité zero-day,Chiffrement
+Chine,2021,Ransomware,Éducation,Groupe de hackers,180.86,27201,555.4,Vulnérabilité zero-day,SIEM
+États-Unis,2021,Phishing,Transport,Cybercriminels,79.17,5293,17.7,Vulnérabilité zero-day,Segmentation réseau
+Allemagne,2021,Ransomware,Finance,Nation-État,249.45,125938,144.8,Logiciels non patchés,EDR
+Afrique du Sud,2021,Phishing,Énergie,Cybercriminels,51.64,2059908,43.1,Ingénierie sociale,IDS/IPS
+Royaume-Uni,2021,Malware,Finance,Hacktivistes,103.52,344920,51.8,Accès non autorisé,Pare-feu
+Russie,2021,Zero-Day,Transport,Groupe de hackers,249.15,179642,258.0,Accès non autorisé,Sauvegarde et restauration
+Canada,2021,Phishing,Finance,Cybercriminels,16.65,134,157.3,Logiciels non patchés,Analyse forensique
+Suède,2021,Ransomware,Éducation,Cybercriminels,44.64,3044,430.8,Absence de chiffrement,Authentification multifacteur
+Inde,2021,Zero-Day,Télécommunications,Cybercriminels,798.25,7644624,50.4,Mauvaise configuration,Sauvegarde et restauration
+Afrique du Sud,2021,Zero-Day,Défense,Inconnu,676.01,805,330.8,Absence de chiffrement,SIEM
+Colombie,2021,DDoS,Finance,Inconnu,9.96,55217,84.0,Accès non autorisé,IDS/IPS
+Indonésie,2021,Zero-Day,Finance,Cybercriminels,820.64,505737,105.9,Mots de passe faibles,EDR
+Mexique,2021,Phishing,Éducation,Cybercriminels,19.81,1317660,124.6,Mauvaise configuration,Authentification multifacteur
+Nigeria,2021,DDoS,Technologie,Hacktivistes,24.67,2032,110.0,Mauvaise configuration,Formation et sensibilisation
+Israël,2021,Phishing,Gouvernement,Cybercriminels,6.07,112,61.0,Mauvaise configuration,Pare-feu
+Inde,2021,Malware,Commerce,Inconnu,82.89,234450,49.0,Vulnérabilité zero-day,Sauvegarde et restauration
+Corée du Sud,2021,Ransomware,Commerce,Groupe de hackers,354.75,52,310.0,Ingénierie sociale,Analyse forensique
+Chine,2021,Phishing,Santé,Nation-État,81.00,29238,71.7,Ingénierie sociale,Segmentation réseau
+États-Unis,2021,Phishing,Gouvernement,Cybercriminels,3.51,159,131.7,Mots de passe faibles,Sauvegarde et restauration
+Chine,2021,Malware,Éducation,Nation-État,95.86,122271,14.9,Mots de passe faibles,EDR
+Pays-Bas,2021,Ransomware,Éducation,Nation-État,267.13,351,711.0,Accès non autorisé,Chiffrement
+Australie,2021,Ransomware,Télécommunications,Nation-État,111.27,874632,64.9,Mauvaise configuration,EDR
+Indonésie,2021,Phishing,Éducation,Cybercriminels,36.07,108142,81.5,API non sécurisée,Segmentation réseau
+Russie,2021,Ransomware,Finance,Nation-État,143.13,3586,30.5,Ingénierie sociale,Formation et sensibilisation
+Iran,2021,Phishing,Santé,Nation-État,16.62,995,8.5,Mauvaise configuration,IDS/IPS
+Canada,2021,Zero-Day,Énergie,Inconnu,435.45,993555,357.6,Accès non autorisé,Pare-feu
+États-Unis,2021,Malware,Technologie,Nation-État,16.14,8750,156.3,API non sécurisée,Authentification multifacteur
+Corée du Sud,2021,Malware,Gouvernement,Cybercriminels,109.23,2629137,3.2,Accès non autorisé,Pare-feu
+Espagne,2021,Phishing,Finance,Nation-État,54.60,134828,78.8,Mauvaise configuration,Segmentation réseau
+Allemagne,2021,Phishing,Gouvernement,Cybercriminels,32.12,15431,102.2,Vulnérabilité zero-day,Segmentation réseau
+France,2021,Zero-Day,Défense,Cybercriminels,655.90,118,251.0,Logiciels non patchés,Analyse forensique
+Pays-Bas,2021,Ransomware,Finance,Nation-État,16.17,16881,83.7,Absence de chiffrement,Sauvegarde et restauration
+Italie,2021,Ransomware,Commerce,Cybercriminels,144.61,290087,592.8,API non sécurisée,Segmentation réseau
+Chine,2021,Zero-Day,Santé,Cybercriminels,420.31,11786845,489.6,Accès non autorisé,Chiffrement
+France,2021,Malware,Santé,Hacktivistes,50.55,29408,105.1,Mots de passe faibles,Analyse forensique
+Russie,2021,Ransomware,Santé,Insider,62.39,301,678.7,API non sécurisée,Chiffrement
+Italie,2021,Spear Phishing,Gouvernement,Groupe de hackers,88.61,17,18.0,Absence de chiffrement,Pare-feu
+Iran,2021,Zero-Day,Gouvernement,Nation-État,225.20,23954,130.8,Vulnérabilité zero-day,IDS/IPS
+Mexique,2021,Zero-Day,Défense,Inconnu,119.82,639724,312.2,Logiciels non patchés,Formation et sensibilisation
+Nigeria,2021,Zero-Day,Finance,Cybercriminels,374.56,4288,466.9,API non sécurisée,Sauvegarde et restauration
+Mexique,2021,Spear Phishing,Gouvernement,Groupe de hackers,52.84,83434,104.0,Logiciels non patchés,EDR
+Chine,2021,Injection SQL,Commerce,Cybercriminels,58.69,20256,60.3,API non sécurisée,EDR
+France,2021,Phishing,Télécommunications,Cybercriminels,21.02,135,143.5,Absence de chiffrement,Authentification multifacteur
+Russie,2021,Zero-Day,Finance,Nation-État,892.20,181172,180.0,API non sécurisée,IDS/IPS
+Russie,2021,Ransomware,Finance,Hacktivistes,358.80,243350,333.7,Accès non autorisé,SIEM
+Allemagne,2021,Zero-Day,Finance,Insider,28.66,4709,195.4,Ingénierie sociale,Authentification multifacteur
+États-Unis,2021,Malware,Transport,Groupe de hackers,106.24,3867,109.1,API non sécurisée,IDS/IPS
+Royaume-Uni,2021,Man-in-the-Middle,Finance,Groupe de hackers,44.97,35,147.6,Absence de chiffrement,Pare-feu
+Australie,2021,Zero-Day,Télécommunications,Cybercriminels,504.95,287,95.5,Logiciels non patchés,EDR
+Suède,2021,DDoS,Santé,Inconnu,19.07,137447,56.7,Mots de passe faibles,SIEM
+Russie,2021,Spear Phishing,Technologie,Cybercriminels,7.54,4682,127.8,Ingénierie sociale,Formation et sensibilisation
+Inde,2021,Zero-Day,Télécommunications,Hacktivistes,98.84,347,93.5,API non sécurisée,SIEM
+Suède,2021,Ransomware,Technologie,Cybercriminels,66.54,5035,661.8,Logiciels non patchés,Segmentation réseau
+Ukraine,2021,Man-in-the-Middle,Finance,Inconnu,8.68,8221,22.5,Vulnérabilité zero-day,Authentification multifacteur
+Indonésie,2021,Injection SQL,Finance,Inconnu,57.01,3296,76.9,Mots de passe faibles,Formation et sensibilisation
+Chine,2021,Spear Phishing,Éducation,Cybercriminels,88.42,21536,80.1,Mauvaise configuration,Chiffrement
+États-Unis,2021,Injection SQL,Télécommunications,Cybercriminels,29.21,24040,140.9,Ingénierie sociale,SIEM
+Japon,2021,Spear Phishing,Santé,Cybercriminels,94.75,19859,112.8,API non sécurisée,Analyse forensique
+États-Unis,2022,DDoS,Gouvernement,Hacktivistes,37.64,7992896,3.6,API non sécurisée,SIEM
+Indonésie,2022,Phishing,Télécommunications,Cybercriminels,102.01,13513,79.7,Logiciels non patchés,Segmentation réseau
+Israël,2022,Zero-Day,Défense,Groupe de hackers,240.54,11662,194.2,Mauvaise configuration,Formation et sensibilisation
+Japon,2022,Malware,Commerce,Cybercriminels,96.22,10216,156.1,Mauvaise configuration,Segmentation réseau
+Mexique,2022,Phishing,Technologie,Cybercriminels,5.35,240,55.6,Mots de passe faibles,Analyse forensique
+Singapour,2022,Phishing,Énergie,Groupe de hackers,81.56,1894,5.1,Absence de chiffrement,IDS/IPS
+France,2022,Ransomware,Technologie,Cybercriminels,333.37,185,48.1,Vulnérabilité zero-day,Sauvegarde et restauration
+Allemagne,2022,Malware,Finance,Inconnu,154.37,494240,100.4,API non sécurisée,Sauvegarde et restauration
+Inde,2022,Injection SQL,Télécommunications,Insider,15.30,2186507,62.3,Mauvaise configuration,Segmentation réseau
+Arabie Saoudite,2022,Malware,Éducation,Cybercriminels,110.08,586122,124.8,API non sécurisée,Pare-feu
+Allemagne,2022,Zero-Day,Finance,Inconnu,715.65,406,151.7,Logiciels non patchés,Chiffrement
+Singapour,2022,DDoS,Finance,Inconnu,2.16,1726,70.1,Mots de passe faibles,Segmentation réseau
+Iran,2022,Malware,Technologie,Inconnu,55.40,108222,82.3,Vulnérabilité zero-day,SIEM
+Japon,2022,Malware,Énergie,Cybercriminels,163.76,1975,144.7,Ingénierie sociale,Segmentation réseau
+Royaume-Uni,2022,Malware,Défense,Cybercriminels,137.39,2301,104.8,Mots de passe faibles,Pare-feu
+Ukraine,2022,Malware,Technologie,Cybercriminels,137.52,512859,112.3,Absence de chiffrement,EDR
+Allemagne,2022,Malware,Défense,Cybercriminels,151.49,7782,130.3,Vulnérabilité zero-day,SIEM
+Arabie Saoudite,2022,Spear Phishing,Commerce,Groupe de hackers,23.37,83522,33.7,API non sécurisée,EDR
+Colombie,2022,Spear Phishing,Gouvernement,Insider,45.34,65754,105.0,Mauvaise configuration,SIEM
+États-Unis,2022,DDoS,Gouvernement,Hacktivistes,28.03,21920,2.7,Accès non autorisé,EDR
+États-Unis,2022,Phishing,Gouvernement,Cybercriminels,4.65,791988,161.0,Mauvaise configuration,Segmentation réseau
+Arabie Saoudite,2022,Malware,Santé,Nation-État,13.30,6578986,160.5,Mauvaise configuration,Authentification multifacteur
+Chine,2022,Zero-Day,Finance,Nation-État,769.50,3358,92.8,Logiciels non patchés,Authentification multifacteur
+Australie,2022,DDoS,Énergie,Insider,57.57,36943,104.3,Mauvaise configuration,Chiffrement
+Royaume-Uni,2022,Ransomware,Transport,Groupe de hackers,105.28,504,277.8,API non sécurisée,Authentification multifacteur
+Royaume-Uni,2022,Injection SQL,Énergie,Nation-État,1.55,18677,50.9,Mauvaise configuration,Chiffrement
+Arabie Saoudite,2022,Ransomware,Commerce,Cybercriminels,370.58,347153,517.0,Vulnérabilité zero-day,Segmentation réseau
+Russie,2022,Man-in-the-Middle,Énergie,Groupe de hackers,32.16,32240,5.2,Ingénierie sociale,IDS/IPS
+États-Unis,2022,Zero-Day,Gouvernement,Inconnu,685.73,10738,396.8,Vulnérabilité zero-day,IDS/IPS
+Royaume-Uni,2022,DDoS,Technologie,Groupe de hackers,2.82,156948,85.5,Accès non autorisé,Pare-feu
+Inde,2022,Ransomware,Finance,Hacktivistes,371.99,581374,559.1,Vulnérabilité zero-day,Analyse forensique
+Italie,2022,Malware,Technologie,Hacktivistes,15.77,22131,33.1,Mauvaise configuration,SIEM
+Royaume-Uni,2022,Ransomware,Transport,Hacktivistes,65.62,1435,413.6,Accès non autorisé,Analyse forensique
+Turquie,2022,Spear Phishing,Éducation,Nation-État,190.99,259,119.8,Ingénierie sociale,Formation et sensibilisation
+Allemagne,2022,Man-in-the-Middle,Finance,Cybercriminels,41.32,5438,148.4,Accès non autorisé,Formation et sensibilisation
+France,2022,Phishing,Gouvernement,Cybercriminels,25.29,2774,72.8,Mauvaise configuration,Formation et sensibilisation
+Royaume-Uni,2022,Spear Phishing,Technologie,Inconnu,114.83,42,152.8,Mauvaise configuration,Pare-feu
+Espagne,2022,Phishing,Santé,Nation-État,73.70,774173,140.6,Ingénierie sociale,Sauvegarde et restauration
+Japon,2022,Malware,Énergie,Cybercriminels,140.62,829,55.6,Mots de passe faibles,Chiffrement
+Nigeria,2022,Ransomware,Santé,Groupe de hackers,212.27,10252,687.0,Mots de passe faibles,Analyse forensique
+Allemagne,2022,Phishing,Technologie,Groupe de hackers,40.37,19427,56.4,Accès non autorisé,Segmentation réseau
+Égypte,2022,Ransomware,Santé,Cybercriminels,111.26,1598,703.5,Logiciels non patchés,Authentification multifacteur
+Royaume-Uni,2022,Phishing,Gouvernement,Cybercriminels,41.71,2651,77.4,Ingénierie sociale,Sauvegarde et restauration
+Israël,2022,Ransomware,Finance,Cybercriminels,381.10,27670,253.2,Absence de chiffrement,Analyse forensique
+Iran,2022,Spear Phishing,Transport,Nation-État,42.23,705,55.9,Absence de chiffrement,EDR
+France,2022,Spear Phishing,Commerce,Groupe de hackers,174.46,565,36.7,Absence de chiffrement,Pare-feu
+Mexique,2022,Ransomware,Commerce,Hacktivistes,206.08,245,212.9,Absence de chiffrement,SIEM
+Ukraine,2022,Phishing,Télécommunications,Groupe de hackers,94.27,794,155.1,Mauvaise configuration,Segmentation réseau
+Russie,2022,Ransomware,Éducation,Nation-État,96.34,203839,451.2,Logiciels non patchés,EDR
+États-Unis,2022,Phishing,Télécommunications,Nation-État,86.50,502,23.7,Accès non autorisé,EDR
+France,2022,Ransomware,Commerce,Insider,365.60,12897,317.5,Accès non autorisé,Formation et sensibilisation
+Corée du Sud,2022,Injection SQL,Gouvernement,Cybercriminels,12.14,303367,11.1,Mots de passe faibles,Formation et sensibilisation
+Russie,2022,Spear Phishing,Santé,Inconnu,178.99,834,72.8,Accès non autorisé,EDR
+Espagne,2022,Ransomware,Santé,Groupe de hackers,175.09,150,432.0,Absence de chiffrement,Authentification multifacteur
+Chine,2022,Phishing,Santé,Nation-État,88.49,341749,103.3,Accès non autorisé,Sauvegarde et restauration
+Russie,2022,Malware,Finance,Inconnu,112.11,903,69.6,API non sécurisée,Pare-feu
+Turquie,2022,Spear Phishing,Gouvernement,Cybercriminels,126.77,447,150.7,Logiciels non patchés,Analyse forensique
+Arabie Saoudite,2022,Zero-Day,Télécommunications,Insider,19.92,6404,252.3,API non sécurisée,Formation et sensibilisation
+Chine,2022,Phishing,Gouvernement,Groupe de hackers,52.92,672,95.4,Ingénierie sociale,Analyse forensique
+États-Unis,2022,Spear Phishing,Énergie,Cybercriminels,175.84,9067,21.4,Accès non autorisé,IDS/IPS
+Corée du Sud,2022,Phishing,Technologie,Cybercriminels,7.83,20816,88.0,Vulnérabilité zero-day,IDS/IPS
+États-Unis,2022,Zero-Day,Commerce,Cybercriminels,556.17,297,302.6,Ingénierie sociale,Segmentation réseau
+France,2022,Spear Phishing,Santé,Cybercriminels,101.71,5330,62.9,Absence de chiffrement,Pare-feu
+Royaume-Uni,2022,Phishing,Finance,Cybercriminels,85.66,6468,150.6,Vulnérabilité zero-day,Segmentation réseau
+États-Unis,2022,DDoS,Finance,Nation-État,30.26,4767,19.1,Accès non autorisé,IDS/IPS
+Corée du Sud,2022,Ransomware,Énergie,Cybercriminels,44.56,353,623.3,Accès non autorisé,EDR
+Malaisie,2022,Phishing,Énergie,Cybercriminels,49.74,108,166.1,Mots de passe faibles,Sauvegarde et restauration
+Australie,2022,Spear Phishing,Commerce,Groupe de hackers,138.60,28,73.6,Logiciels non patchés,Analyse forensique
+France,2022,Phishing,Technologie,Insider,69.85,27047,157.8,Mauvaise configuration,Segmentation réseau
+États-Unis,2022,Ransomware,Gouvernement,Inconnu,57.21,7753,642.0,Mots de passe faibles,Segmentation réseau
+France,2022,Phishing,Technologie,Nation-État,28.53,491,144.4,Accès non autorisé,Sauvegarde et restauration
+Brésil,2022,Phishing,Transport,Nation-État,88.92,897,63.2,Ingénierie sociale,SIEM
+Pays-Bas,2022,DDoS,Télécommunications,Cybercriminels,16.49,1442,77.9,Mauvaise configuration,SIEM
+Royaume-Uni,2022,Ransomware,Énergie,Nation-État,102.10,819097,660.9,Accès non autorisé,SIEM
+Égypte,2022,Phishing,Éducation,Insider,95.80,15077,33.1,Accès non autorisé,Chiffrement
+États-Unis,2022,Spear Phishing,Santé,Insider,121.79,96,148.8,API non sécurisée,Segmentation réseau
+Afrique du Sud,2022,Ransomware,Énergie,Inconnu,99.38,77571,382.8,Vulnérabilité zero-day,Analyse forensique
+Japon,2022,Malware,Énergie,Inconnu,111.70,1568180,142.2,Ingénierie sociale,Authentification multifacteur
+États-Unis,2022,DDoS,Énergie,Cybercriminels,51.86,16567,12.9,Mauvaise configuration,EDR
+Allemagne,2022,Spear Phishing,Transport,Cybercriminels,152.43,2274,63.4,Logiciels non patchés,Formation et sensibilisation
+Mexique,2022,Malware,Finance,Insider,28.85,365178,140.7,Mots de passe faibles,SIEM
+Australie,2022,Phishing,Technologie,Groupe de hackers,10.14,1401647,96.2,Accès non autorisé,Authentification multifacteur
+Iran,2022,Malware,Technologie,Inconnu,144.85,60028,72.2,Ingénierie sociale,Analyse forensique
+États-Unis,2022,DDoS,Santé,Cybercriminels,21.92,179443,82.8,API non sécurisée,Authentification multifacteur
+Inde,2022,DDoS,Télécommunications,Nation-État,4.22,1845054,11.5,API non sécurisée,Segmentation réseau
+Corée du Sud,2022,Zero-Day,Commerce,Nation-État,631.06,3585217,482.6,Mots de passe faibles,Pare-feu
+États-Unis,2022,Phishing,Technologie,Cybercriminels,19.14,122,152.5,Ingénierie sociale,IDS/IPS
+Inde,2022,Malware,Santé,Nation-État,81.63,16302,151.7,Accès non autorisé,SIEM
+Chine,2022,Phishing,Télécommunications,Nation-État,23.33,169,97.0,API non sécurisée,IDS/IPS
+Malaisie,2022,Phishing,Commerce,Nation-État,72.85,319971,34.1,Vulnérabilité zero-day,Analyse forensique
+États-Unis,2022,Zero-Day,Santé,Groupe de hackers,920.78,83609,500.0,Accès non autorisé,Formation et sensibilisation
+Israël,2022,DDoS,Santé,Inconnu,37.07,51380,37.6,Absence de chiffrement,EDR
+Chine,2022,Spear Phishing,Énergie,Nation-État,175.41,49677,132.1,Mots de passe faibles,Formation et sensibilisation
+Chine,2022,Ransomware,Commerce,Cybercriminels,9.31,34489,410.6,Mauvaise configuration,IDS/IPS
+Brésil,2022,Phishing,Finance,Hacktivistes,21.49,892,94.3,API non sécurisée,EDR
+Indonésie,2022,DDoS,Finance,Cybercriminels,40.04,7169,92.4,Logiciels non patchés,SIEM
+Afrique du Sud,2022,DDoS,Transport,Groupe de hackers,13.89,8207,25.8,Mauvaise configuration,Segmentation réseau
+Allemagne,2022,Phishing,Santé,Nation-État,62.84,34793,153.4,Logiciels non patchés,IDS/IPS
+Turquie,2022,Ransomware,Technologie,Nation-État,189.50,4171,111.7,Logiciels non patchés,Segmentation réseau
+Chine,2022,DDoS,Finance,Cybercriminels,44.96,65709,97.3,Ingénierie sociale,Segmentation réseau
+Russie,2022,Phishing,Finance,Inconnu,20.56,244,49.7,Logiciels non patchés,Analyse forensique
+Allemagne,2022,Zero-Day,Éducation,Cybercriminels,557.67,2202178,72.9,Ingénierie sociale,Authentification multifacteur
+Inde,2022,Ransomware,Commerce,Inconnu,228.00,40799,606.3,Accès non autorisé,Chiffrement
+Israël,2022,Phishing,Finance,Hacktivistes,12.91,176534,160.9,Mauvaise configuration,Pare-feu
+Russie,2022,DDoS,Télécommunications,Groupe de hackers,47.73,33440,6.7,Absence de chiffrement,Formation et sensibilisation
+Italie,2022,Malware,Éducation,Nation-État,78.81,604,18.3,Absence de chiffrement,Pare-feu
+Israël,2022,Malware,Finance,Cybercriminels,35.70,2046539,79.7,Absence de chiffrement,Analyse forensique
+Italie,2022,Spear Phishing,Finance,Inconnu,188.60,13310,30.1,Logiciels non patchés,Analyse forensique
+Inde,2022,Zero-Day,Technologie,Nation-État,393.88,1102,460.2,Mots de passe faibles,Pare-feu
+Corée du Sud,2022,Ransomware,Finance,Cybercriminels,230.48,259,632.8,Vulnérabilité zero-day,Pare-feu
+Russie,2022,Spear Phishing,Technologie,Groupe de hackers,93.42,46,97.4,Mauvaise configuration,IDS/IPS
+Italie,2022,Ransomware,Santé,Insider,309.59,2740,599.1,Mots de passe faibles,SIEM
+Royaume-Uni,2022,Spear Phishing,Gouvernement,Nation-État,142.32,21491,86.9,Mots de passe faibles,EDR
+Indonésie,2022,Zero-Day,Défense,Groupe de hackers,323.34,106,209.8,Mauvaise configuration,Sauvegarde et restauration
+Israël,2022,Malware,Défense,Cybercriminels,144.99,162709,125.8,Absence de chiffrement,IDS/IPS
+Chine,2022,DDoS,Éducation,Cybercriminels,14.08,323815,34.2,API non sécurisée,Segmentation réseau
+Indonésie,2022,Zero-Day,Technologie,Groupe de hackers,338.33,1212,342.9,Absence de chiffrement,Pare-feu
+France,2022,Malware,Éducation,Inconnu,88.77,2009,167.4,Ingénierie sociale,Chiffrement
+Australie,2022,Spear Phishing,Transport,Insider,134.86,24,93.7,Mauvaise configuration,Analyse forensique
+Brésil,2022,Malware,Transport,Nation-État,45.59,1057,151.2,Absence de chiffrement,IDS/IPS
+Allemagne,2022,Ransomware,Finance,Insider,317.89,2087,286.3,Vulnérabilité zero-day,Chiffrement
+Corée du Sud,2022,Phishing,Finance,Hacktivistes,91.49,2271292,127.9,Mauvaise configuration,Pare-feu
+Afrique du Sud,2022,DDoS,Télécommunications,Cybercriminels,41.95,5996,106.7,Mauvaise configuration,EDR
+Pays-Bas,2022,Spear Phishing,Gouvernement,Cybercriminels,81.53,2048,41.1,Ingénierie sociale,Segmentation réseau
+Espagne,2022,DDoS,Commerce,Cybercriminels,15.61,262684,146.3,API non sécurisée,Analyse forensique
+France,2022,Zero-Day,Télécommunications,Nation-État,915.78,122199,181.8,Mots de passe faibles,Analyse forensique
+Chine,2022,Phishing,Transport,Cybercriminels,16.92,219454,106.5,Logiciels non patchés,Segmentation réseau
+Allemagne,2022,Spear Phishing,Éducation,Cybercriminels,128.69,225,33.8,API non sécurisée,Analyse forensique
+Canada,2022,Ransomware,Santé,Cybercriminels,17.93,47973,128.6,Vulnérabilité zero-day,Chiffrement
+États-Unis,2022,Spear Phishing,Finance,Inconnu,13.97,44,55.0,Vulnérabilité zero-day,Sauvegarde et restauration
+Corée du Sud,2022,Phishing,Éducation,Insider,43.06,104363,88.5,API non sécurisée,Chiffrement
+Colombie,2022,Malware,Commerce,Cybercriminels,88.40,2064,18.4,API non sécurisée,Sauvegarde et restauration
+Royaume-Uni,2022,Phishing,Défense,Nation-État,37.43,1445,83.5,Mots de passe faibles,IDS/IPS
+Chine,2022,DDoS,Commerce,Nation-État,58.58,1030,29.6,Mots de passe faibles,Sauvegarde et restauration
+États-Unis,2022,DDoS,Gouvernement,Insider,29.69,2193209,32.1,Absence de chiffrement,Formation et sensibilisation
+États-Unis,2022,Phishing,Télécommunications,Groupe de hackers,26.12,91291,113.1,Logiciels non patchés,Pare-feu
+Royaume-Uni,2022,Ransomware,Éducation,Cybercriminels,46.46,105035,349.2,API non sécurisée,Formation et sensibilisation
+Mexique,2022,Malware,Finance,Nation-État,88.10,833,124.1,Mauvaise configuration,Sauvegarde et restauration
+Égypte,2022,Phishing,Commerce,Inconnu,68.37,1826,131.6,Vulnérabilité zero-day,Chiffrement
+Brésil,2022,Ransomware,Santé,Cybercriminels,33.49,645,187.3,Mauvaise configuration,IDS/IPS
+Italie,2022,DDoS,Technologie,Inconnu,54.08,533586,150.7,Accès non autorisé,EDR
+Chine,2022,Ransomware,Santé,Hacktivistes,337.22,1528,321.8,Vulnérabilité zero-day,Chiffrement
+France,2022,Zero-Day,Technologie,Nation-État,90.24,7296248,452.9,API non sécurisée,Segmentation réseau
+France,2022,Ransomware,Santé,Groupe de hackers,223.90,261,459.6,Accès non autorisé,Analyse forensique
+États-Unis,2022,Ransomware,Technologie,Nation-État,395.77,301663,79.5,Mauvaise configuration,IDS/IPS
+Ukraine,2022,Malware,Gouvernement,Cybercriminels,153.52,64280,33.1,API non sécurisée,Chiffrement
+Japon,2022,Ransomware,Technologie,Insider,178.19,454343,185.5,Ingénierie sociale,Chiffrement
+Ukraine,2022,Spear Phishing,Défense,Groupe de hackers,15.47,759,96.6,Vulnérabilité zero-day,SIEM
+Malaisie,2022,Phishing,Transport,Inconnu,95.08,201,123.0,Ingénierie sociale,Authentification multifacteur
+Australie,2022,Spear Phishing,Finance,Hacktivistes,157.24,1177,12.7,Vulnérabilité zero-day,Formation et sensibilisation
+Canada,2022,Ransomware,Santé,Insider,113.50,143,616.6,Absence de chiffrement,Sauvegarde et restauration
+États-Unis,2022,Ransomware,Défense,Cybercriminels,322.82,50412,226.0,Absence de chiffrement,Pare-feu
+Corée du Sud,2022,Ransomware,Gouvernement,Inconnu,161.88,473,696.6,Logiciels non patchés,Pare-feu
+France,2022,Ransomware,Télécommunications,Inconnu,108.97,3070,38.5,Logiciels non patchés,Authentification multifacteur
+Inde,2022,Spear Phishing,Technologie,Inconnu,173.97,338,34.9,Accès non autorisé,SIEM
+Chine,2022,Zero-Day,Commerce,Cybercriminels,961.45,155,178.9,Absence de chiffrement,SIEM
+Royaume-Uni,2022,Ransomware,Santé,Nation-État,377.09,538,395.5,Ingénierie sociale,SIEM
+Russie,2022,Man-in-the-Middle,Finance,Cybercriminels,22.39,66931,10.9,Ingénierie sociale,Chiffrement
+Espagne,2022,Phishing,Technologie,Cybercriminels,63.11,143,147.1,Mauvaise configuration,SIEM
+Chine,2022,DDoS,Transport,Inconnu,59.04,5160,155.2,Accès non autorisé,Formation et sensibilisation
+Russie,2022,Phishing,Santé,Nation-État,97.39,120604,60.7,Ingénierie sociale,Analyse forensique
+Italie,2022,Phishing,Défense,Cybercriminels,85.56,688451,31.9,API non sécurisée,Analyse forensique
+Australie,2022,DDoS,Finance,Cybercriminels,61.47,2348637,82.8,Mauvaise configuration,IDS/IPS
+Israël,2022,Phishing,Technologie,Inconnu,95.44,4499,161.1,API non sécurisée,IDS/IPS
+Russie,2022,Ransomware,Technologie,Cybercriminels,228.22,135,254.1,Ingénierie sociale,IDS/IPS
+Canada,2022,Ransomware,Télécommunications,Nation-État,366.71,928,477.2,Absence de chiffrement,EDR
+Chine,2022,DDoS,Finance,Nation-État,3.69,7239627,142.7,Vulnérabilité zero-day,Formation et sensibilisation
+Japon,2022,Malware,Technologie,Nation-État,153.50,987,148.4,Vulnérabilité zero-day,EDR
+Chine,2022,Malware,Gouvernement,Groupe de hackers,38.29,11025,94.5,Absence de chiffrement,Sauvegarde et restauration
+Chine,2022,Ransomware,Finance,Nation-État,305.61,57,244.2,API non sécurisée,Authentification multifacteur
+États-Unis,2022,Spear Phishing,Santé,Groupe de hackers,46.06,47116,155.9,Mots de passe faibles,EDR
+France,2022,Ransomware,Commerce,Cybercriminels,153.27,31500,139.4,Accès non autorisé,Segmentation réseau
+Indonésie,2022,Phishing,Commerce,Cybercriminels,31.19,1763,76.3,Logiciels non patchés,Sauvegarde et restauration
+Chine,2022,Spear Phishing,Technologie,Groupe de hackers,106.41,2991,14.3,Absence de chiffrement,Sauvegarde et restauration
+États-Unis,2022,Injection SQL,Finance,Cybercriminels,19.41,1151,7.6,Mauvaise configuration,Formation et sensibilisation
+Japon,2022,Spear Phishing,Gouvernement,Cybercriminels,175.67,2290,73.4,Accès non autorisé,Sauvegarde et restauration
+Iran,2022,Phishing,Commerce,Cybercriminels,87.52,1841175,51.5,Mots de passe faibles,Pare-feu
+Allemagne,2022,Phishing,Santé,Groupe de hackers,98.47,496,66.8,Mots de passe faibles,Authentification multifacteur
+États-Unis,2022,Ransomware,Énergie,Cybercriminels,128.63,166113,433.5,Mots de passe faibles,SIEM
+Japon,2022,Ransomware,Commerce,Insider,248.63,1663,696.1,Logiciels non patchés,Pare-feu
+Singapour,2022,Phishing,Finance,Inconnu,81.88,170,28.3,Absence de chiffrement,SIEM
+Arabie Saoudite,2022,Phishing,Santé,Cybercriminels,75.19,1082712,130.6,API non sécurisée,Analyse forensique
+Australie,2022,Phishing,Finance,Groupe de hackers,89.00,55995,99.2,Logiciels non patchés,Segmentation réseau
+Japon,2022,Phishing,Éducation,Nation-État,7.12,33659,33.0,Mauvaise configuration,SIEM
+France,2022,Spear Phishing,Télécommunications,Groupe de hackers,19.79,23,164.8,Mauvaise configuration,Pare-feu
+Australie,2022,DDoS,Santé,Inconnu,51.27,1974171,24.2,Ingénierie sociale,IDS/IPS
+Israël,2022,Zero-Day,Énergie,Cybercriminels,477.67,3267957,352.9,Mots de passe faibles,SIEM
+Inde,2022,Injection SQL,Commerce,Cybercriminels,71.74,110814,100.1,Logiciels non patchés,Authentification multifacteur
+Inde,2022,Phishing,Finance,Inconnu,5.10,468147,89.4,API non sécurisée,EDR
+États-Unis,2022,Spear Phishing,Technologie,Cybercriminels,142.58,54102,158.8,Ingénierie sociale,Segmentation réseau
+Corée du Sud,2022,Injection SQL,Technologie,Inconnu,78.83,1695,67.4,Mauvaise configuration,Formation et sensibilisation
+Nigeria,2022,DDoS,Technologie,Cybercriminels,19.01,4293,43.1,Absence de chiffrement,Segmentation réseau
+Ukraine,2022,Phishing,Éducation,Insider,75.60,3774201,19.3,Mauvaise configuration,Formation et sensibilisation
+Corée du Sud,2022,Spear Phishing,Énergie,Hacktivistes,42.12,2188,109.4,API non sécurisée,Authentification multifacteur
+Russie,2022,Ransomware,Éducation,Cybercriminels,244.24,35806,544.3,Mauvaise configuration,Authentification multifacteur
+Japon,2022,Malware,Énergie,Insider,57.94,2175,42.9,Ingénierie sociale,Chiffrement
+Allemagne,2022,Man-in-the-Middle,Éducation,Groupe de hackers,31.80,3521,67.0,Mots de passe faibles,Authentification multifacteur
+Allemagne,2022,Phishing,Télécommunications,Groupe de hackers,35.45,2718616,44.4,Vulnérabilité zero-day,SIEM
+Afrique du Sud,2022,Ransomware,Technologie,Insider,52.61,59,571.5,API non sécurisée,Analyse forensique
+Brésil,2022,Phishing,Défense,Cybercriminels,23.35,501728,152.3,Mauvaise configuration,EDR
+Afrique du Sud,2022,Ransomware,Finance,Cybercriminels,66.26,322,91.4,API non sécurisée,Chiffrement
+France,2022,Ransomware,Défense,Nation-État,280.10,100831,351.8,Ingénierie sociale,Formation et sensibilisation
+Japon,2022,DDoS,Santé,Hacktivistes,23.47,1080,39.9,Absence de chiffrement,Formation et sensibilisation
+Russie,2022,Ransomware,Transport,Nation-État,289.12,470,496.5,Accès non autorisé,SIEM
+Ukraine,2022,Ransomware,Finance,Cybercriminels,41.57,1098,290.3,Vulnérabilité zero-day,Pare-feu
+Italie,2022,Ransomware,Santé,Cybercriminels,279.22,81961,300.1,Mauvaise configuration,Segmentation réseau
+Chine,2022,DDoS,Finance,Insider,17.56,9095573,103.4,Ingénierie sociale,Analyse forensique
+Inde,2022,Malware,Santé,Cybercriminels,147.63,3020793,162.8,Vulnérabilité zero-day,Segmentation réseau
+France,2022,Ransomware,Technologie,Insider,403.86,791655,219.2,API non sécurisée,Chiffrement
+Allemagne,2022,Spear Phishing,Commerce,Hacktivistes,30.94,8192,102.4,API non sécurisée,Formation et sensibilisation
+Chine,2022,DDoS,Énergie,Nation-État,50.77,999435,45.0,Logiciels non patchés,EDR
+Turquie,2022,DDoS,Technologie,Cybercriminels,49.49,40918,68.9,Ingénierie sociale,EDR
+Royaume-Uni,2022,Phishing,Finance,Cybercriminels,82.33,202522,152.0,Vulnérabilité zero-day,Sauvegarde et restauration
+Ukraine,2022,Ransomware,Énergie,Groupe de hackers,108.52,351315,512.1,Accès non autorisé,Formation et sensibilisation
+Inde,2022,Ransomware,Défense,Cybercriminels,90.75,307,329.5,Absence de chiffrement,EDR
+Espagne,2022,Phishing,Gouvernement,Hacktivistes,68.18,207242,94.4,Logiciels non patchés,Sauvegarde et restauration
+Allemagne,2022,Ransomware,Transport,Groupe de hackers,293.70,721,265.2,Mauvaise configuration,Formation et sensibilisation
+Russie,2022,Ransomware,Technologie,Hacktivistes,293.85,1819,293.0,Mauvaise configuration,SIEM
+États-Unis,2022,Phishing,Finance,Inconnu,82.79,23068,95.2,Mauvaise configuration,EDR
+Chine,2022,DDoS,Gouvernement,Insider,38.59,1803512,125.2,Logiciels non patchés,Pare-feu
+États-Unis,2023,Malware,Commerce,Cybercriminels,81.86,7582719,129.8,Accès non autorisé,Formation et sensibilisation
+Pays-Bas,2023,Phishing,Gouvernement,Hacktivistes,21.26,766,11.9,Ingénierie sociale,Segmentation réseau
+Royaume-Uni,2023,Ransomware,Commerce,Groupe de hackers,424.28,721,255.9,Ingénierie sociale,Analyse forensique
+Royaume-Uni,2023,Zero-Day,Santé,Cybercriminels,59.16,92852,383.9,Absence de chiffrement,Analyse forensique
+Inde,2023,Spear Phishing,Finance,Groupe de hackers,119.04,38,144.3,Absence de chiffrement,Segmentation réseau
+Russie,2023,Spear Phishing,Gouvernement,Groupe de hackers,212.44,875,24.0,Mauvaise configuration,Pare-feu
+France,2023,Zero-Day,Gouvernement,Cybercriminels,1095.52,10105,333.1,Mauvaise configuration,Sauvegarde et restauration
+Espagne,2023,Ransomware,Gouvernement,Cybercriminels,224.53,83,119.5,Ingénierie sociale,Analyse forensique
+Chine,2023,Ransomware,Gouvernement,Inconnu,387.40,349866,73.6,Mauvaise configuration,Pare-feu
+Malaisie,2023,Phishing,Énergie,Groupe de hackers,29.77,2513,39.9,Mauvaise configuration,SIEM
+Australie,2023,Malware,Énergie,Insider,8.32,14154,58.8,Ingénierie sociale,Pare-feu
+Israël,2023,Ransomware,Finance,Inconnu,349.04,266,626.6,API non sécurisée,EDR
+Royaume-Uni,2023,Zero-Day,Finance,Cybercriminels,124.59,884,447.0,Mots de passe faibles,Chiffrement
+Royaume-Uni,2023,Zero-Day,Commerce,Inconnu,335.72,225588,126.5,Accès non autorisé,Chiffrement
+Chine,2023,Ransomware,Finance,Cybercriminels,247.51,159,265.1,Ingénierie sociale,Chiffrement
+États-Unis,2023,Zero-Day,Télécommunications,Groupe de hackers,457.13,164,335.5,Absence de chiffrement,EDR
+Turquie,2023,Phishing,Technologie,Nation-État,81.11,356150,63.3,Ingénierie sociale,Analyse forensique
+Chine,2023,Spear Phishing,Gouvernement,Inconnu,139.75,85,78.6,Ingénierie sociale,Authentification multifacteur
+Inde,2023,Ransomware,Transport,Cybercriminels,248.99,743,170.3,Ingénierie sociale,SIEM
+Japon,2023,Phishing,Technologie,Cybercriminels,47.95,55233,111.0,API non sécurisée,IDS/IPS
+Allemagne,2023,Malware,Énergie,Cybercriminels,108.40,4449,144.0,Absence de chiffrement,Analyse forensique
+Suède,2023,Ransomware,Gouvernement,Hacktivistes,71.14,7475,640.0,Vulnérabilité zero-day,Formation et sensibilisation
+Turquie,2023,Ransomware,Finance,Insider,102.02,2115,563.9,Absence de chiffrement,Segmentation réseau
+Royaume-Uni,2023,Spear Phishing,Gouvernement,Cybercriminels,7.70,31,68.4,Absence de chiffrement,Chiffrement
+États-Unis,2023,DDoS,Santé,Insider,26.69,488519,47.8,Vulnérabilité zero-day,Segmentation réseau
+Chine,2023,Malware,Gouvernement,Nation-État,149.79,35738,113.6,Mots de passe faibles,Chiffrement
+France,2023,Ransomware,Technologie,Nation-État,112.18,94,650.0,API non sécurisée,EDR
+France,2023,Phishing,Technologie,Groupe de hackers,107.86,2123072,40.8,Mauvaise configuration,Sauvegarde et restauration
+Chine,2023,Phishing,Gouvernement,Cybercriminels,49.32,930,131.5,Logiciels non patchés,SIEM
+Corée du Sud,2023,Malware,Défense,Nation-État,50.27,448623,82.9,Ingénierie sociale,Sauvegarde et restauration
+Australie,2023,Ransomware,Défense,Groupe de hackers,199.06,1712,548.0,Accès non autorisé,Authentification multifacteur
+Turquie,2023,Spear Phishing,Technologie,Cybercriminels,117.11,2874,154.9,Vulnérabilité zero-day,Sauvegarde et restauration
+Indonésie,2023,Zero-Day,Commerce,Inconnu,137.81,8755085,443.8,Logiciels non patchés,Analyse forensique
+Japon,2023,Ransomware,Santé,Nation-État,290.70,7640,561.9,Absence de chiffrement,Sauvegarde et restauration
+États-Unis,2023,Ransomware,Santé,Groupe de hackers,312.18,1762,656.7,Mots de passe faibles,Segmentation réseau
+Inde,2023,Phishing,Gouvernement,Cybercriminels,33.21,1582498,128.8,Ingénierie sociale,Formation et sensibilisation
+États-Unis,2023,Malware,Technologie,Inconnu,4.59,708035,59.7,Accès non autorisé,EDR
+Israël,2023,Spear Phishing,Gouvernement,Hacktivistes,198.13,14,160.9,Vulnérabilité zero-day,Authentification multifacteur
+Israël,2023,Ransomware,Finance,Cybercriminels,239.51,4716,89.8,Vulnérabilité zero-day,Sauvegarde et restauration
+États-Unis,2023,Spear Phishing,Défense,Groupe de hackers,147.69,888,64.2,Logiciels non patchés,IDS/IPS
+Israël,2023,Phishing,Gouvernement,Cybercriminels,18.96,7813,28.0,Ingénierie sociale,Analyse forensique
+Japon,2023,Phishing,Commerce,Groupe de hackers,72.61,16136,139.6,Ingénierie sociale,EDR
+Mexique,2023,Ransomware,Énergie,Cybercriminels,54.55,541,186.9,Accès non autorisé,Sauvegarde et restauration
+Singapour,2023,Malware,Finance,Cybercriminels,2.02,185839,142.4,Mauvaise configuration,Authentification multifacteur
+États-Unis,2023,DDoS,Commerce,Cybercriminels,21.40,6561703,79.2,Ingénierie sociale,Pare-feu
+Allemagne,2023,Phishing,Énergie,Groupe de hackers,23.38,46454,35.4,Vulnérabilité zero-day,Sauvegarde et restauration
+Iran,2023,Zero-Day,Défense,Nation-État,604.89,390,206.0,Accès non autorisé,Pare-feu
+Royaume-Uni,2023,Ransomware,Énergie,Inconnu,438.10,549687,403.6,Ingénierie sociale,Pare-feu
+Inde,2023,Man-in-the-Middle,Commerce,Nation-État,44.68,32725,29.2,Logiciels non patchés,Segmentation réseau
+États-Unis,2023,Man-in-the-Middle,Finance,Cybercriminels,29.97,29452,16.2,Accès non autorisé,Authentification multifacteur
+Turquie,2023,Ransomware,Santé,Cybercriminels,94.05,351507,682.4,Ingénierie sociale,Formation et sensibilisation
+Colombie,2023,Injection SQL,Technologie,Cybercriminels,27.04,7968299,89.9,Vulnérabilité zero-day,EDR
+Chine,2023,Malware,Éducation,Nation-État,100.69,188152,104.5,Accès non autorisé,IDS/IPS
+France,2023,Spear Phishing,Télécommunications,Groupe de hackers,195.78,39,129.2,Logiciels non patchés,Authentification multifacteur
+Russie,2023,Injection SQL,Défense,Groupe de hackers,14.36,343618,11.1,Mots de passe faibles,Sauvegarde et restauration
+Afrique du Sud,2023,Ransomware,Éducation,Hacktivistes,93.17,273,537.7,Ingénierie sociale,IDS/IPS
+Chine,2023,Ransomware,Technologie,Groupe de hackers,92.61,1737,33.4,API non sécurisée,EDR
+Canada,2023,DDoS,Défense,Cybercriminels,44.51,10628,9.2,Ingénierie sociale,EDR
+Allemagne,2023,Spear Phishing,Défense,Nation-État,60.83,12652,17.7,Vulnérabilité zero-day,Analyse forensique
+Chine,2023,Zero-Day,Technologie,Nation-État,385.21,244668,459.1,Mots de passe faibles,EDR
+Chine,2023,Phishing,Transport,Insider,9.73,507,55.5,Mauvaise configuration,SIEM
+Singapour,2023,Zero-Day,Finance,Inconnu,409.23,752115,221.4,Accès non autorisé,IDS/IPS
+États-Unis,2023,Ransomware,Transport,Groupe de hackers,225.34,2166,54.6,Mauvaise configuration,Analyse forensique
+Royaume-Uni,2023,Ransomware,Finance,Groupe de hackers,104.08,86,471.4,Logiciels non patchés,Formation et sensibilisation
+Singapour,2023,Ransomware,Transport,Hacktivistes,273.99,119411,657.2,API non sécurisée,Segmentation réseau
+Singapour,2023,Phishing,Commerce,Groupe de hackers,13.26,1192,49.7,Ingénierie sociale,Pare-feu
+États-Unis,2023,DDoS,Gouvernement,Nation-État,19.62,325068,151.4,Vulnérabilité zero-day,Chiffrement
+Royaume-Uni,2023,Ransomware,Télécommunications,Inconnu,211.19,17333,353.0,Vulnérabilité zero-day,SIEM
+Chine,2023,Phishing,Technologie,Cybercriminels,70.83,41790,98.6,Vulnérabilité zero-day,Segmentation réseau
+Singapour,2023,Phishing,Santé,Hacktivistes,4.63,58266,19.1,Mauvaise configuration,Formation et sensibilisation
+France,2023,Phishing,Finance,Insider,14.14,186812,22.5,Ingénierie sociale,Sauvegarde et restauration
+Colombie,2023,Zero-Day,Finance,Cybercriminels,363.24,498092,189.5,Accès non autorisé,Segmentation réseau
+Égypte,2023,Ransomware,Technologie,Groupe de hackers,227.18,185,641.8,Logiciels non patchés,IDS/IPS
+Mexique,2023,Malware,Technologie,Cybercriminels,139.76,154609,102.8,Accès non autorisé,Authentification multifacteur
+Espagne,2023,Phishing,Finance,Inconnu,29.08,1781459,4.2,Mots de passe faibles,Analyse forensique
+Chine,2023,Ransomware,Défense,Groupe de hackers,95.83,1514,680.6,Accès non autorisé,Authentification multifacteur
+États-Unis,2023,Phishing,Finance,Groupe de hackers,23.26,1724,113.3,Mauvaise configuration,Sauvegarde et restauration
+Royaume-Uni,2023,Phishing,Transport,Cybercriminels,92.41,4367723,132.3,Ingénierie sociale,Formation et sensibilisation
+Chine,2023,Phishing,Commerce,Groupe de hackers,85.03,33840,30.5,Logiciels non patchés,Formation et sensibilisation
+Nigeria,2023,Zero-Day,Technologie,Cybercriminels,540.46,1108,239.9,Ingénierie sociale,Pare-feu
+Turquie,2023,Zero-Day,Finance,Nation-État,892.06,1600,482.8,Absence de chiffrement,Segmentation réseau
+Royaume-Uni,2023,Phishing,Énergie,Groupe de hackers,109.21,36191,140.4,Absence de chiffrement,SIEM
+Allemagne,2023,Phishing,Commerce,Hacktivistes,23.96,175188,117.3,Absence de chiffrement,Chiffrement
+Inde,2023,Ransomware,Énergie,Nation-État,30.89,453,543.6,Ingénierie sociale,Sauvegarde et restauration
+Chine,2023,Spear Phishing,Finance,Groupe de hackers,45.14,1510,74.4,API non sécurisée,Chiffrement
+Russie,2023,DDoS,Finance,Inconnu,40.21,110621,19.7,Vulnérabilité zero-day,Authentification multifacteur
+Corée du Sud,2023,Malware,Éducation,Groupe de hackers,75.61,93753,103.1,Mauvaise configuration,Analyse forensique
+États-Unis,2023,Zero-Day,Gouvernement,Nation-État,292.51,7681,300.6,Absence de chiffrement,Authentification multifacteur
+Ukraine,2023,Zero-Day,Gouvernement,Groupe de hackers,517.09,2922886,316.2,Absence de chiffrement,Chiffrement
+Espagne,2023,Malware,Finance,Nation-État,148.70,44362,148.6,Vulnérabilité zero-day,IDS/IPS
+Brésil,2023,Ransomware,Télécommunications,Groupe de hackers,367.41,1073,556.9,Mots de passe faibles,Pare-feu
+Israël,2023,Ransomware,Éducation,Cybercriminels,403.57,40748,698.4,API non sécurisée,Authentification multifacteur
+Israël,2023,Phishing,Santé,Cybercriminels,102.59,769,31.0,API non sécurisée,Sauvegarde et restauration
+Arabie Saoudite,2023,Phishing,Télécommunications,Groupe de hackers,9.78,1005779,41.2,Mots de passe faibles,Sauvegarde et restauration
+Inde,2023,Phishing,Gouvernement,Cybercriminels,66.15,30484,114.2,Logiciels non patchés,Chiffrement
+Japon,2023,DDoS,Gouvernement,Groupe de hackers,54.05,142665,144.9,Accès non autorisé,Pare-feu
+Royaume-Uni,2023,Ransomware,Énergie,Cybercriminels,243.04,94,365.4,Ingénierie sociale,Chiffrement
+Afrique du Sud,2023,Phishing,Gouvernement,Nation-État,108.69,527438,163.8,Vulnérabilité zero-day,Sauvegarde et restauration
+Israël,2023,Ransomware,Commerce,Nation-État,349.40,347,424.6,Vulnérabilité zero-day,Authentification multifacteur
+Iran,2023,Ransomware,Santé,Hacktivistes,132.15,95979,415.1,Mots de passe faibles,Chiffrement
+États-Unis,2023,Ransomware,Finance,Cybercriminels,157.51,135,158.7,Absence de chiffrement,Sauvegarde et restauration
+Ukraine,2023,Phishing,Énergie,Nation-État,107.63,10560,146.5,Logiciels non patchés,Analyse forensique
+Brésil,2023,Phishing,Santé,Inconnu,33.66,3630756,149.7,Ingénierie sociale,Sauvegarde et restauration
+Australie,2023,DDoS,Santé,Insider,20.43,79751,72.0,Logiciels non patchés,SIEM
+Royaume-Uni,2023,DDoS,Commerce,Cybercriminels,38.36,9553,8.4,Accès non autorisé,Formation et sensibilisation
+France,2023,Zero-Day,Commerce,Nation-État,427.17,5236523,386.1,Mauvaise configuration,Analyse forensique
+Inde,2023,Phishing,Gouvernement,Groupe de hackers,53.80,16169,26.0,Logiciels non patchés,Formation et sensibilisation
+Turquie,2023,Injection SQL,Gouvernement,Nation-État,78.20,14880278,126.3,Mauvaise configuration,IDS/IPS
+Brésil,2023,Ransomware,Finance,Cybercriminels,75.75,222131,229.1,Mots de passe faibles,SIEM
+Ukraine,2023,Spear Phishing,Éducation,Hacktivistes,7.27,1537,111.9,Mauvaise configuration,Analyse forensique
+Chine,2023,Spear Phishing,Gouvernement,Cybercriminels,31.93,109,60.7,Logiciels non patchés,Formation et sensibilisation
+Chine,2023,Ransomware,Finance,Insider,310.68,15539,224.5,Mauvaise configuration,IDS/IPS
+Pays-Bas,2023,Phishing,Défense,Insider,108.22,130,154.2,Vulnérabilité zero-day,EDR
+France,2023,Phishing,Commerce,Hacktivistes,100.29,1679174,141.5,Accès non autorisé,Sauvegarde et restauration
+Chine,2023,Phishing,Santé,Cybercriminels,38.79,1921,114.5,Ingénierie sociale,Analyse forensique
+Chine,2023,Phishing,Énergie,Hacktivistes,17.65,519,139.3,Vulnérabilité zero-day,Formation et sensibilisation
+Japon,2023,Ransomware,Santé,Nation-État,191.86,2209,111.9,Absence de chiffrement,Authentification multifacteur
+Inde,2023,Zero-Day,Technologie,Inconnu,804.23,1202300,176.1,API non sécurisée,Formation et sensibilisation
+Brésil,2023,Ransomware,Défense,Nation-État,252.57,398018,581.8,Absence de chiffrement,Authentification multifacteur
+Japon,2023,DDoS,Technologie,Cybercriminels,34.41,19274,136.3,Absence de chiffrement,Authentification multifacteur
+Australie,2023,Ransomware,Énergie,Hacktivistes,259.85,1029,105.3,Accès non autorisé,Analyse forensique
+Japon,2023,Phishing,Gouvernement,Insider,95.33,4049,118.3,Vulnérabilité zero-day,Chiffrement
+Inde,2023,Man-in-the-Middle,Finance,Groupe de hackers,26.04,62511,77.7,Logiciels non patchés,Chiffrement
+Brésil,2023,Spear Phishing,Finance,Hacktivistes,179.76,85960,76.2,Ingénierie sociale,Formation et sensibilisation
+Malaisie,2023,Phishing,Commerce,Cybercriminels,38.87,5341,91.6,Ingénierie sociale,SIEM
+Brésil,2023,Ransomware,Technologie,Hacktivistes,194.01,604,544.7,Logiciels non patchés,Sauvegarde et restauration
+Espagne,2023,Phishing,Transport,Hacktivistes,60.00,78452,22.6,Mauvaise configuration,Analyse forensique
+Royaume-Uni,2023,Ransomware,Santé,Cybercriminels,336.70,139313,65.8,Accès non autorisé,EDR
+États-Unis,2023,Malware,Technologie,Nation-État,22.10,3391600,61.6,Mots de passe faibles,SIEM
+États-Unis,2023,Phishing,Santé,Groupe de hackers,60.87,10597,164.4,Mauvaise configuration,Pare-feu
+États-Unis,2023,Spear Phishing,Éducation,Cybercriminels,127.86,46501,18.6,Mauvaise configuration,EDR
+Iran,2023,Phishing,Technologie,Cybercriminels,34.78,579,124.1,Mots de passe faibles,SIEM
+Chine,2023,Spear Phishing,Santé,Insider,121.86,1570,29.1,API non sécurisée,Analyse forensique
+États-Unis,2023,Spear Phishing,Technologie,Inconnu,178.66,926,32.0,Mots de passe faibles,SIEM
+Brésil,2023,Ransomware,Éducation,Nation-État,224.80,1141,65.7,Absence de chiffrement,EDR
+Suède,2023,Ransomware,Éducation,Nation-État,214.65,1501,388.3,Absence de chiffrement,Formation et sensibilisation
+Japon,2023,Ransomware,Finance,Groupe de hackers,140.87,196,568.0,Vulnérabilité zero-day,Chiffrement
+Japon,2023,Ransomware,Gouvernement,Cybercriminels,333.61,3783,434.8,Absence de chiffrement,IDS/IPS
+Chine,2023,Ransomware,Télécommunications,Nation-État,212.41,377102,707.4,Ingénierie sociale,IDS/IPS
+Russie,2023,Ransomware,Santé,Groupe de hackers,54.71,362980,275.3,API non sécurisée,EDR
+Corée du Sud,2023,Ransomware,Finance,Groupe de hackers,135.47,256325,88.2,API non sécurisée,Chiffrement
+Russie,2023,Ransomware,Transport,Cybercriminels,5.78,112205,266.6,Accès non autorisé,SIEM
+Malaisie,2023,DDoS,Télécommunications,Hacktivistes,19.60,1838,72.8,Absence de chiffrement,Formation et sensibilisation
+Russie,2023,Phishing,Technologie,Cybercriminels,37.70,1715188,21.0,Vulnérabilité zero-day,SIEM
+Suède,2023,Spear Phishing,Énergie,Nation-État,103.50,513,96.7,Mots de passe faibles,Segmentation réseau
+Russie,2023,Spear Phishing,Technologie,Cybercriminels,120.79,159,4.3,Ingénierie sociale,SIEM
+Brésil,2023,Zero-Day,Finance,Inconnu,55.57,3869,196.9,Absence de chiffrement,Formation et sensibilisation
+Inde,2023,Ransomware,Finance,Hacktivistes,249.51,80474,245.6,Mauvaise configuration,Analyse forensique
+Chine,2023,Ransomware,Télécommunications,Cybercriminels,21.53,2906,138.8,Mauvaise configuration,Formation et sensibilisation
+Corée du Sud,2023,Spear Phishing,Défense,Hacktivistes,167.63,288,121.6,API non sécurisée,Sauvegarde et restauration
+Chine,2023,Spear Phishing,Technologie,Groupe de hackers,200.14,65,35.8,API non sécurisée,EDR
+Colombie,2023,Zero-Day,Gouvernement,Nation-État,214.22,4776,73.4,Ingénierie sociale,Segmentation réseau
+Canada,2023,Man-in-the-Middle,Technologie,Inconnu,49.54,206821,95.4,Ingénierie sociale,Sauvegarde et restauration
+Suède,2023,DDoS,Télécommunications,Groupe de hackers,28.32,250276,42.5,API non sécurisée,EDR
+Italie,2023,Zero-Day,Technologie,Cybercriminels,1057.15,4782,132.5,Mauvaise configuration,Segmentation réseau
+Russie,2023,Ransomware,Gouvernement,Cybercriminels,23.05,4707,101.5,Logiciels non patchés,Pare-feu
+Inde,2023,Phishing,Énergie,Hacktivistes,90.77,4022088,164.0,Ingénierie sociale,IDS/IPS
+Royaume-Uni,2023,Phishing,Défense,Insider,71.52,1106,37.5,Logiciels non patchés,Pare-feu
+États-Unis,2023,Phishing,Finance,Cybercriminels,94.74,46029,102.5,Logiciels non patchés,Segmentation réseau
+Canada,2023,Injection SQL,Technologie,Cybercriminels,18.90,3125,63.1,Ingénierie sociale,Segmentation réseau
+Inde,2023,Ransomware,Éducation,Insider,214.05,237,593.8,Vulnérabilité zero-day,Chiffrement
+Russie,2023,Man-in-the-Middle,Santé,Insider,27.72,11403,57.8,Vulnérabilité zero-day,Segmentation réseau
+Inde,2023,Spear Phishing,Gouvernement,Nation-État,53.75,4156,83.1,Accès non autorisé,Sauvegarde et restauration
+Japon,2023,Malware,Finance,Nation-État,114.29,16246,32.7,Accès non autorisé,SIEM
+Royaume-Uni,2023,Phishing,Gouvernement,Hacktivistes,2.33,53690,58.8,Logiciels non patchés,Segmentation réseau
+Chine,2023,Zero-Day,Finance,Nation-État,114.81,464,477.1,Absence de chiffrement,Chiffrement
+Allemagne,2023,Phishing,Finance,Cybercriminels,44.49,359,24.3,Mauvaise configuration,Chiffrement
+Mexique,2023,Phishing,Commerce,Insider,18.11,6454,8.2,Logiciels non patchés,Sauvegarde et restauration
+Chine,2023,Man-in-the-Middle,Défense,Groupe de hackers,0.92,141,32.6,Mauvaise configuration,EDR
+Chine,2023,DDoS,Transport,Cybercriminels,38.25,18625,67.0,Vulnérabilité zero-day,Formation et sensibilisation
+États-Unis,2023,Injection SQL,Commerce,Groupe de hackers,43.32,737010,145.4,API non sécurisée,EDR
+Nigeria,2023,Zero-Day,Finance,Insider,50.68,11957,113.6,Mauvaise configuration,Analyse forensique
+Canada,2023,Spear Phishing,Technologie,Nation-État,44.64,821,28.6,Logiciels non patchés,EDR
+Inde,2023,Ransomware,Technologie,Nation-État,208.61,601,40.2,Logiciels non patchés,Analyse forensique
+Russie,2023,Man-in-the-Middle,Gouvernement,Groupe de hackers,8.64,930,140.6,Vulnérabilité zero-day,Formation et sensibilisation
+Royaume-Uni,2023,Malware,Gouvernement,Hacktivistes,97.09,5553,132.0,Logiciels non patchés,Pare-feu
+Singapour,2023,Phishing,Technologie,Inconnu,81.85,169671,47.0,Ingénierie sociale,Segmentation réseau
+Chine,2023,Zero-Day,Défense,Groupe de hackers,201.18,28741,300.4,Logiciels non patchés,EDR
+France,2023,Malware,Gouvernement,Nation-État,57.65,155183,129.7,Mots de passe faibles,Sauvegarde et restauration
+Royaume-Uni,2023,DDoS,Finance,Nation-État,35.94,13552,139.0,Mauvaise configuration,Formation et sensibilisation
+Israël,2023,DDoS,Technologie,Cybercriminels,48.99,5555101,153.9,Accès non autorisé,Chiffrement
+Japon,2023,Zero-Day,Santé,Cybercriminels,1068.80,1719858,439.5,Ingénierie sociale,Formation et sensibilisation
+Suède,2023,DDoS,Finance,Nation-État,22.29,2681,156.4,Mots de passe faibles,IDS/IPS
+Chine,2023,Phishing,Télécommunications,Hacktivistes,49.64,42501,82.7,Vulnérabilité zero-day,Segmentation réseau
+Australie,2023,Ransomware,Finance,Hacktivistes,424.91,5590,74.1,Mots de passe faibles,Sauvegarde et restauration
+Inde,2023,Zero-Day,Finance,Groupe de hackers,605.01,182,89.5,Accès non autorisé,Segmentation réseau
+Israël,2023,Phishing,Technologie,Cybercriminels,74.57,348478,126.8,Logiciels non patchés,Pare-feu
+Corée du Sud,2023,Ransomware,Finance,Inconnu,352.05,50028,510.3,Vulnérabilité zero-day,Formation et sensibilisation
+Nigeria,2023,Ransomware,Technologie,Nation-État,266.92,198,499.7,API non sécurisée,SIEM
+Allemagne,2023,Malware,Télécommunications,Cybercriminels,71.59,4117797,9.6,Vulnérabilité zero-day,IDS/IPS
+Inde,2023,Zero-Day,Défense,Cybercriminels,961.06,9006297,252.2,Vulnérabilité zero-day,Sauvegarde et restauration
+Pologne,2023,Ransomware,Gouvernement,Hacktivistes,376.37,746341,580.6,Vulnérabilité zero-day,SIEM
+Arabie Saoudite,2023,Spear Phishing,Éducation,Nation-État,212.85,11,105.2,Vulnérabilité zero-day,Chiffrement
+Royaume-Uni,2023,Zero-Day,Commerce,Nation-État,636.76,14550422,84.6,Vulnérabilité zero-day,Chiffrement
+Pays-Bas,2023,Spear Phishing,Finance,Nation-État,136.63,20,96.0,Absence de chiffrement,Analyse forensique
+Russie,2023,Spear Phishing,Gouvernement,Groupe de hackers,28.31,90059,129.1,Absence de chiffrement,Pare-feu
+Japon,2023,Spear Phishing,Défense,Cybercriminels,18.37,16,31.8,Mauvaise configuration,SIEM
+États-Unis,2023,Phishing,Commerce,Cybercriminels,61.88,111699,156.3,Absence de chiffrement,Formation et sensibilisation
+Inde,2023,Spear Phishing,Santé,Nation-État,198.78,14678,19.0,Logiciels non patchés,Pare-feu
+Mexique,2023,Ransomware,Commerce,Cybercriminels,390.38,773150,49.8,Mots de passe faibles,Sauvegarde et restauration
+Canada,2023,Phishing,Transport,Hacktivistes,106.80,940648,121.9,Mots de passe faibles,IDS/IPS
+Allemagne,2023,Ransomware,Gouvernement,Cybercriminels,22.85,36763,426.2,Accès non autorisé,EDR
+Colombie,2023,Spear Phishing,Télécommunications,Cybercriminels,18.75,48,53.7,Accès non autorisé,EDR
+États-Unis,2023,Ransomware,Éducation,Cybercriminels,204.90,328,526.5,Ingénierie sociale,EDR
+Inde,2023,Ransomware,Finance,Cybercriminels,122.11,1308,537.4,Vulnérabilité zero-day,Sauvegarde et restauration
+Inde,2023,Phishing,Éducation,Nation-État,77.86,63403,83.0,Logiciels non patchés,SIEM
+États-Unis,2023,Zero-Day,Défense,Cybercriminels,492.57,133,244.3,Absence de chiffrement,Formation et sensibilisation
+Russie,2023,DDoS,Gouvernement,Cybercriminels,14.41,3054,78.7,Ingénierie sociale,Segmentation réseau
+Espagne,2023,Zero-Day,Finance,Insider,816.27,142321,59.6,API non sécurisée,EDR
+Chine,2023,DDoS,Santé,Cybercriminels,33.39,2105876,63.4,Logiciels non patchés,IDS/IPS
+Royaume-Uni,2023,Ransomware,Défense,Inconnu,301.14,385115,590.6,Logiciels non patchés,Sauvegarde et restauration
+Canada,2023,Spear Phishing,Santé,Groupe de hackers,105.02,37,23.1,Logiciels non patchés,Formation et sensibilisation
+Chine,2023,DDoS,Technologie,Groupe de hackers,1.43,4823588,16.9,Vulnérabilité zero-day,Segmentation réseau
+Allemagne,2023,Zero-Day,Santé,Hacktivistes,906.86,1675,300.1,Absence de chiffrement,IDS/IPS
+États-Unis,2023,Ransomware,Transport,Nation-État,156.87,339,182.8,Accès non autorisé,EDR
+Italie,2023,Spear Phishing,Technologie,Cybercriminels,92.96,38376,27.6,Mauvaise configuration,Sauvegarde et restauration
+Russie,2023,Phishing,Transport,Insider,74.22,58112,156.3,Accès non autorisé,Authentification multifacteur
+Afrique du Sud,2023,Spear Phishing,Technologie,Cybercriminels,113.49,1688,79.5,Ingénierie sociale,Sauvegarde et restauration
+Pays-Bas,2023,Phishing,Énergie,Cybercriminels,45.72,1275,20.7,Mots de passe faibles,Authentification multifacteur
+Royaume-Uni,2023,Man-in-the-Middle,Technologie,Hacktivistes,23.24,607,75.6,Vulnérabilité zero-day,Pare-feu
+Pays-Bas,2023,DDoS,Transport,Cybercriminels,42.18,1362,145.3,Absence de chiffrement,Analyse forensique
+Chine,2023,Man-in-the-Middle,Transport,Cybercriminels,39.47,9341,92.4,API non sécurisée,SIEM
+Royaume-Uni,2023,Malware,Énergie,Cybercriminels,46.79,579721,108.3,Vulnérabilité zero-day,Formation et sensibilisation
+Royaume-Uni,2023,Malware,Gouvernement,Groupe de hackers,149.42,67265,115.5,Vulnérabilité zero-day,Formation et sensibilisation
+Italie,2023,Phishing,Santé,Cybercriminels,55.89,1747,122.6,Ingénierie sociale,Chiffrement
+Pays-Bas,2023,Spear Phishing,Télécommunications,Groupe de hackers,160.78,61,75.6,API non sécurisée,SIEM
+Malaisie,2023,Ransomware,Gouvernement,Hacktivistes,385.37,5124,220.5,Mots de passe faibles,Sauvegarde et restauration
+États-Unis,2023,Man-in-the-Middle,Technologie,Nation-État,44.42,23038,134.6,Mauvaise configuration,Authentification multifacteur
+Brésil,2023,Ransomware,Finance,Inconnu,304.76,1607,545.1,Absence de chiffrement,EDR
+France,2023,Spear Phishing,Défense,Nation-État,124.18,14,160.0,Mauvaise configuration,Analyse forensique
+États-Unis,2023,Malware,Défense,Hacktivistes,156.66,1441,119.1,Mots de passe faibles,EDR
+Russie,2023,Phishing,Gouvernement,Cybercriminels,61.44,4616615,52.6,Absence de chiffrement,Chiffrement
+Allemagne,2023,Zero-Day,Santé,Groupe de hackers,492.48,1277,138.4,API non sécurisée,Pare-feu
+Australie,2023,Spear Phishing,Transport,Groupe de hackers,143.43,3319,77.9,Vulnérabilité zero-day,EDR
+Colombie,2023,Phishing,Santé,Hacktivistes,21.01,85830,62.4,Absence de chiffrement,EDR
+Israël,2023,DDoS,Technologie,Cybercriminels,62.50,1898954,73.3,Mauvaise configuration,Sauvegarde et restauration
+Arabie Saoudite,2023,Ransomware,Commerce,Nation-État,383.43,126,286.7,Logiciels non patchés,Formation et sensibilisation
+Allemagne,2023,Man-in-the-Middle,Éducation,Insider,8.86,30,98.7,API non sécurisée,Authentification multifacteur
+Chine,2023,Phishing,Énergie,Insider,97.64,218529,34.1,Mots de passe faibles,SIEM
+Russie,2023,Malware,Technologie,Groupe de hackers,136.66,6669870,57.9,API non sécurisée,Formation et sensibilisation
+Corée du Sud,2024,DDoS,Finance,Cybercriminels,69.60,23750,135.5,Logiciels non patchés,Formation et sensibilisation
+États-Unis,2024,Phishing,Technologie,Inconnu,60.10,3462904,50.5,Absence de chiffrement,IDS/IPS
+Royaume-Uni,2024,Malware,Gouvernement,Cybercriminels,62.44,341753,6.4,Accès non autorisé,EDR
+Chine,2024,Injection SQL,Finance,Insider,61.57,42655,71.7,Mauvaise configuration,Formation et sensibilisation
+Corée du Sud,2024,Ransomware,Télécommunications,Cybercriminels,368.92,12061,258.0,Mauvaise configuration,Chiffrement
+Japon,2024,Malware,Finance,Cybercriminels,180.98,3009,92.4,Absence de chiffrement,Sauvegarde et restauration
+Turquie,2024,Man-in-the-Middle,Santé,Cybercriminels,41.25,76867,69.6,Ingénierie sociale,Sauvegarde et restauration
+Afrique du Sud,2024,Phishing,Santé,Inconnu,78.04,4522600,83.5,API non sécurisée,Sauvegarde et restauration
+Allemagne,2024,Ransomware,Commerce,Cybercriminels,84.43,868,368.7,Vulnérabilité zero-day,Pare-feu
+Inde,2024,Malware,Santé,Cybercriminels,59.29,5136124,64.7,Mots de passe faibles,SIEM
+Chine,2024,Spear Phishing,Santé,Hacktivistes,81.81,22091,72.1,Vulnérabilité zero-day,EDR
+Pays-Bas,2024,Man-in-the-Middle,Défense,Nation-État,24.78,344,56.1,API non sécurisée,Analyse forensique
+Italie,2024,Phishing,Technologie,Nation-État,55.54,1006,151.0,Accès non autorisé,Sauvegarde et restauration
+France,2024,DDoS,Éducation,Nation-État,61.19,8809181,89.3,Accès non autorisé,Chiffrement
+États-Unis,2024,Malware,Technologie,Nation-État,82.90,10516,140.9,Mots de passe faibles,Formation et sensibilisation
+Royaume-Uni,2024,Spear Phishing,Énergie,Groupe de hackers,47.53,1015,120.7,Ingénierie sociale,Sauvegarde et restauration
+Chine,2024,Phishing,Énergie,Nation-État,88.69,2230,16.2,Logiciels non patchés,Pare-feu
+Allemagne,2024,Phishing,Télécommunications,Nation-État,3.65,1519464,126.9,Mots de passe faibles,Segmentation réseau
+Allemagne,2024,Malware,Énergie,Nation-État,2.63,48638,62.2,Accès non autorisé,Segmentation réseau
+Colombie,2024,Zero-Day,Télécommunications,Nation-État,938.27,11502,220.1,Absence de chiffrement,IDS/IPS
+Brésil,2024,DDoS,Éducation,Insider,28.50,1710,82.3,Absence de chiffrement,Formation et sensibilisation
+Brésil,2024,Phishing,Santé,Cybercriminels,63.28,14442,145.3,Ingénierie sociale,Pare-feu
+France,2024,Ransomware,Défense,Inconnu,181.41,274402,285.2,Vulnérabilité zero-day,Segmentation réseau
+Royaume-Uni,2024,Zero-Day,Santé,Inconnu,513.68,1881,108.6,Mauvaise configuration,SIEM
+Chine,2024,Spear Phishing,Énergie,Groupe de hackers,217.00,16,77.1,Accès non autorisé,Analyse forensique
+États-Unis,2024,Spear Phishing,Gouvernement,Cybercriminels,16.80,23932,109.4,Accès non autorisé,IDS/IPS
+États-Unis,2024,Phishing,Technologie,Cybercriminels,20.45,46526,54.8,Vulnérabilité zero-day,Segmentation réseau
+Colombie,2024,Spear Phishing,Gouvernement,Groupe de hackers,224.30,719,120.4,Mots de passe faibles,EDR
+Russie,2024,Man-in-the-Middle,Finance,Cybercriminels,47.83,5964,119.6,Logiciels non patchés,Chiffrement
+Chine,2024,Zero-Day,Éducation,Nation-État,78.51,306472,393.4,Mauvaise configuration,Formation et sensibilisation
+Turquie,2024,Ransomware,Santé,Inconnu,256.80,168,246.2,Accès non autorisé,Chiffrement
+Russie,2024,DDoS,Commerce,Cybercriminels,67.56,1006,27.4,API non sécurisée,Authentification multifacteur
+Russie,2024,Ransomware,Finance,Cybercriminels,395.95,427,359.6,Absence de chiffrement,Analyse forensique
+Iran,2024,Zero-Day,Éducation,Nation-État,1139.74,4345507,180.1,Absence de chiffrement,Pare-feu
+Royaume-Uni,2024,Zero-Day,Finance,Cybercriminels,316.87,726,110.7,Accès non autorisé,SIEM
+Colombie,2024,Injection SQL,Gouvernement,Hacktivistes,3.07,1869,92.7,Absence de chiffrement,Segmentation réseau
+Pologne,2024,DDoS,Technologie,Cybercriminels,39.10,9980,37.5,Logiciels non patchés,IDS/IPS
+Italie,2024,Malware,Santé,Hacktivistes,48.95,3344,143.9,API non sécurisée,Formation et sensibilisation
+Arabie Saoudite,2024,Ransomware,Éducation,Groupe de hackers,149.70,1865,291.0,Mauvaise configuration,SIEM
+Royaume-Uni,2024,Injection SQL,Commerce,Nation-État,18.41,2748935,120.5,Ingénierie sociale,Segmentation réseau
+Russie,2024,Ransomware,Gouvernement,Nation-État,447.00,4053,227.5,API non sécurisée,Analyse forensique
+Inde,2024,Zero-Day,Technologie,Hacktivistes,1031.51,10493152,397.4,Ingénierie sociale,Formation et sensibilisation
+Allemagne,2024,Ransomware,Transport,Nation-État,381.81,12806,438.3,API non sécurisée,Analyse forensique
+Corée du Sud,2024,Spear Phishing,Technologie,Groupe de hackers,88.31,9421,72.4,Absence de chiffrement,IDS/IPS
+Allemagne,2024,Zero-Day,Gouvernement,Cybercriminels,851.37,25297,479.6,Accès non autorisé,Analyse forensique
+Russie,2024,Ransomware,Commerce,Groupe de hackers,426.89,27892,308.6,Logiciels non patchés,Pare-feu
+Brésil,2024,Ransomware,Commerce,Insider,365.16,60414,55.3,Absence de chiffrement,Formation et sensibilisation
+Russie,2024,DDoS,Commerce,Cybercriminels,55.71,301096,141.9,Absence de chiffrement,IDS/IPS
+Allemagne,2024,Ransomware,Éducation,Groupe de hackers,243.91,99560,151.8,Absence de chiffrement,Chiffrement
+France,2024,Ransomware,Santé,Nation-État,214.32,124,150.7,Absence de chiffrement,IDS/IPS
+Italie,2024,Spear Phishing,Finance,Nation-État,54.11,10,122.7,Absence de chiffrement,Authentification multifacteur
+Australie,2024,Phishing,Santé,Groupe de hackers,106.70,245,126.6,Ingénierie sociale,Authentification multifacteur
+Afrique du Sud,2024,Phishing,Télécommunications,Insider,55.56,8073,51.8,Accès non autorisé,SIEM
+Chine,2024,Ransomware,Technologie,Inconnu,466.38,291509,569.0,Absence de chiffrement,SIEM
+Japon,2024,Ransomware,Technologie,Groupe de hackers,418.82,64302,431.3,Mauvaise configuration,Pare-feu
+Italie,2024,Ransomware,Gouvernement,Groupe de hackers,25.69,55274,624.5,Mots de passe faibles,IDS/IPS
+États-Unis,2024,Ransomware,Télécommunications,Insider,254.26,5616,471.2,Mauvaise configuration,Chiffrement
+États-Unis,2024,Phishing,Défense,Cybercriminels,106.18,411,105.5,Ingénierie sociale,Chiffrement
+Japon,2024,Zero-Day,Défense,Nation-État,917.52,602,417.0,Mots de passe faibles,Pare-feu
+Chine,2024,Phishing,Commerce,Nation-État,10.73,880,60.4,Mots de passe faibles,IDS/IPS
+États-Unis,2024,Malware,Transport,Nation-État,59.70,88597,166.3,Absence de chiffrement,EDR
+Russie,2024,Zero-Day,Technologie,Groupe de hackers,637.72,61207,285.3,Ingénierie sociale,Sauvegarde et restauration
+Italie,2024,Phishing,Gouvernement,Cybercriminels,84.72,386453,53.5,Vulnérabilité zero-day,Formation et sensibilisation
+France,2024,Ransomware,Énergie,Nation-État,21.32,339,599.8,Absence de chiffrement,Formation et sensibilisation
+Mexique,2024,Phishing,Technologie,Cybercriminels,37.21,14893,137.3,Vulnérabilité zero-day,IDS/IPS
+Iran,2024,Phishing,Télécommunications,Cybercriminels,51.43,69138,49.0,Mauvaise configuration,Formation et sensibilisation
+Royaume-Uni,2024,Ransomware,Technologie,Insider,246.60,4982,642.8,Mauvaise configuration,EDR
+Allemagne,2024,Phishing,Technologie,Inconnu,33.60,3387,153.1,Accès non autorisé,Sauvegarde et restauration
+Chine,2024,Phishing,Finance,Insider,3.42,3566301,151.3,Logiciels non patchés,Chiffrement
+Chine,2024,Phishing,Technologie,Insider,77.54,558330,54.0,Mots de passe faibles,EDR
+Brésil,2024,Zero-Day,Transport,Cybercriminels,744.48,81952,94.0,Mauvaise configuration,SIEM
+Chine,2024,Spear Phishing,Transport,Insider,119.82,8046,152.5,Vulnérabilité zero-day,Pare-feu
+Arabie Saoudite,2024,Spear Phishing,Santé,Inconnu,184.73,41992,108.2,Accès non autorisé,IDS/IPS
+États-Unis,2024,Malware,Gouvernement,Cybercriminels,132.42,126389,62.0,Mots de passe faibles,IDS/IPS
+Royaume-Uni,2024,Ransomware,Transport,Hacktivistes,74.43,73097,602.4,Vulnérabilité zero-day,Sauvegarde et restauration
+France,2024,Zero-Day,Défense,Nation-État,1033.69,245110,96.3,Ingénierie sociale,Chiffrement
+Canada,2024,Malware,Éducation,Hacktivistes,129.37,4864,154.6,Logiciels non patchés,Authentification multifacteur
+Ukraine,2024,Ransomware,Technologie,Cybercriminels,436.98,2791,356.3,API non sécurisée,Pare-feu
+Allemagne,2024,Malware,Santé,Groupe de hackers,96.34,7190636,89.0,Ingénierie sociale,Sauvegarde et restauration
+Inde,2024,DDoS,Commerce,Groupe de hackers,63.78,2392315,152.6,Logiciels non patchés,Segmentation réseau
+États-Unis,2024,Phishing,Éducation,Inconnu,99.34,3503,137.6,Mots de passe faibles,IDS/IPS
+Nigeria,2024,Malware,Technologie,Hacktivistes,14.48,746557,17.1,API non sécurisée,Chiffrement
+Chine,2024,Spear Phishing,Finance,Cybercriminels,186.40,1359,110.7,Vulnérabilité zero-day,Formation et sensibilisation
+Japon,2024,Phishing,Finance,Cybercriminels,16.11,10140,104.1,Mots de passe faibles,SIEM
+Indonésie,2024,Spear Phishing,Santé,Nation-État,168.63,66,4.0,Mots de passe faibles,Sauvegarde et restauration
+Mexique,2024,Ransomware,Santé,Groupe de hackers,167.13,959432,579.0,Mots de passe faibles,Chiffrement
+Espagne,2024,Phishing,Gouvernement,Cybercriminels,57.49,12240,7.0,API non sécurisée,EDR
+Nigeria,2024,Phishing,Défense,Nation-État,76.22,19073,119.2,Absence de chiffrement,Analyse forensique
+Canada,2024,Ransomware,Finance,Nation-État,211.76,6671,415.9,API non sécurisée,EDR
+France,2024,Malware,Technologie,Nation-État,116.96,871183,157.4,API non sécurisée,EDR
+Allemagne,2024,Man-in-the-Middle,Commerce,Inconnu,51.67,14196,69.7,Mauvaise configuration,Pare-feu
+Singapour,2024,Ransomware,Transport,Nation-État,148.32,1233,502.7,API non sécurisée,IDS/IPS
+États-Unis,2024,Ransomware,Finance,Cybercriminels,55.01,299,602.7,API non sécurisée,Authentification multifacteur
+Chine,2024,Phishing,Technologie,Cybercriminels,13.00,49738,83.4,Accès non autorisé,EDR
+Allemagne,2024,Ransomware,Éducation,Hacktivistes,196.80,109021,353.1,Absence de chiffrement,SIEM
+Canada,2024,Phishing,Finance,Inconnu,5.23,1122,39.1,Absence de chiffrement,Chiffrement
+Arabie Saoudite,2024,Spear Phishing,Santé,Nation-État,177.26,56324,9.0,Accès non autorisé,Analyse forensique
+États-Unis,2024,DDoS,Défense,Groupe de hackers,61.77,887796,38.6,Absence de chiffrement,Segmentation réseau
+Malaisie,2024,Phishing,Éducation,Hacktivistes,89.67,45590,9.1,Vulnérabilité zero-day,Sauvegarde et restauration
+France,2024,Malware,Commerce,Groupe de hackers,184.64,784336,12.6,Mauvaise configuration,Formation et sensibilisation
+Espagne,2024,Ransomware,Finance,Nation-État,5.04,236,446.9,Mots de passe faibles,EDR
+Pays-Bas,2024,Phishing,Commerce,Groupe de hackers,18.27,1803,150.1,Logiciels non patchés,Pare-feu
+Russie,2024,DDoS,Finance,Cybercriminels,39.59,151069,100.7,Logiciels non patchés,Authentification multifacteur
+Inde,2024,Ransomware,Éducation,Inconnu,348.18,267,676.8,Mots de passe faibles,SIEM
+Turquie,2024,Phishing,Santé,Insider,7.81,108435,54.4,Logiciels non patchés,IDS/IPS
+Royaume-Uni,2024,Spear Phishing,Énergie,Inconnu,168.87,2056,27.8,Mots de passe faibles,Segmentation réseau
+Russie,2024,Ransomware,Finance,Nation-État,121.56,179607,603.2,Mauvaise configuration,IDS/IPS
+Chine,2024,Phishing,Finance,Insider,111.66,15379,143.2,Accès non autorisé,Pare-feu
+Arabie Saoudite,2024,Ransomware,Finance,Insider,106.52,398,393.7,Accès non autorisé,Authentification multifacteur
+États-Unis,2024,Ransomware,Commerce,Groupe de hackers,453.12,22169,521.4,Accès non autorisé,Segmentation réseau
+Israël,2024,Zero-Day,Transport,Groupe de hackers,575.44,2266121,59.1,API non sécurisée,Chiffrement
+Iran,2024,Phishing,Finance,Inconnu,107.47,2896,128.2,Mots de passe faibles,Pare-feu
+Inde,2024,DDoS,Télécommunications,Cybercriminels,15.07,1957625,92.8,API non sécurisée,Authentification multifacteur
+Iran,2024,Ransomware,Éducation,Groupe de hackers,247.72,86,132.0,Ingénierie sociale,Chiffrement
+Mexique,2024,Ransomware,Télécommunications,Cybercriminels,389.66,514,542.1,API non sécurisée,Analyse forensique
+États-Unis,2024,Phishing,Finance,Insider,35.95,244,36.7,Ingénierie sociale,Pare-feu
+Australie,2024,Phishing,Éducation,Groupe de hackers,85.75,65593,117.6,Accès non autorisé,Sauvegarde et restauration
+Nigeria,2024,Ransomware,Énergie,Insider,54.60,63,272.4,Ingénierie sociale,Sauvegarde et restauration
+Israël,2024,DDoS,Finance,Cybercriminels,12.93,2474,66.7,Mots de passe faibles,Authentification multifacteur
+États-Unis,2024,Ransomware,Télécommunications,Hacktivistes,388.61,4337,236.7,API non sécurisée,Formation et sensibilisation
+Iran,2024,Phishing,Énergie,Hacktivistes,99.00,662629,12.1,Absence de chiffrement,EDR
+États-Unis,2024,Ransomware,Santé,Insider,96.20,64676,532.3,API non sécurisée,Sauvegarde et restauration
+Suède,2024,Zero-Day,Commerce,Groupe de hackers,848.06,2780,202.6,Absence de chiffrement,Chiffrement
+Royaume-Uni,2024,Phishing,Commerce,Cybercriminels,3.85,2415728,94.2,Mots de passe faibles,Chiffrement
+Pologne,2024,DDoS,Défense,Nation-État,50.19,7768233,114.5,Logiciels non patchés,Authentification multifacteur
+Arabie Saoudite,2024,Malware,Énergie,Groupe de hackers,82.77,8841,93.6,Logiciels non patchés,IDS/IPS
+Japon,2024,Ransomware,Gouvernement,Cybercriminels,166.52,264,485.6,Ingénierie sociale,Sauvegarde et restauration
+Inde,2024,Phishing,Défense,Cybercriminels,11.13,235226,91.9,Accès non autorisé,EDR
+Arabie Saoudite,2024,Malware,Gouvernement,Cybercriminels,63.18,17015,83.8,Mots de passe faibles,Segmentation réseau
+Italie,2024,Malware,Finance,Hacktivistes,106.34,5261451,105.0,Absence de chiffrement,Sauvegarde et restauration
+Espagne,2024,Zero-Day,Technologie,Cybercriminels,758.65,115,124.4,Logiciels non patchés,Formation et sensibilisation
+Corée du Sud,2024,Spear Phishing,Santé,Nation-État,85.28,14278,86.8,API non sécurisée,EDR
+Canada,2024,DDoS,Télécommunications,Cybercriminels,49.40,935583,92.6,Mauvaise configuration,SIEM
+Japon,2024,Injection SQL,Défense,Nation-État,30.57,3778,131.1,Absence de chiffrement,Chiffrement
+Inde,2024,Zero-Day,Énergie,Hacktivistes,815.80,6595738,466.2,Ingénierie sociale,Analyse forensique
+Inde,2024,Malware,Technologie,Cybercriminels,43.64,3506,105.2,Accès non autorisé,IDS/IPS
+Allemagne,2024,Phishing,Santé,Hacktivistes,13.01,3718,31.4,Vulnérabilité zero-day,Pare-feu
+Indonésie,2024,Zero-Day,Éducation,Inconnu,307.47,136,312.2,Mauvaise configuration,Pare-feu
+Chine,2024,Zero-Day,Gouvernement,Hacktivistes,374.30,154759,389.0,Absence de chiffrement,IDS/IPS
+Japon,2024,Phishing,Technologie,Nation-État,16.68,43427,35.5,Mots de passe faibles,Authentification multifacteur
+Russie,2024,Ransomware,Finance,Nation-État,334.52,495,270.7,Absence de chiffrement,SIEM
+Australie,2024,Phishing,Finance,Hacktivistes,117.17,416697,37.6,Accès non autorisé,Authentification multifacteur
+Canada,2024,Ransomware,Énergie,Cybercriminels,189.39,693,108.2,Mots de passe faibles,Pare-feu
+Nigeria,2024,Phishing,Télécommunications,Groupe de hackers,5.33,231,88.2,Logiciels non patchés,EDR
+Corée du Sud,2024,Ransomware,Énergie,Groupe de hackers,452.05,624,299.9,Accès non autorisé,Segmentation réseau
+États-Unis,2024,Ransomware,Énergie,Cybercriminels,450.35,636753,403.9,Vulnérabilité zero-day,Analyse forensique
+Royaume-Uni,2024,Ransomware,Éducation,Groupe de hackers,429.01,98,514.5,Logiciels non patchés,EDR
+Indonésie,2024,Phishing,Technologie,Cybercriminels,69.03,397345,47.3,Mots de passe faibles,Chiffrement
+Israël,2024,Ransomware,Gouvernement,Cybercriminels,232.88,291,703.3,Vulnérabilité zero-day,Authentification multifacteur
+Japon,2024,Zero-Day,Commerce,Inconnu,1167.78,3242797,335.7,Absence de chiffrement,Formation et sensibilisation
+Italie,2024,Spear Phishing,Gouvernement,Insider,110.15,179,157.3,API non sécurisée,Segmentation réseau
+Canada,2024,Phishing,Technologie,Groupe de hackers,54.82,6649,88.7,Mots de passe faibles,Chiffrement
+Inde,2024,Spear Phishing,Santé,Nation-État,6.41,263,148.5,Absence de chiffrement,Formation et sensibilisation
+Russie,2024,Malware,Santé,Inconnu,40.34,2614,25.4,Ingénierie sociale,Formation et sensibilisation
+Inde,2024,Phishing,Télécommunications,Groupe de hackers,70.90,156,84.8,Mots de passe faibles,SIEM
+Royaume-Uni,2024,Ransomware,Télécommunications,Cybercriminels,414.80,958029,293.2,Absence de chiffrement,Sauvegarde et restauration
+Inde,2024,Phishing,Éducation,Hacktivistes,63.26,69691,38.8,Mauvaise configuration,Analyse forensique
+Japon,2024,Ransomware,Technologie,Groupe de hackers,98.87,703698,259.1,Mots de passe faibles,SIEM
+Suède,2024,Ransomware,Finance,Inconnu,464.20,109208,705.6,Vulnérabilité zero-day,Analyse forensique
+Italie,2024,Zero-Day,Défense,Nation-État,93.26,288,250.4,Logiciels non patchés,IDS/IPS
+Royaume-Uni,2024,Ransomware,Santé,Cybercriminels,163.40,2005,653.4,Mauvaise configuration,SIEM
+États-Unis,2024,Zero-Day,Transport,Groupe de hackers,688.25,89196,266.3,API non sécurisée,Formation et sensibilisation
+Russie,2024,Ransomware,Santé,Inconnu,121.20,103286,396.7,Mots de passe faibles,Analyse forensique
+Australie,2024,Malware,Finance,Hacktivistes,110.15,339425,107.3,Accès non autorisé,Segmentation réseau
+Allemagne,2024,DDoS,Éducation,Cybercriminels,41.19,8285,74.1,Mots de passe faibles,Sauvegarde et restauration
+Israël,2024,Ransomware,Commerce,Inconnu,75.01,10095,698.1,Logiciels non patchés,EDR
+Royaume-Uni,2024,Ransomware,Énergie,Groupe de hackers,81.98,1861,676.6,API non sécurisée,Analyse forensique
+États-Unis,2024,DDoS,Télécommunications,Insider,8.78,286730,14.6,API non sécurisée,IDS/IPS
+Ukraine,2024,Zero-Day,Technologie,Groupe de hackers,679.83,6801,457.9,Mots de passe faibles,EDR
+Australie,2024,Malware,Technologie,Cybercriminels,9.28,4184,168.0,Logiciels non patchés,Segmentation réseau
+France,2024,Ransomware,Technologie,Inconnu,92.24,626972,36.4,API non sécurisée,Segmentation réseau
+Australie,2024,Malware,Finance,Cybercriminels,93.05,117634,26.4,Accès non autorisé,Segmentation réseau
+Russie,2024,Ransomware,Transport,Groupe de hackers,337.62,24266,519.2,Ingénierie sociale,EDR
+Inde,2024,Ransomware,Commerce,Insider,259.03,124,78.4,Ingénierie sociale,Sauvegarde et restauration
+Russie,2024,Phishing,Défense,Hacktivistes,49.73,319,34.0,API non sécurisée,Authentification multifacteur
+États-Unis,2024,Phishing,Énergie,Cybercriminels,17.64,52377,70.2,Logiciels non patchés,Sauvegarde et restauration
+Chine,2024,DDoS,Énergie,Groupe de hackers,25.67,16757,140.4,Absence de chiffrement,Pare-feu
+Turquie,2024,Injection SQL,Technologie,Groupe de hackers,17.02,641506,16.6,Logiciels non patchés,IDS/IPS
+Royaume-Uni,2024,Ransomware,Technologie,Insider,122.25,7699,555.8,Logiciels non patchés,IDS/IPS
+Inde,2024,Phishing,Commerce,Insider,77.63,362201,100.9,Ingénierie sociale,SIEM
+Égypte,2024,Spear Phishing,Technologie,Cybercriminels,99.62,434,98.1,Mauvaise configuration,Sauvegarde et restauration
+Australie,2024,Ransomware,Finance,Nation-État,156.47,5038,635.0,API non sécurisée,Segmentation réseau
+Canada,2024,Phishing,Santé,Cybercriminels,106.99,696,155.3,Ingénierie sociale,SIEM
+Japon,2024,Zero-Day,Finance,Groupe de hackers,727.14,27643,403.1,Accès non autorisé,Chiffrement
+Russie,2024,Zero-Day,Gouvernement,Nation-État,777.67,254,407.6,Mots de passe faibles,Sauvegarde et restauration
+Canada,2024,Zero-Day,Finance,Groupe de hackers,407.97,12885068,466.3,Accès non autorisé,SIEM
+Espagne,2024,Ransomware,Gouvernement,Nation-État,121.02,12604,81.1,Ingénierie sociale,SIEM
+Brésil,2024,Ransomware,Technologie,Cybercriminels,332.59,1076,529.2,Ingénierie sociale,Formation et sensibilisation
+Brésil,2024,Phishing,Gouvernement,Cybercriminels,20.05,6564,12.4,Vulnérabilité zero-day,Sauvegarde et restauration
+Pays-Bas,2024,Phishing,Éducation,Groupe de hackers,17.65,1002840,61.7,API non sécurisée,Authentification multifacteur
+Canada,2024,Ransomware,Gouvernement,Inconnu,186.21,3713,161.6,Logiciels non patchés,Authentification multifacteur
+France,2024,Ransomware,Gouvernement,Cybercriminels,25.62,9310,65.5,Logiciels non patchés,Pare-feu
+Italie,2024,Spear Phishing,Gouvernement,Nation-État,113.99,17,54.7,Vulnérabilité zero-day,Sauvegarde et restauration
+Corée du Sud,2024,DDoS,Commerce,Cybercriminels,55.68,1295281,159.3,Accès non autorisé,Sauvegarde et restauration
+Pologne,2024,Zero-Day,Énergie,Nation-État,200.91,775,392.3,Absence de chiffrement,Pare-feu
+Singapour,2024,Phishing,Gouvernement,Hacktivistes,100.90,4934,118.2,Vulnérabilité zero-day,Sauvegarde et restauration
+Égypte,2024,Ransomware,Technologie,Insider,284.05,36018,60.6,Mauvaise configuration,IDS/IPS
+Ukraine,2024,Malware,Santé,Insider,155.84,3906,90.9,Mots de passe faibles,Analyse forensique
+Malaisie,2024,Ransomware,Finance,Groupe de hackers,30.44,70,557.5,Absence de chiffrement,Segmentation réseau
+Russie,2024,Spear Phishing,Télécommunications,Insider,146.01,22,43.7,Logiciels non patchés,SIEM
+Chine,2024,Ransomware,Éducation,Groupe de hackers,291.59,4349,272.7,Absence de chiffrement,Chiffrement
+Ukraine,2024,Phishing,Finance,Nation-État,99.17,22290,157.7,API non sécurisée,IDS/IPS
+Chine,2024,Ransomware,Télécommunications,Cybercriminels,404.00,2478,357.2,Logiciels non patchés,IDS/IPS
+Russie,2024,Phishing,Technologie,Groupe de hackers,38.23,96938,138.2,Mots de passe faibles,Pare-feu
+France,2024,Phishing,Santé,Cybercriminels,5.51,1782985,10.5,Absence de chiffrement,EDR
+Japon,2024,Zero-Day,Santé,Groupe de hackers,263.04,434427,217.7,Accès non autorisé,Pare-feu
+Espagne,2024,Phishing,Gouvernement,Cybercriminels,115.01,4010,53.4,API non sécurisée,Analyse forensique
+Inde,2024,DDoS,Transport,Hacktivistes,16.86,5940,125.5,Vulnérabilité zero-day,IDS/IPS
+Royaume-Uni,2024,Phishing,Éducation,Inconnu,107.69,2921,18.9,Absence de chiffrement,IDS/IPS
+Indonésie,2024,Spear Phishing,Énergie,Nation-État,191.78,3099,136.2,Logiciels non patchés,EDR
+États-Unis,2024,Ransomware,Santé,Cybercriminels,196.46,139959,244.9,Logiciels non patchés,SIEM
+Malaisie,2024,Spear Phishing,Télécommunications,Groupe de hackers,40.48,28,133.5,Accès non autorisé,Pare-feu
+Indonésie,2024,Malware,Commerce,Groupe de hackers,159.46,81690,136.5,Logiciels non patchés,Analyse forensique
+États-Unis,2024,Malware,Transport,Hacktivistes,122.50,692125,48.0,Mots de passe faibles,Pare-feu
+Brésil,2024,Malware,Technologie,Groupe de hackers,180.56,1093,6.1,API non sécurisée,Chiffrement
+États-Unis,2024,Ransomware,Éducation,Insider,40.07,266349,188.0,Logiciels non patchés,Analyse forensique
+Corée du Sud,2024,Ransomware,Technologie,Insider,300.00,207566,632.2,Logiciels non patchés,EDR
+Colombie,2024,Spear Phishing,Technologie,Cybercriminels,62.99,2291,147.0,Ingénierie sociale,Chiffrement
+Japon,2024,Phishing,Télécommunications,Nation-État,110.86,20957,13.4,Mauvaise configuration,Sauvegarde et restauration
+Ukraine,2024,Man-in-the-Middle,Commerce,Nation-État,31.14,21,122.5,Mauvaise configuration,Segmentation réseau
+Russie,2024,Ransomware,Commerce,Groupe de hackers,353.87,403853,458.3,Absence de chiffrement,EDR
+Australie,2024,Phishing,Commerce,Groupe de hackers,108.88,4381,31.6,Mauvaise configuration,Chiffrement
+Corée du Sud,2024,Zero-Day,Santé,Groupe de hackers,39.73,720121,354.1,Mauvaise configuration,Formation et sensibilisation
+Russie,2024,DDoS,Technologie,Insider,17.12,3372,163.4,Mauvaise configuration,EDR
+Italie,2024,Zero-Day,Télécommunications,Groupe de hackers,987.41,38743,440.8,API non sécurisée,Analyse forensique
+Russie,2024,Ransomware,Santé,Cybercriminels,288.71,65670,496.0,Mauvaise configuration,Sauvegarde et restauration
+États-Unis,2024,Spear Phishing,Finance,Inconnu,30.27,77,32.1,Accès non autorisé,Pare-feu
+Royaume-Uni,2024,Zero-Day,Santé,Groupe de hackers,200.61,249032,332.6,Absence de chiffrement,SIEM
+Corée du Sud,2024,Ransomware,Commerce,Hacktivistes,140.10,153,343.8,Absence de chiffrement,EDR
+Israël,2024,Phishing,Santé,Hacktivistes,86.17,2131,19.4,Mots de passe faibles,Formation et sensibilisation
+Japon,2024,Ransomware,Énergie,Groupe de hackers,131.00,907720,41.2,Logiciels non patchés,EDR
+Corée du Sud,2024,Phishing,Santé,Nation-État,33.04,3685637,100.8,Logiciels non patchés,Analyse forensique
+Inde,2024,Spear Phishing,Finance,Cybercriminels,75.27,13346,9.9,Vulnérabilité zero-day,Sauvegarde et restauration
+Australie,2024,Spear Phishing,Commerce,Groupe de hackers,72.48,7470,41.2,Vulnérabilité zero-day,Segmentation réseau
+Iran,2024,Ransomware,Santé,Hacktivistes,363.01,220,412.6,Accès non autorisé,Pare-feu
+Royaume-Uni,2024,Ransomware,Santé,Hacktivistes,301.93,6200,546.4,Logiciels non patchés,Segmentation réseau
+Italie,2024,Ransomware,Gouvernement,Groupe de hackers,279.54,209294,443.0,Mots de passe faibles,Sauvegarde et restauration
+Royaume-Uni,2024,Zero-Day,Télécommunications,Cybercriminels,393.37,1714,499.1,Logiciels non patchés,Authentification multifacteur
+Israël,2024,Phishing,Transport,Nation-État,61.88,1406687,95.8,Vulnérabilité zero-day,Analyse forensique
+Arabie Saoudite,2024,Zero-Day,Commerce,Inconnu,875.43,535267,106.3,Mauvaise configuration,Formation et sensibilisation
+Royaume-Uni,2024,Ransomware,Finance,Hacktivistes,103.43,11271,232.3,Vulnérabilité zero-day,SIEM
+Chine,2024,Phishing,Finance,Groupe de hackers,66.50,164,72.6,Logiciels non patchés,Segmentation réseau
+Israël,2024,DDoS,Finance,Groupe de hackers,59.16,3204600,71.7,Accès non autorisé,Formation et sensibilisation
+Italie,2024,Zero-Day,Finance,Groupe de hackers,245.97,186533,415.7,Mauvaise configuration,Analyse forensique
+Inde,2024,Phishing,Transport,Cybercriminels,15.66,116800,21.1,Mots de passe faibles,Pare-feu
+Indonésie,2024,Zero-Day,Éducation,Nation-État,914.02,128035,279.4,API non sécurisée,EDR
+Iran,2024,Phishing,Technologie,Groupe de hackers,42.94,3740,119.4,Absence de chiffrement,EDR
+Ukraine,2024,Phishing,Défense,Nation-État,40.76,918,134.9,Accès non autorisé,Formation et sensibilisation
+Chine,2024,Ransomware,Technologie,Groupe de hackers,455.07,609,350.2,Vulnérabilité zero-day,Chiffrement
+Allemagne,2024,Malware,Gouvernement,Groupe de hackers,131.10,427916,83.1,API non sécurisée,Authentification multifacteur
+Russie,2024,Phishing,Transport,Cybercriminels,69.07,3068858,85.3,Vulnérabilité zero-day,Chiffrement
+Russie,2024,Spear Phishing,Technologie,Insider,202.18,6923,90.3,Logiciels non patchés,Sauvegarde et restauration
+Russie,2024,Ransomware,Télécommunications,Groupe de hackers,464.87,181,233.8,Accès non autorisé,IDS/IPS
+États-Unis,2024,Injection SQL,Finance,Groupe de hackers,81.23,17793844,144.3,API non sécurisée,Formation et sensibilisation
+Ukraine,2024,Man-in-the-Middle,Transport,Nation-État,11.01,104289,41.0,Mauvaise configuration,SIEM
+France,2024,Phishing,Gouvernement,Groupe de hackers,90.29,277,119.9,Vulnérabilité zero-day,Authentification multifacteur
+États-Unis,2024,Ransomware,Technologie,Hacktivistes,287.92,268,631.7,Mots de passe faibles,Sauvegarde et restauration
+Espagne,2024,Ransomware,Santé,Cybercriminels,286.14,449398,246.4,Accès non autorisé,Chiffrement
+États-Unis,2024,Malware,Technologie,Groupe de hackers,32.93,71712,38.3,API non sécurisée,SIEM
+France,2024,Phishing,Gouvernement,Cybercriminels,11.90,77483,64.4,Ingénierie sociale,IDS/IPS

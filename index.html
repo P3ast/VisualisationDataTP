@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="CyberPulse - Dashboard interactif de visualisation des menaces cybersécurité mondiales (2015-2024) réalisé avec D3.js">
+  <title>CyberPulse — Menaces Cyber Mondiales</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="scanlines"></div>
+
+  <header id="header">
+    <div class="header-top">
+      <div class="logo">
+        <span class="logo-icon">◈</span>
+        <h1>CyberPulse</h1>
+        <span class="subtitle">Menaces Cyber Mondiales · 2015–2024</span>
+      </div>
+      <div class="header-status">
+        <span class="status-dot"></span>
+        <span>Surveillance active</span>
+      </div>
+    </div>
+
+    <div id="kpi-container" class="kpi-container">
+      <div class="kpi-card"><span class="kpi-label">Total Incidents</span><span class="kpi-value" id="kpi-total">0</span></div>
+      <div class="kpi-card"><span class="kpi-label">Pertes Financières</span><span class="kpi-value" id="kpi-loss">0 M$</span></div>
+      <div class="kpi-card"><span class="kpi-label">Utilisateurs Affectés</span><span class="kpi-value" id="kpi-users">0</span></div>
+      <div class="kpi-card"><span class="kpi-label">Résolution Moyenne</span><span class="kpi-value" id="kpi-time">0h</span></div>
+    </div>
+
+    <div id="filters" class="filters-bar">
+      <div class="filter-group">
+        <label>Période</label>
+        <select id="filter-year-start"></select>
+        <span class="filter-sep">→</span>
+        <select id="filter-year-end"></select>
+      </div>
+      <div class="filter-group">
+        <label>Type d'attaque</label>
+        <select id="filter-attack"><option value="">Toutes</option></select>
+      </div>
+      <div class="filter-group">
+        <label>Industrie</label>
+        <select id="filter-industry"><option value="">Toutes</option></select>
+      </div>
+      <div class="filter-group">
+        <label>Pays</label>
+        <select id="filter-country"><option value="">Tous</option></select>
+      </div>
+      <button id="btn-reset" class="btn-reset">✕ Réinitialiser</button>
+    </div>
+  </header>
+
+  <main id="dashboard" class="dashboard-grid">
+    <section class="chart-panel" id="panel-map">
+      <div class="panel-header"><h2>🌍 Carte des Menaces</h2><span class="panel-hint">Cliquez sur un pays pour filtrer</span></div>
+      <div class="chart-container" id="chart-map"></div>
+    </section>
+    <section class="chart-panel" id="panel-area">
+      <div class="panel-header"><h2>📈 Évolution Temporelle</h2><span class="panel-hint">Brossez pour sélectionner une période</span></div>
+      <div class="chart-container" id="chart-area"></div>
+    </section>
+    <section class="chart-panel" id="panel-treemap">
+      <div class="panel-header"><h2>🏢 Industries Ciblées</h2><span class="panel-hint">Cliquez pour explorer</span></div>
+      <div class="chart-container" id="chart-treemap"></div>
+    </section>
+    <section class="chart-panel" id="panel-bubble">
+      <div class="panel-header"><h2>💰 Impact Financier</h2><span class="panel-hint">Survolez pour les détails</span></div>
+      <div class="chart-container" id="chart-bubble"></div>
+    </section>
+    <section class="chart-panel" id="panel-radar">
+      <div class="panel-header"><h2>🎯 Profil de Vulnérabilité</h2><span class="panel-hint">Comparez les industries</span></div>
+      <div class="chart-container" id="chart-radar"></div>
+    </section>
+    <section class="chart-panel" id="panel-sankey">
+      <div class="panel-header"><h2>🔗 Flux d'Attaques</h2><span class="panel-hint">Source → Type → Cible</span></div>
+      <div class="chart-container" id="chart-sankey"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>CyberPulse — Projet de visualisation D3.js · Données : Global Cybersecurity Threats 2015–2024</p>
+  </footer>
+
+  <div id="tooltip" class="tooltip"></div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/topojson-client@3"></script>
+  <script src="https://unpkg.com/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
